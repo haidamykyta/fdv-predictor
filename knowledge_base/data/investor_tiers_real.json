@@ -1,0 +1,1397 @@
+{
+  "generated_at": "2026-01-22T14:20:07.934164",
+  "source": "DefiLlama",
+  "investors": [
+    {
+      "name": "Paradigm",
+      "rounds": 94,
+      "total_raised_m": 6486.3,
+      "avg_deal_m": 69.0,
+      "categories": [
+        "L2",
+        "Taxes",
+        "Digital Identity",
+        "MEV",
+        "NFT"
+      ],
+      "tier": 1
+    },
+    {
+      "name": "a16z",
+      "rounds": 96,
+      "total_raised_m": 6191.6,
+      "avg_deal_m": 64.2,
+      "categories": [
+        "L2",
+        "NFT",
+        "Cybersecurity",
+        "Analytics",
+        "Web3"
+      ],
+      "tier": 1
+    },
+    {
+      "name": "Coinbase Ventures",
+      "rounds": 185,
+      "total_raised_m": 4099.5,
+      "avg_deal_m": 22.2,
+      "categories": [
+        "Real Estate",
+        "Taxes",
+        "Cloud Security",
+        "L2",
+        "Digital Identity"
+      ],
+      "tier": 1
+    },
+    {
+      "name": "Pantera Capital",
+      "rounds": 135,
+      "total_raised_m": 3641.6,
+      "avg_deal_m": 27.0,
+      "categories": [
+        "L2",
+        "Digital Identity",
+        "NFT",
+        "Web3",
+        "Unknown"
+      ],
+      "tier": 1
+    },
+    {
+      "name": "Sequoia Capital",
+      "rounds": 28,
+      "total_raised_m": 3393.2,
+      "avg_deal_m": 119.1,
+      "categories": [
+        "Social Platform",
+        "L2",
+        "Infrastructure",
+        "CeFi",
+        "RWA"
+      ],
+      "tier": 1
+    },
+    {
+      "name": "a16z crypto",
+      "rounds": 77,
+      "total_raised_m": 3085.2,
+      "avg_deal_m": 39.8,
+      "categories": [
+        "L2",
+        "Digital Identity",
+        "NFT",
+        "Cybersecurity",
+        "Stablecoin"
+      ],
+      "tier": 1
+    },
+    {
+      "name": "Ribbit Capital",
+      "rounds": 26,
+      "total_raised_m": 3038.0,
+      "avg_deal_m": 114.6,
+      "categories": [
+        "Infrastructure",
+        "CeFi",
+        "Trading",
+        "DeFi",
+        "Scaling Solution"
+      ],
+      "tier": 1
+    },
+    {
+      "name": "Tiger Global Management",
+      "rounds": 16,
+      "total_raised_m": 2972.9,
+      "avg_deal_m": 180.2,
+      "categories": [
+        "Taxes",
+        "Infrastructure",
+        "CeFi",
+        "Smart contract audits",
+        "Analytics"
+      ],
+      "tier": 1
+    },
+    {
+      "name": "Animoca Brands",
+      "rounds": 136,
+      "total_raised_m": 2698.7,
+      "avg_deal_m": 19.8,
+      "categories": [
+        "L2",
+        "Digital Identity",
+        "NFT",
+        "Cybersecurity",
+        "DeSci"
+      ],
+      "tier": 1
+    },
+    {
+      "name": "Dragonfly Capital",
+      "rounds": 101,
+      "total_raised_m": 2536.8,
+      "avg_deal_m": 25.1,
+      "categories": [
+        "Real Estate",
+        "L2",
+        "Taxes",
+        "NFT",
+        "Wallet"
+      ],
+      "tier": 1
+    },
+    {
+      "name": "SoftBank",
+      "rounds": 12,
+      "total_raised_m": 2485.6,
+      "avg_deal_m": 198.8,
+      "categories": [
+        "Infrastructure",
+        "Gaming",
+        "DeFi",
+        "Scaling Solution",
+        "NFT"
+      ],
+      "tier": 1
+    },
+    {
+      "name": "Intercontinental Exchange",
+      "rounds": 3,
+      "total_raised_m": 2482.5,
+      "avg_deal_m": 827.5,
+      "categories": [
+        "CeFi",
+        "Betting"
+      ],
+      "tier": 1
+    },
+    {
+      "name": "DCG",
+      "rounds": 108,
+      "total_raised_m": 2474.6,
+      "avg_deal_m": 22.9,
+      "categories": [
+        "L2",
+        "Digital Identity",
+        "Wallet",
+        "NFT",
+        "Analytics"
+      ],
+      "tier": 1
+    },
+    {
+      "name": "Coatue",
+      "rounds": 16,
+      "total_raised_m": 2424.6,
+      "avg_deal_m": 151.5,
+      "categories": [
+        "L2",
+        "Infrastructure",
+        "Smart contract audits",
+        "Analytics",
+        "Web3"
+      ],
+      "tier": 1
+    },
+    {
+      "name": "Jump Crypto",
+      "rounds": 49,
+      "total_raised_m": 2321.8,
+      "avg_deal_m": 46.9,
+      "categories": [
+        "L2",
+        "Infrastructure",
+        "RWA",
+        "Trading",
+        "Gaming"
+      ],
+      "tier": 1
+    },
+    {
+      "name": "ParaFi Capital",
+      "rounds": 56,
+      "total_raised_m": 2302.6,
+      "avg_deal_m": 40.8,
+      "categories": [
+        "Real Estate",
+        "L2",
+        "MEV",
+        "NFT",
+        "Web3"
+      ],
+      "tier": 1
+    },
+    {
+      "name": "Galaxy Digital",
+      "rounds": 62,
+      "total_raised_m": 2241.0,
+      "avg_deal_m": 35.9,
+      "categories": [
+        "Crypto Intelligence",
+        "NFT",
+        "Cybersecurity",
+        "Wallet",
+        "Analytics"
+      ],
+      "tier": 1
+    },
+    {
+      "name": "Polychain Capital",
+      "rounds": 133,
+      "total_raised_m": 2106.7,
+      "avg_deal_m": 15.8,
+      "categories": [
+        "L2",
+        "Digital Identity",
+        "MEV",
+        "NFT",
+        "Stablecoin"
+      ],
+      "tier": 1
+    },
+    {
+      "name": "Blockchain Capital",
+      "rounds": 78,
+      "total_raised_m": 2053.2,
+      "avg_deal_m": 26.3,
+      "categories": [
+        "L2",
+        "Digital Identity",
+        "NFT",
+        "Analytics",
+        "Unknown"
+      ],
+      "tier": 1
+    },
+    {
+      "name": "Multicoin Capital",
+      "rounds": 78,
+      "total_raised_m": 2043.3,
+      "avg_deal_m": 26.0,
+      "categories": [
+        "L2",
+        "Digital Identity",
+        "NFT",
+        "MEV",
+        "Stablecoin"
+      ],
+      "tier": 1
+    },
+    {
+      "name": "Lightspeed Venture Partners",
+      "rounds": 30,
+      "total_raised_m": 2022.8,
+      "avg_deal_m": 67.4,
+      "categories": [
+        "Social Platform",
+        "L2",
+        "Infrastructure",
+        "Trading",
+        "Smart contract audits"
+      ],
+      "tier": 1
+    },
+    {
+      "name": "Accel",
+      "rounds": 22,
+      "total_raised_m": 1889.7,
+      "avg_deal_m": 85.9,
+      "categories": [
+        "Infrastructure",
+        "CeFi",
+        "Trading",
+        "Gaming",
+        "DeFi"
+      ],
+      "tier": 1
+    },
+    {
+      "name": "Alameda Research",
+      "rounds": 63,
+      "total_raised_m": 1882.5,
+      "avg_deal_m": 29.9,
+      "categories": [
+        "L2",
+        "Infrastructure",
+        "CeFi",
+        "Trading",
+        "Gaming"
+      ],
+      "tier": 1
+    },
+    {
+      "name": "FTX Ventures",
+      "rounds": 19,
+      "total_raised_m": 1632.0,
+      "avg_deal_m": 83.7,
+      "categories": [
+        "Infrastructure",
+        "CeFi",
+        "Gaming",
+        "DeFi",
+        "NFT"
+      ],
+      "tier": 1
+    },
+    {
+      "name": "3AC",
+      "rounds": 20,
+      "total_raised_m": 1625.0,
+      "avg_deal_m": 81.2,
+      "categories": [
+        "Social Platform",
+        "L2",
+        "Infrastructure",
+        "Gaming",
+        "DeFi"
+      ],
+      "tier": 1
+    },
+    {
+      "name": "Founders Fund",
+      "rounds": 32,
+      "total_raised_m": 1534.8,
+      "avg_deal_m": 48.0,
+      "categories": [
+        "L2",
+        "Infrastructure",
+        "CeFi",
+        "Trading",
+        "Gaming"
+      ],
+      "tier": 1
+    },
+    {
+      "name": "Tiger Global",
+      "rounds": 9,
+      "total_raised_m": 1383.1,
+      "avg_deal_m": 153.7,
+      "categories": [
+        "Taxes",
+        "Infrastructure",
+        "L2",
+        "CeFi",
+        "Smart contract audits"
+      ],
+      "tier": 1
+    },
+    {
+      "name": "GSR",
+      "rounds": 72,
+      "total_raised_m": 1356.3,
+      "avg_deal_m": 18.7,
+      "categories": [
+        "L2",
+        "Digital Identity",
+        "Wallet",
+        "NFT",
+        "Stablecoin"
+      ],
+      "tier": 1
+    },
+    {
+      "name": "Temasek",
+      "rounds": 7,
+      "total_raised_m": 1209.5,
+      "avg_deal_m": 161.3,
+      "categories": [
+        "L2",
+        "Infrastructure",
+        "Gaming",
+        "Payments",
+        "Unknown"
+      ],
+      "tier": 1
+    },
+    {
+      "name": "Electric Capital",
+      "rounds": 61,
+      "total_raised_m": 1206.7,
+      "avg_deal_m": 19.8,
+      "categories": [
+        "Social Platform",
+        "L2",
+        "Infrastructure",
+        "CeFi",
+        "Trading"
+      ],
+      "tier": 1
+    },
+    {
+      "name": "Alan Howard",
+      "rounds": 6,
+      "total_raised_m": 1203.8,
+      "avg_deal_m": 200.6,
+      "categories": [
+        "CeFi",
+        "Gaming",
+        "Scaling Solution",
+        "Unknown",
+        "Centralized Exchange"
+      ],
+      "tier": 1
+    },
+    {
+      "name": "Fenbushi Capital",
+      "rounds": 52,
+      "total_raised_m": 1186.8,
+      "avg_deal_m": 22.6,
+      "categories": [
+        "L2",
+        "NFT",
+        "Wallet",
+        "Analytics",
+        "Unknown"
+      ],
+      "tier": 1
+    },
+    {
+      "name": "Arrington XRP Capital",
+      "rounds": 43,
+      "total_raised_m": 1185.7,
+      "avg_deal_m": 27.3,
+      "categories": [
+        "Social Platform",
+        "Infrastructure",
+        "CeFi",
+        "Trading",
+        "Gaming"
+      ],
+      "tier": 1
+    },
+    {
+      "name": "Bessemer Ventures",
+      "rounds": 6,
+      "total_raised_m": 1157.9,
+      "avg_deal_m": 178.1,
+      "categories": [
+        "Infrastructure",
+        "CeFi",
+        "Gaming",
+        "Storage",
+        "DAO infrastructure"
+      ],
+      "tier": 1
+    },
+    {
+      "name": "CoinFund",
+      "rounds": 63,
+      "total_raised_m": 1150.3,
+      "avg_deal_m": 18.3,
+      "categories": [
+        "NFT",
+        "Cybersecurity",
+        "Analytics",
+        "Web3",
+        "Unknown"
+      ],
+      "tier": 1
+    },
+    {
+      "name": "10T Holdings",
+      "rounds": 12,
+      "total_raised_m": 1139.2,
+      "avg_deal_m": 91.1,
+      "categories": [
+        "Infrastructure",
+        "CeFi",
+        "NFT",
+        "News",
+        "Unknown"
+      ],
+      "tier": 1
+    },
+    {
+      "name": "Hack VC",
+      "rounds": 65,
+      "total_raised_m": 1130.0,
+      "avg_deal_m": 17.3,
+      "categories": [
+        "L2",
+        "NFT",
+        "Web3",
+        "Unknown",
+        "AI"
+      ],
+      "tier": 1
+    },
+    {
+      "name": "Eldridge",
+      "rounds": 3,
+      "total_raised_m": 1100.0,
+      "avg_deal_m": 366.7,
+      "categories": [
+        "Unknown",
+        "Infrastructure",
+        "Banking",
+        "Centralized Exchange"
+      ],
+      "tier": 1
+    },
+    {
+      "name": "Tribe Capital",
+      "rounds": 33,
+      "total_raised_m": 1071.8,
+      "avg_deal_m": 32.0,
+      "categories": [
+        "Real Estate",
+        "Infrastructure",
+        "CeFi",
+        "RWA",
+        "Trading"
+      ],
+      "tier": 1
+    },
+    {
+      "name": "Morgan Creek Digital",
+      "rounds": 16,
+      "total_raised_m": 1048.1,
+      "avg_deal_m": 63.5,
+      "categories": [
+        "Infrastructure",
+        "CeFi",
+        "Gaming",
+        "NFT",
+        "Insurance"
+      ],
+      "tier": 1
+    },
+    {
+      "name": "Framework Ventures",
+      "rounds": 83,
+      "total_raised_m": 1039.8,
+      "avg_deal_m": 12.5,
+      "categories": [
+        "L2",
+        "NFT",
+        "Stablecoin",
+        "Web3",
+        "News"
+      ],
+      "tier": 1
+    },
+    {
+      "name": "Blockchain.com Ventures",
+      "rounds": 16,
+      "total_raised_m": 1036.4,
+      "avg_deal_m": 64.8,
+      "categories": [
+        "Social Platform",
+        "Infrastructure",
+        "Trading",
+        "Gaming",
+        "DeFi"
+      ],
+      "tier": 1
+    },
+    {
+      "name": "DeFiance Capital",
+      "rounds": 29,
+      "total_raised_m": 1015.1,
+      "avg_deal_m": 35.0,
+      "categories": [
+        "Social Platform",
+        "L2",
+        "Infrastructure",
+        "Trading",
+        "Gaming"
+      ],
+      "tier": 1
+    },
+    {
+      "name": "Variant Fund",
+      "rounds": 20,
+      "total_raised_m": 1014.4,
+      "avg_deal_m": 49.5,
+      "categories": [
+        "Social Platform",
+        "L2",
+        "Infrastructure",
+        "Centralized Exchange",
+        "CeFi"
+      ],
+      "tier": 1
+    },
+    {
+      "name": "Bain Capital Crypto",
+      "rounds": 35,
+      "total_raised_m": 1006.5,
+      "avg_deal_m": 28.8,
+      "categories": [
+        "Infrastructure",
+        "CeFi",
+        "Trading",
+        "Gaming",
+        "DeFi"
+      ],
+      "tier": 1
+    },
+    {
+      "name": "CMT Digital",
+      "rounds": 52,
+      "total_raised_m": 993.4,
+      "avg_deal_m": 18.9,
+      "categories": [
+        "NFT",
+        "Cybersecurity",
+        "Analytics",
+        "News",
+        "Unknown"
+      ],
+      "tier": 2
+    },
+    {
+      "name": "BlackRock",
+      "rounds": 4,
+      "total_raised_m": 977.2,
+      "avg_deal_m": 217.2,
+      "categories": [
+        "Infrastructure",
+        "CeFi",
+        "RWA",
+        "Payments",
+        "Centralized Exchange"
+      ],
+      "tier": 2
+    },
+    {
+      "name": "Kingsway Capital",
+      "rounds": 17,
+      "total_raised_m": 972.0,
+      "avg_deal_m": 57.2,
+      "categories": [
+        "Infrastructure",
+        "CeFi",
+        "Trading",
+        "Gaming",
+        "Digital Identity"
+      ],
+      "tier": 2
+    },
+    {
+      "name": "Accomplice",
+      "rounds": 27,
+      "total_raised_m": 967.1,
+      "avg_deal_m": 35.2,
+      "categories": [
+        "Infrastructure",
+        "Centralized Exchange",
+        "CeFi",
+        "Trading",
+        "Gaming"
+      ],
+      "tier": 2
+    },
+    {
+      "name": "PayPal Ventures",
+      "rounds": 13,
+      "total_raised_m": 942.8,
+      "avg_deal_m": 72.5,
+      "categories": [
+        "Taxes",
+        "Infrastructure",
+        "CeFi",
+        "Wallet",
+        "Payments"
+      ],
+      "tier": 2
+    },
+    {
+      "name": "Sino Global Capital",
+      "rounds": 10,
+      "total_raised_m": 930.4,
+      "avg_deal_m": 93.0,
+      "categories": [
+        "Infrastructure",
+        "Trading",
+        "DeFi",
+        "Scaling Solution",
+        "Insurance"
+      ],
+      "tier": 2
+    },
+    {
+      "name": "Tether",
+      "rounds": 15,
+      "total_raised_m": 919.5,
+      "avg_deal_m": 61.3,
+      "categories": [
+        "Social Platform",
+        "Infrastructure",
+        "CeFi",
+        "RWA",
+        "Bitcoin infrastructure"
+      ],
+      "tier": 2
+    },
+    {
+      "name": "Republic Capital",
+      "rounds": 17,
+      "total_raised_m": 918.4,
+      "avg_deal_m": 54.0,
+      "categories": [
+        "L2",
+        "Infrastructure",
+        "Gaming",
+        "DeFi",
+        "Storage"
+      ],
+      "tier": 2
+    },
+    {
+      "name": "Jump Capital",
+      "rounds": 30,
+      "total_raised_m": 894.1,
+      "avg_deal_m": 29.3,
+      "categories": [
+        "Infrastructure",
+        "Trading",
+        "Gaming",
+        "AI",
+        "DeFi"
+      ],
+      "tier": 2
+    },
+    {
+      "name": "The Spartan Group",
+      "rounds": 63,
+      "total_raised_m": 891.0,
+      "avg_deal_m": 14.0,
+      "categories": [
+        "L2",
+        "Crypto Intelligence",
+        "Digital Identity",
+        "NFT",
+        "Analytics"
+      ],
+      "tier": 2
+    },
+    {
+      "name": "Amber Group",
+      "rounds": 57,
+      "total_raised_m": 889.7,
+      "avg_deal_m": 15.5,
+      "categories": [
+        "L2",
+        "Digital Identity",
+        "NFT",
+        "Analytics",
+        "Web3"
+      ],
+      "tier": 2
+    },
+    {
+      "name": "Anthos Capital",
+      "rounds": 5,
+      "total_raised_m": 874.9,
+      "avg_deal_m": 159.1,
+      "categories": [
+        "CeFi",
+        "Trading",
+        "Gaming",
+        "Payments",
+        "Game"
+      ],
+      "tier": 2
+    },
+    {
+      "name": "Big Brain Holdings",
+      "rounds": 63,
+      "total_raised_m": 868.3,
+      "avg_deal_m": 13.8,
+      "categories": [
+        "L2",
+        "NFT",
+        "DeSci",
+        "L3",
+        "Analytics"
+      ],
+      "tier": 2
+    },
+    {
+      "name": "Polychain",
+      "rounds": 18,
+      "total_raised_m": 865.3,
+      "avg_deal_m": 48.1,
+      "categories": [
+        "Social Platform",
+        "Infrastructure",
+        "DeFi",
+        "Scaling Solution",
+        "Liquid Staking Protocol"
+      ],
+      "tier": 2
+    },
+    {
+      "name": "VanEck",
+      "rounds": 12,
+      "total_raised_m": 835.6,
+      "avg_deal_m": 69.6,
+      "categories": [
+        "RWA",
+        "Trading",
+        "DeFi",
+        "Payments",
+        "Wallet"
+      ],
+      "tier": 2
+    },
+    {
+      "name": "FinTech Collective",
+      "rounds": 12,
+      "total_raised_m": 832.1,
+      "avg_deal_m": 69.3,
+      "categories": [
+        "Infrastructure",
+        "CeFi",
+        "Trading",
+        "DeFi",
+        "Liquid Staking Protocol"
+      ],
+      "tier": 2
+    },
+    {
+      "name": "Binance Labs",
+      "rounds": 99,
+      "total_raised_m": 828.2,
+      "avg_deal_m": 8.3,
+      "categories": [
+        "Taxes",
+        "L2",
+        "Digital Identity",
+        "Crypto Intelligence",
+        "NFT"
+      ],
+      "tier": 2
+    },
+    {
+      "name": "Liberty City Ventures",
+      "rounds": 18,
+      "total_raised_m": 817.2,
+      "avg_deal_m": 45.4,
+      "categories": [
+        "Infrastructure",
+        "CeFi",
+        "Gaming",
+        "Digital Identity",
+        "NFT"
+      ],
+      "tier": 2
+    },
+    {
+      "name": "Circle Ventures",
+      "rounds": 36,
+      "total_raised_m": 802.7,
+      "avg_deal_m": 22.0,
+      "categories": [
+        "L2",
+        "NFT",
+        "Cybersecurity",
+        "Stablecoin",
+        "Unknown"
+      ],
+      "tier": 2
+    },
+    {
+      "name": "IDG Capital",
+      "rounds": 26,
+      "total_raised_m": 795.1,
+      "avg_deal_m": 30.0,
+      "categories": [
+        "Digital Identity",
+        "NFT",
+        "Web3",
+        "Unknown",
+        "AI"
+      ],
+      "tier": 2
+    },
+    {
+      "name": "Borderless Capital",
+      "rounds": 60,
+      "total_raised_m": 781.8,
+      "avg_deal_m": 13.0,
+      "categories": [
+        "Taxes",
+        "L2",
+        "NFT",
+        "Cybersecurity",
+        "Stablecoin"
+      ],
+      "tier": 2
+    },
+    {
+      "name": "Alumni Ventures",
+      "rounds": 20,
+      "total_raised_m": 754.8,
+      "avg_deal_m": 37.7,
+      "categories": [
+        "Social Platform",
+        "Infrastructure",
+        "CeFi",
+        "Gaming",
+        "Digital Identity"
+      ],
+      "tier": 2
+    },
+    {
+      "name": "Hashed",
+      "rounds": 70,
+      "total_raised_m": 750.4,
+      "avg_deal_m": 10.7,
+      "categories": [
+        "L2",
+        "Wallet",
+        "NFT",
+        "Stablecoin",
+        "Analytics"
+      ],
+      "tier": 2
+    },
+    {
+      "name": "SV Angel",
+      "rounds": 18,
+      "total_raised_m": 749.5,
+      "avg_deal_m": 40.5,
+      "categories": [
+        "L2",
+        "Infrastructure",
+        "CeFi",
+        "Trading",
+        "DeFi"
+      ],
+      "tier": 2
+    },
+    {
+      "name": "GIC",
+      "rounds": 4,
+      "total_raised_m": 747.5,
+      "avg_deal_m": 166.1,
+      "categories": [
+        "Unknown",
+        "Analytics",
+        "CeFi",
+        "Centralized Exchange"
+      ],
+      "tier": 2
+    },
+    {
+      "name": "Samsung Next",
+      "rounds": 20,
+      "total_raised_m": 747.3,
+      "avg_deal_m": 37.4,
+      "categories": [
+        "Social Platform",
+        "Infrastructure",
+        "Gaming",
+        "L1",
+        "Stablecoin Infrastructure"
+      ],
+      "tier": 2
+    },
+    {
+      "name": "Greenoaks Capital",
+      "rounds": 4,
+      "total_raised_m": 745.5,
+      "avg_deal_m": 165.7,
+      "categories": [
+        "Gaming",
+        "L2",
+        "Banking",
+        "L1"
+      ],
+      "tier": 2
+    },
+    {
+      "name": "Galaxy Interactive",
+      "rounds": 23,
+      "total_raised_m": 732.9,
+      "avg_deal_m": 31.9,
+      "categories": [
+        "Social Platform",
+        "Infrastructure",
+        "Gaming",
+        "Scaling Solution",
+        "NFT"
+      ],
+      "tier": 2
+    },
+    {
+      "name": "Haun Ventures",
+      "rounds": 24,
+      "total_raised_m": 712.6,
+      "avg_deal_m": 29.7,
+      "categories": [
+        "Social Platform",
+        "Infrastructure",
+        "CeFi",
+        "RWA",
+        "Gaming"
+      ],
+      "tier": 2
+    },
+    {
+      "name": "Benchmark",
+      "rounds": 7,
+      "total_raised_m": 708.6,
+      "avg_deal_m": 101.2,
+      "categories": [
+        "Social Platform",
+        "Trading",
+        "Gaming",
+        "L1",
+        "NFT"
+      ],
+      "tier": 2
+    },
+    {
+      "name": "USV",
+      "rounds": 27,
+      "total_raised_m": 704.9,
+      "avg_deal_m": 26.1,
+      "categories": [
+        "Social Platform",
+        "Infrastructure",
+        "Trading",
+        "Storage",
+        "DeFi"
+      ],
+      "tier": 2
+    },
+    {
+      "name": "Castle Island Ventures",
+      "rounds": 44,
+      "total_raised_m": 702.0,
+      "avg_deal_m": 16.0,
+      "categories": [
+        "Taxes",
+        "L2",
+        "NFT",
+        "Stablecoin",
+        "Analytics"
+      ],
+      "tier": 2
+    },
+    {
+      "name": "OKX Ventures",
+      "rounds": 62,
+      "total_raised_m": 668.6,
+      "avg_deal_m": 10.8,
+      "categories": [
+        "L2",
+        "Digital Identity",
+        "NFT",
+        "Cybersecurity",
+        "Analytics"
+      ],
+      "tier": 2
+    },
+    {
+      "name": "DRW Venture Capital",
+      "rounds": 9,
+      "total_raised_m": 660.6,
+      "avg_deal_m": 69.5,
+      "categories": [
+        "Infrastructure",
+        "CeFi",
+        "Trading",
+        "Cybersecurity",
+        "Unknown"
+      ],
+      "tier": 2
+    },
+    {
+      "name": "Spark Capital",
+      "rounds": 6,
+      "total_raised_m": 658.6,
+      "avg_deal_m": 109.8,
+      "categories": [
+        "Infrastructure",
+        "DeFi",
+        "NFT",
+        "Payments",
+        "Unknown"
+      ],
+      "tier": 2
+    },
+    {
+      "name": "Solana Ventures",
+      "rounds": 32,
+      "total_raised_m": 655.4,
+      "avg_deal_m": 20.5,
+      "categories": [
+        "Real Estate",
+        "Infrastructure",
+        "CeFi",
+        "Gaming",
+        "DeFi"
+      ],
+      "tier": 2
+    },
+    {
+      "name": "Draper Associates",
+      "rounds": 34,
+      "total_raised_m": 649.8,
+      "avg_deal_m": 19.1,
+      "categories": [
+        "L2",
+        "Infrastructure",
+        "Trading",
+        "DeFi",
+        "Payments"
+      ],
+      "tier": 2
+    },
+    {
+      "name": "Standard Crypto",
+      "rounds": 13,
+      "total_raised_m": 647.9,
+      "avg_deal_m": 48.0,
+      "categories": [
+        "Social Platform",
+        "L2",
+        "Infrastructure",
+        "Gaming",
+        "DeFi"
+      ],
+      "tier": 2
+    },
+    {
+      "name": "Goldman Sachs",
+      "rounds": 8,
+      "total_raised_m": 643.5,
+      "avg_deal_m": 80.4,
+      "categories": [
+        "Infrastructure",
+        "CeFi",
+        "Payments",
+        "Analytics",
+        "Unknown"
+      ],
+      "tier": 2
+    },
+    {
+      "name": "Gate Ventures",
+      "rounds": 40,
+      "total_raised_m": 637.7,
+      "avg_deal_m": 15.9,
+      "categories": [
+        "L2",
+        "Digital Identity",
+        "Stablecoin",
+        "Unknown",
+        "AI"
+      ],
+      "tier": 2
+    },
+    {
+      "name": "Robot Ventures",
+      "rounds": 66,
+      "total_raised_m": 637.0,
+      "avg_deal_m": 9.7,
+      "categories": [
+        "L2",
+        "Digital Identity",
+        "MEV",
+        "NFT",
+        "Analytics"
+      ],
+      "tier": 2
+    },
+    {
+      "name": "DST Global",
+      "rounds": 4,
+      "total_raised_m": 636.5,
+      "avg_deal_m": 141.4,
+      "categories": [
+        "Unknown",
+        "CeFi",
+        "Centralized Exchange"
+      ],
+      "tier": 2
+    },
+    {
+      "name": "Brevan Howard Digital",
+      "rounds": 19,
+      "total_raised_m": 632.3,
+      "avg_deal_m": 32.4,
+      "categories": [
+        "Oracle",
+        "Infrastructure",
+        "L2",
+        "Trading",
+        "Gaming"
+      ],
+      "tier": 2
+    },
+    {
+      "name": "Sequoia Capital India",
+      "rounds": 7,
+      "total_raised_m": 620.2,
+      "avg_deal_m": 82.7,
+      "categories": [
+        "Infrastructure",
+        "Trading",
+        "Gaming",
+        "Scaling Solution",
+        "DeFi"
+      ],
+      "tier": 2
+    },
+    {
+      "name": "Distributed Global",
+      "rounds": 27,
+      "total_raised_m": 616.5,
+      "avg_deal_m": 22.4,
+      "categories": [
+        "Social Platform",
+        "L2",
+        "Infrastructure",
+        "CeFi",
+        "Trading"
+      ],
+      "tier": 2
+    },
+    {
+      "name": "NGC Ventures",
+      "rounds": 57,
+      "total_raised_m": 614.7,
+      "avg_deal_m": 10.8,
+      "categories": [
+        "L2",
+        "Digital Identity",
+        "NFT",
+        "Analytics",
+        "Web3"
+      ],
+      "tier": 2
+    },
+    {
+      "name": "Arca",
+      "rounds": 19,
+      "total_raised_m": 607.2,
+      "avg_deal_m": 32.0,
+      "categories": [
+        "Infrastructure",
+        "Trading",
+        "Gaming",
+        "DeFi",
+        "MEV"
+      ],
+      "tier": 2
+    },
+    {
+      "name": "Griffin Gaming Partners",
+      "rounds": 4,
+      "total_raised_m": 604.8,
+      "avg_deal_m": 134.4,
+      "categories": [
+        "Gaming",
+        "Infrastructure",
+        "Game",
+        "L1"
+      ],
+      "tier": 2
+    },
+    {
+      "name": "Foresight Ventures",
+      "rounds": 39,
+      "total_raised_m": 592.0,
+      "avg_deal_m": 15.0,
+      "categories": [
+        "L2",
+        "Digital Identity",
+        "NFT",
+        "DeSci",
+        "L3"
+      ],
+      "tier": 2
+    },
+    {
+      "name": "Mirana Ventures",
+      "rounds": 49,
+      "total_raised_m": 590.8,
+      "avg_deal_m": 12.1,
+      "categories": [
+        "L2",
+        "NFT",
+        "DeSci",
+        "Analytics",
+        "Web3"
+      ],
+      "tier": 2
+    },
+    {
+      "name": "1kx",
+      "rounds": 62,
+      "total_raised_m": 590.0,
+      "avg_deal_m": 9.5,
+      "categories": [
+        "L2",
+        "Taxes",
+        "NFT",
+        "Wallet",
+        "Analytics"
+      ],
+      "tier": 2
+    },
+    {
+      "name": "General Catalyst",
+      "rounds": 16,
+      "total_raised_m": 588.9,
+      "avg_deal_m": 36.8,
+      "categories": [
+        "Social Platform",
+        "Infrastructure",
+        "CeFi",
+        "Trading",
+        "DeFi"
+      ],
+      "tier": 2
+    },
+    {
+      "name": "SCB 10X",
+      "rounds": 7,
+      "total_raised_m": 586.6,
+      "avg_deal_m": 83.8,
+      "categories": [
+        "Infrastructure",
+        "Centralized Exchange",
+        "CeFi",
+        "L1",
+        "Stablecoin"
+      ],
+      "tier": 2
+    },
+    {
+      "name": "Sound Ventures",
+      "rounds": 11,
+      "total_raised_m": 584.4,
+      "avg_deal_m": 53.1,
+      "categories": [
+        "Social Platform",
+        "Infrastructure",
+        "CeFi",
+        "Digital Identity",
+        "NFT"
+      ],
+      "tier": 2
+    },
+    {
+      "name": "Kraken Ventures",
+      "rounds": 22,
+      "total_raised_m": 583.1,
+      "avg_deal_m": 25.9,
+      "categories": [
+        "L2",
+        "Infrastructure",
+        "CeFi",
+        "Trading",
+        "Gaming"
+      ],
+      "tier": 2
+    }
+  ]
+}

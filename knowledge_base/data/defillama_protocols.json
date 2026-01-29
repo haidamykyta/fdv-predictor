@@ -1,0 +1,3864 @@
+{
+  "collected_at": "2026-01-22T14:14:39.023798",
+  "count": 200,
+  "with_fdv": 0,
+  "protocols": [
+    {
+      "id": "binance-cex",
+      "name": "Binance CEX",
+      "symbol": "-",
+      "category": "CEX",
+      "chains": [
+        "Ethereum",
+        "Bitcoin",
+        "Binance",
+        "Ripple",
+        "Tron",
+        "Solana",
+        "Doge",
+        "Base",
+        "Arbitrum",
+        "Avalanche",
+        "Litecoin",
+        "TON",
+        "Hedera",
+        "Aptos",
+        "Near",
+        "Polygon",
+        "Optimism",
+        "Chiliz",
+        "Sonic",
+        "Plasma",
+        "Op_Bnb",
+        "Stellar",
+        "Algorand",
+        "Celo",
+        "Ronin",
+        "zkSync Era",
+        "Starknet",
+        "Manta",
+        "Scroll",
+        "Polkadot",
+        "Sui",
+        "Fantom"
+      ],
+      "tvl": 167430304068.09995,
+      "mcap": 121713694967.99167,
+      "fdv": null,
+      "change_1d": 1.2182082520675266,
+      "change_7d": -5.893398880857674
+    },
+    {
+      "id": "aave-v3",
+      "name": "Aave V3",
+      "symbol": "AAVE",
+      "category": "Lending",
+      "chains": [
+        "Ethereum",
+        "Plasma",
+        "Arbitrum",
+        "Base",
+        "Avalanche",
+        "Binance",
+        "Polygon",
+        "Linea",
+        "Optimism",
+        "xDai",
+        "Sonic",
+        "Celo",
+        "Scroll",
+        "zkSync Era",
+        "Soneium",
+        "Metis",
+        "Fantom",
+        "Harmony"
+      ],
+      "tvl": 32943958835.691463,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 1.476235788874618,
+      "change_7d": -7.943154142944735
+    },
+    {
+      "id": "lido",
+      "name": "Lido",
+      "symbol": "LDO",
+      "category": "Liquid Staking",
+      "chains": [
+        "Ethereum",
+        "Solana",
+        "Moonbeam",
+        "Moonriver",
+        "Terra"
+      ],
+      "tvl": 27671555899.01901,
+      "mcap": 447678012.53792936,
+      "fdv": null,
+      "change_1d": 1.402429779801409,
+      "change_7d": -7.902761437698942
+    },
+    {
+      "id": "okx",
+      "name": "OKX",
+      "symbol": "-",
+      "category": "CEX",
+      "chains": [
+        "Ethereum",
+        "Bitcoin",
+        "Solana",
+        "Doge",
+        "Tron",
+        "Litecoin",
+        "Ripple",
+        "Aptos",
+        "Linea",
+        "Optimism",
+        "Arbitrum",
+        "TON",
+        "Base",
+        "zkSync Era",
+        "Starknet",
+        "Scroll",
+        "Avalanche",
+        "Polygon",
+        "Polkadot"
+      ],
+      "tvl": 22749211107.161976,
+      "mcap": 2171762589.7096205,
+      "fdv": null,
+      "change_1d": 1.124521817489594,
+      "change_7d": -4.76267216571695
+    },
+    {
+      "id": "bitfinex",
+      "name": "Bitfinex",
+      "symbol": "-",
+      "category": "CEX",
+      "chains": [
+        "Bitcoin",
+        "Ethereum",
+        "Solana",
+        "Tron",
+        "Avalanche",
+        "Polygon",
+        "Litecoin",
+        "Tezos",
+        "Near",
+        "Cosmos",
+        "Algorand",
+        "EOS",
+        "Aptos",
+        "Elrond",
+        "Cardano",
+        "EthereumClassic",
+        "Fantom",
+        "Zilliqa",
+        "Polkadot",
+        "Doge"
+      ],
+      "tvl": 20072167743.122,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 1.2697622047959953,
+      "change_7d": -5.787039416739404
+    },
+    {
+      "id": "bybit",
+      "name": "Bybit",
+      "symbol": "-",
+      "category": "CEX",
+      "chains": [
+        "Ethereum",
+        "Bitcoin",
+        "Tron",
+        "Solana",
+        "Mantle",
+        "Ripple",
+        "Binance",
+        "Avalanche",
+        "Doge",
+        "Aptos",
+        "Litecoin",
+        "Polygon",
+        "Arbitrum",
+        "Hyperliquid L1",
+        "Optimism",
+        "Base",
+        "Linea",
+        "Klaytn",
+        "Kava",
+        "zkSync Era",
+        "Cardano",
+        "Cosmos",
+        "TON",
+        "dYdX",
+        "Sonic",
+        "Arbitrum Nova",
+        "Celo",
+        "Plasma",
+        "EOS",
+        "Manta",
+        "Starknet",
+        "Scroll",
+        "Taiko",
+        "Fantom",
+        "Polkadot"
+      ],
+      "tvl": 18525640482.44613,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 2.857619911230273,
+      "change_7d": -4.564404118850405
+    },
+    {
+      "id": "robinhood",
+      "name": "Robinhood",
+      "symbol": "-",
+      "category": "CEX",
+      "chains": [
+        "Bitcoin",
+        "Ethereum",
+        "Avalanche",
+        "Polygon"
+      ],
+      "tvl": 16644597640.415033,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 0.9040519284293254,
+      "change_7d": -8.119757190081316
+    },
+    {
+      "id": "eigencloud",
+      "name": "EigenCloud",
+      "symbol": "EIGEN",
+      "category": "Restaking",
+      "chains": [
+        "Ethereum"
+      ],
+      "tvl": 13245087233.876602,
+      "mcap": 184465883.9443529,
+      "fdv": null,
+      "change_1d": 1.852981137742347,
+      "change_7d": -8.710018850620997
+    },
+    {
+      "id": "wbtc",
+      "name": "WBTC",
+      "symbol": "-",
+      "category": "Bridge",
+      "chains": [
+        "Bitcoin"
+      ],
+      "tvl": 11129505315.029108,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 0.9449211807591098,
+      "change_7d": -7.186778999995312
+    },
+    {
+      "id": "binance-staked-eth",
+      "name": "Binance staked ETH",
+      "symbol": "-",
+      "category": "Liquid Staking",
+      "chains": [
+        "Ethereum",
+        "Binance"
+      ],
+      "tvl": 10932536824.108147,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 0.7714047610804613,
+      "change_7d": -11.062502863672279
+    },
+    {
+      "id": "ether.fi-stake",
+      "name": "ether.fi Stake",
+      "symbol": "ETHFI",
+      "category": "Liquid Restaking",
+      "chains": [
+        "Ethereum",
+        "Base",
+        "Arbitrum"
+      ],
+      "tvl": 8641100239.509092,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 2.074373960788421,
+      "change_7d": -8.562385870032045
+    },
+    {
+      "id": "bitget",
+      "name": "Bitget",
+      "symbol": "-",
+      "category": "CEX",
+      "chains": [
+        "Bitcoin",
+        "Ethereum",
+        "Binance",
+        "Tron",
+        "Solana",
+        "Ripple",
+        "Arbitrum",
+        "Polygon",
+        "Cardano",
+        "Avalanche",
+        "Base",
+        "TON",
+        "Cronos",
+        "Optimism",
+        "Sonic",
+        "Starknet",
+        "Sui",
+        "Metis",
+        "Klaytn",
+        "zkSync Era",
+        "Fantom",
+        "Kava",
+        "Hyperliquid L1"
+      ],
+      "tvl": 7395510207.225835,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 0.2840316225076265,
+      "change_7d": -2.1988684506564056
+    },
+    {
+      "id": "gemini",
+      "name": "Gemini",
+      "symbol": "-",
+      "category": "CEX",
+      "chains": [
+        "Bitcoin",
+        "Ethereum"
+      ],
+      "tvl": 7327867617.03307,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 0.32909748417009155,
+      "change_7d": -8.61489319705666
+    },
+    {
+      "id": "morpho-v1",
+      "name": "Morpho V1",
+      "symbol": "MORPHO",
+      "category": "Lending",
+      "chains": [
+        "Ethereum",
+        "Base",
+        "Hyperliquid L1",
+        "Katana",
+        "Arbitrum",
+        "Monad",
+        "Optimism",
+        "World Chain",
+        "Unichain",
+        "Polygon",
+        "Plume Mainnet",
+        "Sei",
+        "Soneium",
+        "Etherlink",
+        "Lisk",
+        "Hemi",
+        "TAC",
+        "Corn",
+        "Abstract",
+        "Scroll",
+        "Stable",
+        "Fraxtal",
+        "Sonic",
+        "Botanix",
+        "Binance",
+        "Ink",
+        "xDai",
+        "Zircuit",
+        "Linea",
+        "Bitlayer",
+        "Mode"
+      ],
+      "tvl": 6747756847.314274,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 2.438769135514576,
+      "change_7d": -1.0850701474986408
+    },
+    {
+      "id": "coinbase-bridge",
+      "name": "Coinbase Bridge",
+      "symbol": "-",
+      "category": "Bridge",
+      "chains": [
+        "Bitcoin",
+        "Ripple",
+        "Doge",
+        "Cardano",
+        "Litecoin"
+      ],
+      "tvl": 6590130422.9834795,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 0.8587134853984537,
+      "change_7d": 8634.17393674506
+    },
+    {
+      "id": "ethena-usde",
+      "name": "Ethena USDe",
+      "symbol": "ENA",
+      "category": "Basis Trading",
+      "chains": [
+        "Ethereum"
+      ],
+      "tvl": 6567318686.639234,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 1.534909135118781,
+      "change_7d": 1.5834260434288439
+    },
+    {
+      "id": "sky-lending",
+      "name": "Sky Lending",
+      "symbol": "SKY",
+      "category": "CDP",
+      "chains": [
+        "Ethereum"
+      ],
+      "tvl": 6265915924.613975,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": -2.1649188731729794,
+      "change_7d": -7.28146871309248
+    },
+    {
+      "id": "htx",
+      "name": "HTX",
+      "symbol": "-",
+      "category": "CEX",
+      "chains": [
+        "Tron",
+        "Ethereum",
+        "Bitcoin",
+        "Ripple",
+        "Doge",
+        "Solana",
+        "Binance",
+        "Cardano",
+        "Litecoin",
+        "TON",
+        "Avalanche",
+        "Arbitrum",
+        "Sui",
+        "Optimism",
+        "Polygon",
+        "CORE",
+        "EOS",
+        "Starknet",
+        "Algorand"
+      ],
+      "tvl": 6137342512.039733,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 0.7658543415669925,
+      "change_7d": -4.044759851648067
+    },
+    {
+      "id": "binance-bitcoin",
+      "name": "Binance Bitcoin",
+      "symbol": "-",
+      "category": "Bridge",
+      "chains": [
+        "Bitcoin"
+      ],
+      "tvl": 6126922697.463281,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 0.8575913214388606,
+      "change_7d": -7.186778992564797
+    },
+    {
+      "id": "gate",
+      "name": "Gate",
+      "symbol": "GT",
+      "category": "CEX",
+      "chains": [
+        "Ethereum",
+        "Bitcoin",
+        "Solana",
+        "Doge",
+        "Tron",
+        "Binance",
+        "Ripple",
+        "Base",
+        "Litecoin",
+        "Optimism",
+        "Sui",
+        "EthereumClassic",
+        "Cardano",
+        "Manta",
+        "Klaytn",
+        "Arbitrum",
+        "Linea",
+        "Arbitrum Nova",
+        "zkSync Era",
+        "Polygon",
+        "Avalanche",
+        "Cronos",
+        "XDC",
+        "WEMIX",
+        "Aptos",
+        "Sei",
+        "Flare",
+        "Ergo",
+        "Algorand",
+        "VeChain",
+        "Alephium",
+        "Celestia",
+        "Celo",
+        "Chiliz",
+        "CORE",
+        "Injective",
+        "EOS",
+        "Mantle",
+        "Stacks",
+        "dYdX",
+        "Metis",
+        "X Layer",
+        "Cosmos",
+        "Theta",
+        "Radix",
+        "Op_Bnb",
+        "Starknet",
+        "LUKSO",
+        "Harmony",
+        "Moonriver",
+        "XPLA",
+        "Elrond",
+        "Moonbeam",
+        "IoTeX",
+        "REI",
+        "Vana",
+        "Terra",
+        "Shibarium",
+        "Dymension",
+        "ZetaChain",
+        "Bahamut",
+        "Agoric",
+        "Bitkub",
+        "Ronin",
+        "Astar",
+        "ThunderCore",
+        "Fuse",
+        "Osmosis",
+        "Neutron",
+        "ApeChain",
+        "Oasys",
+        "Acala",
+        "Neon",
+        "Tezos",
+        "Merlin",
+        "Aura Network",
+        "Etherlink",
+        "BandChain",
+        "Mode",
+        "Bitlayer",
+        "Boba",
+        "Umee",
+        "Blast",
+        "Matchain",
+        "RSK",
+        "Zircuit",
+        "Bifrost",
+        "Meter",
+        "zkLink",
+        "Aurora",
+        "Taiko",
+        "Bittorrent",
+        "Scroll",
+        "Fantom",
+        "Polygon zkEVM",
+        "ENULS",
+        "BSquared",
+        "EnergyWeb",
+        "AirDAO",
+        "EOS EVM",
+        "Kardia",
+        "Kroma",
+        "Fuel",
+        "Polkadot",
+        "HAQQ",
+        "Songbird",
+        "GoChain",
+        "HPB",
+        "Tenet",
+        "TomoChain",
+        "Naka",
+        "OKExChain"
+      ],
+      "tvl": 6113647328.0819025,
+      "mcap": 1146037187.8947496,
+      "fdv": null,
+      "change_1d": 0.6143312082211594,
+      "change_7d": -14.438731597690577
+    },
+    {
+      "id": "babylon-protocol",
+      "name": "Babylon Protocol",
+      "symbol": "BABY",
+      "category": "Restaking",
+      "chains": [
+        "Bitcoin"
+      ],
+      "tvl": 5500968468.8537,
+      "mcap": 51003749.77801676,
+      "fdv": null,
+      "change_1d": 0.9448841132068111,
+      "change_7d": -7.186300691331212
+    },
+    {
+      "id": "mexc",
+      "name": "MEXC",
+      "symbol": "-",
+      "category": "CEX",
+      "chains": [
+        "Ethereum",
+        "Bitcoin",
+        "Solana",
+        "Ripple",
+        "Tron",
+        "Binance",
+        "Arbitrum",
+        "Aptos",
+        "Avalanche",
+        "Optimism",
+        "TON",
+        "Polygon",
+        "Klaytn",
+        "Base",
+        "Starknet"
+      ],
+      "tvl": 4734247480.062626,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 0.20709842558623848,
+      "change_7d": -2.59316310058135
+    },
+    {
+      "id": "deribit",
+      "name": "Deribit",
+      "symbol": "-",
+      "category": "CEX",
+      "chains": [
+        "Bitcoin",
+        "Ethereum",
+        "Solana",
+        "Ripple",
+        "EthereumPoW",
+        "Binance"
+      ],
+      "tvl": 4728513356.612294,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 5.548862517933159,
+      "change_7d": 6.176815169754363
+    },
+    {
+      "id": "usdt0",
+      "name": "USDT0",
+      "symbol": "-",
+      "category": "Bridge",
+      "chains": [
+        "Ethereum"
+      ],
+      "tvl": 4641437544.148571,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": -1.603137439223545,
+      "change_7d": -1.351879745936131
+    },
+    {
+      "id": "hyperliquid-bridge",
+      "name": "Hyperliquid Bridge",
+      "symbol": "HYPE",
+      "category": "Bridge",
+      "chains": [
+        "Arbitrum",
+        "Hyperliquid L1"
+      ],
+      "tvl": 4355897574.971183,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": -0.2690241841105774,
+      "change_7d": -3.934666707056337
+    },
+    {
+      "id": "arbitrum-bridge",
+      "name": "Arbitrum Bridge",
+      "symbol": "ARB",
+      "category": "Canonical Bridge",
+      "chains": [
+        "Ethereum"
+      ],
+      "tvl": 4318341000.974275,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 0.2287208392797453,
+      "change_7d": -4.013873378793107
+    },
+    {
+      "id": "kucoin",
+      "name": "KuCoin",
+      "symbol": "-",
+      "category": "CEX",
+      "chains": [
+        "Ethereum",
+        "Bitcoin",
+        "Solana",
+        "Ripple",
+        "Tron",
+        "Doge",
+        "Binance",
+        "Cardano",
+        "Avalanche",
+        "Near",
+        "TON",
+        "Polygon",
+        "Optimism",
+        "Kucoin",
+        "Arbitrum",
+        "Base",
+        "Aptos",
+        "EOS",
+        "Kava",
+        "Algorand",
+        "Starknet",
+        "Sui",
+        "Polkadot"
+      ],
+      "tvl": 3806120740.408792,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 0.9590684895522088,
+      "change_7d": -6.323472820841403
+    },
+    {
+      "id": "justlend",
+      "name": "JustLend",
+      "symbol": "JST",
+      "category": "Lending",
+      "chains": [
+        "Tron"
+      ],
+      "tvl": 3765153234.216206,
+      "mcap": 376247251.4375825,
+      "fdv": null,
+      "change_1d": 1.1876975154390408,
+      "change_7d": -6.828996786525124
+    },
+    {
+      "id": "pendle",
+      "name": "Pendle",
+      "symbol": "PENDLE",
+      "category": "Yield",
+      "chains": [
+        "Ethereum",
+        "Plasma",
+        "Arbitrum",
+        "Hyperliquid L1",
+        "Binance",
+        "Base",
+        "Sonic",
+        "Berachain",
+        "Mantle",
+        "Avalanche",
+        "Optimism"
+      ],
+      "tvl": 3453698552.41714,
+      "mcap": 363969805.87090784,
+      "fdv": null,
+      "change_1d": 0.33650487081024494,
+      "change_7d": -1.2147302882699478
+    },
+    {
+      "id": "base-bridge",
+      "name": "Base Bridge",
+      "symbol": "-",
+      "category": "Canonical Bridge",
+      "chains": [
+        "Ethereum"
+      ],
+      "tvl": 3364418046.37111,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 1.5151568911795579,
+      "change_7d": -11.575280713327288
+    },
+    {
+      "id": "sparklend",
+      "name": "SparkLend",
+      "symbol": "SPK",
+      "category": "Lending",
+      "chains": [
+        "Ethereum",
+        "xDai"
+      ],
+      "tvl": 3346904283.2750425,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 0.637888719370423,
+      "change_7d": -8.59604334407868
+    },
+    {
+      "id": "justcryptos",
+      "name": "JustCryptos",
+      "symbol": "JST",
+      "category": "Bridge",
+      "chains": [
+        "Tron"
+      ],
+      "tvl": 3038995476,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 0.7655600715979318,
+      "change_7d": -9.227505250844928
+    },
+    {
+      "id": "crypto-com",
+      "name": "Crypto-com",
+      "symbol": "-",
+      "category": "CEX",
+      "chains": [
+        "Bitcoin",
+        "Ethereum",
+        "Binance",
+        "Polygon",
+        "Avalanche",
+        "Arbitrum",
+        "Fantom",
+        "Optimism"
+      ],
+      "tvl": 2898557188.020158,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 1.4001620069962826,
+      "change_7d": -10.466460123306575
+    },
+    {
+      "id": "maple",
+      "name": "Maple",
+      "symbol": "SYRUP",
+      "category": "Lending",
+      "chains": [
+        "Ethereum",
+        "Solana"
+      ],
+      "tvl": 2617747136.784762,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": -2.6113729135824997,
+      "change_7d": -6.6049648757102375
+    },
+    {
+      "id": "tether-gold",
+      "name": "Tether Gold",
+      "symbol": "XAUT",
+      "category": "RWA",
+      "chains": [
+        "Ethereum",
+        "Plasma",
+        "Avalanche",
+        "Monad",
+        "Celo",
+        "Arbitrum",
+        "Polygon",
+        "Ink"
+      ],
+      "tvl": 2530629239.483032,
+      "mcap": 2511413260.1914454,
+      "fdv": null,
+      "change_1d": -0.7815039976509865,
+      "change_7d": 4.6758795399115485
+    },
+    {
+      "id": "kamino-lend",
+      "name": "Kamino Lend",
+      "symbol": "KMNO",
+      "category": "Lending",
+      "chains": [
+        "Solana"
+      ],
+      "tvl": 2308468304.5814757,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 1.1299322463550965,
+      "change_7d": -3.8010789499492432
+    },
+    {
+      "id": "polygon-bridge-&-staking",
+      "name": "Polygon Bridge & Staking",
+      "symbol": "POL",
+      "category": "Chain",
+      "chains": [
+        "Polygon"
+      ],
+      "tvl": 2270398443.610832,
+      "mcap": 1416388024.0114305,
+      "fdv": null,
+      "change_1d": 2.1549521896292845,
+      "change_7d": -0.6897130603678931
+    },
+    {
+      "id": "uniswap-v3",
+      "name": "Uniswap V3",
+      "symbol": "UNI",
+      "category": "Dexs",
+      "chains": [
+        "Ethereum",
+        "Arbitrum",
+        "Base",
+        "Binance",
+        "Polygon",
+        "BOB",
+        "xDai",
+        "Plasma",
+        "Optimism",
+        "RSK",
+        "Celo",
+        "Avalanche",
+        "Nibiru",
+        "Saga",
+        "Etherlink",
+        "World Chain",
+        "XDC",
+        "Monad",
+        "zkSync Era",
+        "Unichain",
+        "Filecoin",
+        "Boba",
+        "Goat",
+        "Lens",
+        "Telos",
+        "Sonic",
+        "Mantle",
+        "Redbelly",
+        "Sei",
+        "Hemi",
+        "Corn",
+        "Scroll",
+        "LightLink",
+        "Linea",
+        "Blast",
+        "Taiko",
+        "Lisk",
+        "Moonbeam",
+        "Polygon zkEVM",
+        "Manta"
+      ],
+      "tvl": 2090512845.1995323,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 0.8843978217315112,
+      "change_7d": -9.734833419807543
+    },
+    {
+      "id": "curve-dex",
+      "name": "Curve DEX",
+      "symbol": "CRV",
+      "category": "Dexs",
+      "chains": [
+        "Ethereum",
+        "Base",
+        "Arbitrum",
+        "Fraxtal",
+        "Etherlink",
+        "Monad",
+        "Polygon",
+        "X Layer",
+        "xDai",
+        "Avalanche",
+        "Optimism",
+        "Plasma",
+        "Sonic",
+        "XDC",
+        "Hyperliquid L1",
+        "Kava",
+        "Binance",
+        "TAC",
+        "Unichain",
+        "Plume Mainnet",
+        "Taiko",
+        "Celo",
+        "Aurora",
+        "Corn",
+        "Fantom",
+        "Moonbeam",
+        "Ink",
+        "Stable",
+        "Mantle",
+        "Harmony"
+      ],
+      "tvl": 2070940472.1991286,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 0.41872841370556557,
+      "change_7d": -6.387898227300155
+    },
+    {
+      "id": "falcon-finance",
+      "name": "Falcon Finance",
+      "symbol": "FF",
+      "category": "Basis Trading",
+      "chains": [
+        "Ethereum"
+      ],
+      "tvl": 2056623750.8132923,
+      "mcap": 198068013.06941748,
+      "fdv": null,
+      "change_1d": 0.04009046550442008,
+      "change_7d": 0.13690360468969232
+    },
+    {
+      "id": "steakhouse-financial",
+      "name": "Steakhouse Financial",
+      "symbol": "-",
+      "category": "Risk Curators",
+      "chains": [
+        "Ethereum",
+        "Base",
+        "Arbitrum",
+        "Monad",
+        "Corn",
+        "Polygon",
+        "Unichain",
+        "Katana"
+      ],
+      "tvl": 2031426983.2380822,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": -0.767924307958495,
+      "change_7d": 10.261447917600975
+    },
+    {
+      "id": "blackrock-buidl",
+      "name": "BlackRock BUIDL",
+      "symbol": "BUIDL",
+      "category": "RWA",
+      "chains": [
+        "Aptos",
+        "Binance",
+        "Ethereum",
+        "Solana",
+        "Avalanche",
+        "Arbitrum",
+        "Optimism",
+        "Polygon"
+      ],
+      "tvl": 1951316698.870449,
+      "mcap": 1684685674.710449,
+      "fdv": null,
+      "change_1d": 0.008209263484928897,
+      "change_7d": -2.840795541363022
+    },
+    {
+      "id": "paxos-gold",
+      "name": "Paxos Gold",
+      "symbol": "PAXG",
+      "category": "RWA",
+      "chains": [
+        "Ethereum"
+      ],
+      "tvl": 1901349975.6139052,
+      "mcap": 1901352024.0591118,
+      "fdv": null,
+      "change_1d": 0.498181544228558,
+      "change_7d": 7.391545024765307
+    },
+    {
+      "id": "jito-liquid-staking",
+      "name": "Jito Liquid Staking",
+      "symbol": "JTO",
+      "category": "Liquid Staking",
+      "chains": [
+        "Solana"
+      ],
+      "tvl": 1882211695.1350517,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 1.9930747454836961,
+      "change_7d": -10.708021175592762
+    },
+    {
+      "id": "pancakeswap-amm",
+      "name": "PancakeSwap AMM",
+      "symbol": "CAKE",
+      "category": "Dexs",
+      "chains": [
+        "Binance",
+        "Op_Bnb",
+        "Ethereum",
+        "Aptos",
+        "zkSync Era",
+        "Base",
+        "Arbitrum",
+        "Linea",
+        "Polygon zkEVM",
+        "Monad"
+      ],
+      "tvl": 1863208177.841007,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 1.2190407081679382,
+      "change_7d": -2.4938594650074037
+    },
+    {
+      "id": "ondo-yield-assets",
+      "name": "Ondo Yield Assets",
+      "symbol": "ONDO",
+      "category": "RWA",
+      "chains": [
+        "Ethereum",
+        "Solana",
+        "Ripple",
+        "Aptos",
+        "Mantle",
+        "Sui",
+        "Noble",
+        "Stellar",
+        "Arbitrum",
+        "Polygon"
+      ],
+      "tvl": 1804617773.4822667,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 9.722727892127452,
+      "change_7d": 16.95968960287422
+    },
+    {
+      "id": "portal",
+      "name": "Portal",
+      "symbol": "W",
+      "category": "Bridge",
+      "chains": [
+        "Ethereum",
+        "Solana",
+        "Binance",
+        "Near",
+        "Polygon",
+        "Terra",
+        "Avalanche",
+        "Arbitrum",
+        "Sui",
+        "Aptos",
+        "Fantom",
+        "Moonbeam",
+        "Base",
+        "Algorand",
+        "Klaytn",
+        "Celo",
+        "Oasis",
+        "Aurora",
+        "Optimism",
+        "Injective",
+        "Terra2",
+        "XPLA",
+        "Acala",
+        "Karura"
+      ],
+      "tvl": 1776350284.7234464,
+      "mcap": 156098817.03196943,
+      "fdv": null,
+      "change_1d": 3.4956836186241134,
+      "change_7d": -9.614270917874023
+    },
+    {
+      "id": "obol",
+      "name": "Obol",
+      "symbol": "OBOL",
+      "category": "Staking Pool",
+      "chains": [
+        "Ethereum"
+      ],
+      "tvl": 1758313567.7966335,
+      "mcap": 4727180.850846791,
+      "fdv": null,
+      "change_1d": 0.9043552727362396,
+      "change_7d": -10.701506531867011
+    },
+    {
+      "id": "doublezero-staked-sol",
+      "name": "DoubleZero Staked SOL",
+      "symbol": "2Z",
+      "category": "Liquid Staking",
+      "chains": [
+        "Solana"
+      ],
+      "tvl": 1724895552.16324,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 2.100611780676104,
+      "change_7d": -10.585173946716836
+    },
+    {
+      "id": "rocket-pool",
+      "name": "Rocket Pool",
+      "symbol": "RPL",
+      "category": "Liquid Staking",
+      "chains": [
+        "Ethereum"
+      ],
+      "tvl": 1722006365.087712,
+      "mcap": 45655588.02631161,
+      "fdv": null,
+      "change_1d": 0.9629193794084188,
+      "change_7d": -10.845259852400105
+    },
+    {
+      "id": "hashkey-exchange",
+      "name": "HashKey Exchange",
+      "symbol": "-",
+      "category": "CEX",
+      "chains": [
+        "Bitcoin",
+        "Ethereum",
+        "Solana",
+        "Tron",
+        "Doge",
+        "Avalanche",
+        "TON",
+        "Optimism",
+        "Litecoin",
+        "Aptos",
+        "Polygon",
+        "Arbitrum",
+        "Polkadot"
+      ],
+      "tvl": 1680460704.461147,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 0.33239133222882344,
+      "change_7d": -8.337167192610124
+    },
+    {
+      "id": "circle-usyc",
+      "name": "Circle USYC",
+      "symbol": "-",
+      "category": "RWA",
+      "chains": [
+        "Binance",
+        "Ethereum",
+        "Near",
+        "Noble"
+      ],
+      "tvl": 1665858804.5605068,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 1.5332683281136212,
+      "change_7d": 10.679832664784584
+    },
+    {
+      "id": "bitstamp",
+      "name": "Bitstamp",
+      "symbol": "-",
+      "category": "CEX",
+      "chains": [
+        "Ethereum",
+        "Bitcoin",
+        "Ripple",
+        "Solana",
+        "Litecoin",
+        "Avalanche",
+        "Cardano",
+        "Near",
+        "XDC",
+        "Sui"
+      ],
+      "tvl": 1664747987.306856,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 0.05924822664655949,
+      "change_7d": -11.195846839493868
+    },
+    {
+      "id": "bitkub",
+      "name": "Bitkub",
+      "symbol": "KUB",
+      "category": "CEX",
+      "chains": [
+        "Bitcoin",
+        "Ethereum",
+        "Ripple",
+        "Binance",
+        "Solana",
+        "Cardano",
+        "Optimism",
+        "Arbitrum",
+        "Avalanche",
+        "Polygon",
+        "Tron",
+        "Doge",
+        "Base",
+        "Algorand",
+        "Scroll",
+        "Aptos",
+        "zkSync Era",
+        "Mantle",
+        "CORE",
+        "Litecoin",
+        "TON",
+        "Fantom"
+      ],
+      "tvl": 1647497533.4493067,
+      "mcap": 111133961.00458811,
+      "fdv": null,
+      "change_1d": 4.6418674913803954,
+      "change_7d": -7.870018692354705
+    },
+    {
+      "id": "compound-v3",
+      "name": "Compound V3",
+      "symbol": "COMP",
+      "category": "Lending",
+      "chains": [
+        "Ethereum",
+        "Arbitrum",
+        "Base",
+        "Optimism",
+        "Polygon",
+        "Mantle",
+        "Unichain",
+        "Ronin",
+        "Scroll"
+      ],
+      "tvl": 1646985063.6936936,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": -0.35657919995509246,
+      "change_7d": -9.022225923739654
+    },
+    {
+      "id": "veda",
+      "name": "Veda",
+      "symbol": "-",
+      "category": "Onchain Capital Allocator",
+      "chains": [
+        "Ethereum",
+        "Plasma",
+        "Scroll",
+        "Hyperliquid L1",
+        "Sonic",
+        "Base",
+        "Berachain",
+        "Arbitrum",
+        "Binance",
+        "BOB"
+      ],
+      "tvl": 1646581246.3440208,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": -2.101863904592207,
+      "change_7d": -11.33963153812519
+    },
+    {
+      "id": "spark-liquidity-layer",
+      "name": "Spark Liquidity Layer",
+      "symbol": "SPK",
+      "category": "Onchain Capital Allocator",
+      "chains": [
+        "Ethereum",
+        "Base",
+        "Optimism",
+        "Unichain",
+        "Arbitrum",
+        "Avalanche"
+      ],
+      "tvl": 1645133449.3271906,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": -6.4295145292541775,
+      "change_7d": -5.158899911365253
+    },
+    {
+      "id": "gauntlet",
+      "name": "Gauntlet",
+      "symbol": "-",
+      "category": "Risk Curators",
+      "chains": [
+        "Ethereum",
+        "Base",
+        "Katana",
+        "Arbitrum",
+        "Optimism",
+        "Solana",
+        "Unichain",
+        "Polygon",
+        "Hyperliquid L1"
+      ],
+      "tvl": 1635381718.3857193,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 3.710151795037845,
+      "change_7d": 6.383069468123082
+    },
+    {
+      "id": "sanctum-validator-lsts",
+      "name": "Sanctum Validator LSTs",
+      "symbol": "CLOUD",
+      "category": "Liquid Staking",
+      "chains": [
+        "Solana"
+      ],
+      "tvl": 1633685127.4333947,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 1.9388583238172998,
+      "change_7d": -10.099145415054835
+    },
+    {
+      "id": "venus-core-pool",
+      "name": "Venus Core Pool",
+      "symbol": "XVS",
+      "category": "Lending",
+      "chains": [
+        "Binance",
+        "Ethereum",
+        "Arbitrum",
+        "zkSync Era",
+        "Unichain",
+        "Base",
+        "Optimism",
+        "Op_Bnb"
+      ],
+      "tvl": 1632368246.4404218,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 1.1686486327376429,
+      "change_7d": -8.352622005198612
+    },
+    {
+      "id": "kelp",
+      "name": "Kelp",
+      "symbol": "-",
+      "category": "Liquid Restaking",
+      "chains": [
+        "Ethereum",
+        "Arbitrum",
+        "Base",
+        "Zircuit",
+        "Scroll",
+        "Swellchain",
+        "zkSync Era",
+        "Blast",
+        "Mode",
+        "Optimism",
+        "Hemi",
+        "Linea",
+        "Sonic",
+        "Berachain",
+        "Manta",
+        "X Layer"
+      ],
+      "tvl": 1554397195.700715,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 13.381558354805406,
+      "change_7d": 26.284055840086012
+    },
+    {
+      "id": "fluid-lending",
+      "name": "Fluid Lending",
+      "symbol": "-",
+      "category": "Lending",
+      "chains": [
+        "Ethereum",
+        "Plasma",
+        "Arbitrum",
+        "Base",
+        "Polygon"
+      ],
+      "tvl": 1522009114.5444503,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 0.36700927936699657,
+      "change_7d": -2.5462012653761974
+    },
+    {
+      "id": "bitmex",
+      "name": "Bitmex",
+      "symbol": "BMEX",
+      "category": "CEX",
+      "chains": [
+        "Bitcoin",
+        "Ethereum",
+        "Tron",
+        "Solana",
+        "Binance",
+        "Ripple"
+      ],
+      "tvl": 1486013664.8802705,
+      "mcap": 10042661.535556648,
+      "fdv": null,
+      "change_1d": 0.8012736619278655,
+      "change_7d": -7.489028961264239
+    },
+    {
+      "id": "raydium-amm",
+      "name": "Raydium AMM",
+      "symbol": "RAY",
+      "category": "Dexs",
+      "chains": [
+        "Solana"
+      ],
+      "tvl": 1472110449.9709532,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 1.851091704374383,
+      "change_7d": -8.775433862543139
+    },
+    {
+      "id": "binance-staked-sol",
+      "name": "Binance Staked SOL",
+      "symbol": "-",
+      "category": "Liquid Staking",
+      "chains": [
+        "Solana"
+      ],
+      "tvl": 1422019399.5806315,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 2.1555662015054793,
+      "change_7d": -12.575156050173092
+    },
+    {
+      "id": "centrifuge-protocol",
+      "name": "Centrifuge Protocol",
+      "symbol": "CFG",
+      "category": "RWA",
+      "chains": [
+        "Ethereum",
+        "Avalanche",
+        "Plume Mainnet",
+        "Base",
+        "Binance",
+        "Arbitrum"
+      ],
+      "tvl": 1270192356.153639,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": -0.0025708765797389788,
+      "change_7d": 0.9033338314602446
+    },
+    {
+      "id": "uniswap-v2",
+      "name": "Uniswap V2",
+      "symbol": "UNI",
+      "category": "Dexs",
+      "chains": [
+        "Ethereum",
+        "Base",
+        "Arbitrum",
+        "Polygon",
+        "Binance",
+        "Optimism",
+        "Unichain",
+        "Avalanche",
+        "Monad",
+        "Zora",
+        "Celo"
+      ],
+      "tvl": 1234909970.9798872,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 1.0858073570431088,
+      "change_7d": -10.044216368513332
+    },
+    {
+      "id": "jupiter-staked-sol",
+      "name": "Jupiter Staked SOL",
+      "symbol": "JUP",
+      "category": "Liquid Staking",
+      "chains": [
+        "Solana"
+      ],
+      "tvl": 1220352756.666288,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 2.100922597873904,
+      "change_7d": -10.535326759099291
+    },
+    {
+      "id": "jupiter-perpetual-exchange",
+      "name": "Jupiter Perpetual Exchange",
+      "symbol": "JUP",
+      "category": "Derivatives",
+      "chains": [
+        "Solana"
+      ],
+      "tvl": 1200811920.2512364,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 1.3870452795800219,
+      "change_7d": -4.67751868499856
+    },
+    {
+      "id": "stakewise-v2",
+      "name": "StakeWise V2",
+      "symbol": "SWISE",
+      "category": "Liquid Staking",
+      "chains": [
+        "Ethereum",
+        "xDai"
+      ],
+      "tvl": 1194806192.609133,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 5.607350036436046,
+      "change_7d": -6.552349975431369
+    },
+    {
+      "id": "spark-savings",
+      "name": "Spark Savings",
+      "symbol": "SPK",
+      "category": "Yield",
+      "chains": [
+        "Ethereum",
+        "Avalanche",
+        "Arbitrum",
+        "Optimism",
+        "Base",
+        "Unichain"
+      ],
+      "tvl": 1155971670.4762578,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": -0.4440448259938563,
+      "change_7d": 1.8047720445950972
+    },
+    {
+      "id": "swissborg",
+      "name": "SwissBorg",
+      "symbol": "BORG",
+      "category": "CEX",
+      "chains": [
+        "Bitcoin",
+        "Ethereum",
+        "Solana",
+        "Ripple",
+        "Binance",
+        "Cardano",
+        "Hedera",
+        "Avalanche",
+        "Doge",
+        "Near",
+        "Tron",
+        "Polygon",
+        "Cosmos",
+        "Injective",
+        "TON",
+        "Optimism",
+        "Arbitrum",
+        "Sei",
+        "Stellar",
+        "Algorand",
+        "Celestia",
+        "Moonbeam",
+        "Sonic",
+        "Berachain",
+        "Osmosis",
+        "xDai",
+        "Chiliz",
+        "Polkadot"
+      ],
+      "tvl": 1142148961.590759,
+      "mcap": 227692556.91499406,
+      "fdv": null,
+      "change_1d": 0.6421998896548615,
+      "change_7d": -9.346602212321102
+    },
+    {
+      "id": "jupiter-lend",
+      "name": "Jupiter Lend",
+      "symbol": "JUP",
+      "category": "Lending",
+      "chains": [
+        "Solana"
+      ],
+      "tvl": 1053567017.3700554,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 0.7524765627612027,
+      "change_7d": -6.853195857392706
+    },
+    {
+      "id": "lighter-bridge",
+      "name": "Lighter Bridge",
+      "symbol": "-",
+      "category": "Bridge",
+      "chains": [
+        "Ethereum",
+        "Arbitrum"
+      ],
+      "tvl": 1040774714.3846583,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": -1.7779712636250196,
+      "change_7d": -12.66864206533404
+    },
+    {
+      "id": "lista-liquid-staking",
+      "name": "Lista Liquid Staking",
+      "symbol": "LISTA",
+      "category": "Liquid Staking",
+      "chains": [
+        "Binance"
+      ],
+      "tvl": 1032941053.3940557,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 1.5391174472730142,
+      "change_7d": -6.051670636899615
+    },
+    {
+      "id": "function-fbtc",
+      "name": "Function FBTC",
+      "symbol": "-",
+      "category": "Bridge",
+      "chains": [
+        "Bitcoin"
+      ],
+      "tvl": 985034759.6239283,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 0.8575913214388606,
+      "change_7d": -7.039264776790375
+    },
+    {
+      "id": "solvbtc",
+      "name": "SolvBTC",
+      "symbol": "SOLV",
+      "category": "Bridge",
+      "chains": [
+        "Bitcoin",
+        "Ethereum",
+        "Binance",
+        "Solana",
+        "Base",
+        "Avalanche",
+        "Arbitrum",
+        "Mantle",
+        "Polygon",
+        "Merlin",
+        "BOB"
+      ],
+      "tvl": 969404755.6323491,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 0.8574976092358639,
+      "change_7d": -7.431955417376216
+    },
+    {
+      "id": "concrete",
+      "name": "Concrete",
+      "symbol": "-",
+      "category": "Onchain Capital Allocator",
+      "chains": [
+        "Ethereum",
+        "Berachain",
+        "Stable",
+        "Arbitrum",
+        "Katana"
+      ],
+      "tvl": 966443729.099604,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 0.752359013853436,
+      "change_7d": -10.326606307411225
+    },
+    {
+      "id": "lombard-lbtc",
+      "name": "Lombard LBTC",
+      "symbol": "BARD",
+      "category": "Restaked BTC",
+      "chains": [
+        "Bitcoin",
+        "Ethereum"
+      ],
+      "tvl": 959177613.4945868,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": -0.46549474946863256,
+      "change_7d": -8.673240760591185
+    },
+    {
+      "id": "figure-markets-exchange",
+      "name": "Figure Markets Exchange",
+      "symbol": "-",
+      "category": "OTC Marketplace",
+      "chains": [
+        "Provenance"
+      ],
+      "tvl": 919671128.315857,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 0.31811205921252395,
+      "change_7d": 3.8937189681782343
+    },
+    {
+      "id": "convex-finance",
+      "name": "Convex Finance",
+      "symbol": "CVX",
+      "category": "Yield",
+      "chains": [
+        "Ethereum",
+        "Fraxtal",
+        "Arbitrum",
+        "Polygon"
+      ],
+      "tvl": 919137753.9203426,
+      "mcap": 192625144.3456654,
+      "fdv": null,
+      "change_1d": 0.7538386599644298,
+      "change_7d": -8.67412722408946
+    },
+    {
+      "id": "m0",
+      "name": "M0",
+      "symbol": "POWER",
+      "category": "Stablecoin Issuer",
+      "chains": [
+        "Ethereum"
+      ],
+      "tvl": 870650055.3343039,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": -0.45204549704696717,
+      "change_7d": -1.0342580226778324
+    },
+    {
+      "id": "ethena-usdtb",
+      "name": "Ethena USDtb",
+      "symbol": "ENA",
+      "category": "RWA",
+      "chains": [
+        "Ethereum"
+      ],
+      "tvl": 852055951.5221384,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 0.19528425160623897,
+      "change_7d": -0.04277569687896232
+    },
+    {
+      "id": "meth-protocol",
+      "name": "mETH Protocol",
+      "symbol": "COOK",
+      "category": "Liquid Staking",
+      "chains": [
+        "Ethereum"
+      ],
+      "tvl": 851461247.6523315,
+      "mcap": 3575927.6894319677,
+      "fdv": null,
+      "change_1d": 7.308964457535112,
+      "change_7d": -6.702198528110941
+    },
+    {
+      "id": "spiko",
+      "name": "Spiko",
+      "symbol": "-",
+      "category": "RWA",
+      "chains": [
+        "Arbitrum",
+        "Stellar",
+        "Polygon",
+        "Ethereum",
+        "Base",
+        "Starknet",
+        "Etherlink"
+      ],
+      "tvl": 845292320.4662534,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 0.7766495259856896,
+      "change_7d": 3.5193258561262724
+    },
+    {
+      "id": "liquid-collective",
+      "name": "Liquid Collective",
+      "symbol": "-",
+      "category": "Liquid Staking",
+      "chains": [
+        "Ethereum"
+      ],
+      "tvl": 843234932.4032667,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 0.9047739604737899,
+      "change_7d": -10.79999631919361
+    },
+    {
+      "id": "korbit",
+      "name": "Korbit",
+      "symbol": "-",
+      "category": "CEX",
+      "chains": [
+        "Bitcoin",
+        "Ripple",
+        "Ethereum"
+      ],
+      "tvl": 835987891.6124785,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 1.286933990878893,
+      "change_7d": -7.417820979328354
+    },
+    {
+      "id": "osl-hk",
+      "name": "OSL HK",
+      "symbol": "-",
+      "category": "CEX",
+      "chains": [
+        "Bitcoin",
+        "Ethereum",
+        "Solana",
+        "Tron",
+        "Ripple",
+        "Binance",
+        "Avalanche",
+        "Litecoin",
+        "Sei",
+        "Doge",
+        "TON",
+        "Polygon"
+      ],
+      "tvl": 796569749.8312253,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 0.9156209463743892,
+      "change_7d": -6.766702656650608
+    },
+    {
+      "id": "lista-lending",
+      "name": "Lista Lending",
+      "symbol": "LISTA",
+      "category": "Lending",
+      "chains": [
+        "Binance",
+        "Ethereum"
+      ],
+      "tvl": 750707742.6928717,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 1.3779757645181263,
+      "change_7d": -4.265449120143799
+    },
+    {
+      "id": "wisdomtree",
+      "name": "WisdomTree",
+      "symbol": "-",
+      "category": "RWA",
+      "chains": [
+        "Ethereum",
+        "Stellar"
+      ],
+      "tvl": 737939479.3051441,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": -0.013794789610201974,
+      "change_7d": 0.06182009256970389
+    },
+    {
+      "id": "renzo",
+      "name": "Renzo",
+      "symbol": "REZ",
+      "category": "Liquid Restaking",
+      "chains": [
+        "Ethereum",
+        "Linea",
+        "Arbitrum",
+        "Solana",
+        "Zircuit",
+        "Mode",
+        "Base",
+        "Optimism",
+        "Blast",
+        "Fraxtal",
+        "Binance",
+        "Sei"
+      ],
+      "tvl": 711284202.7227205,
+      "mcap": 20869549.43252626,
+      "fdv": null,
+      "change_1d": 19.224516701057254,
+      "change_7d": 4.499339326643167
+    },
+    {
+      "id": "bingx",
+      "name": "BingX",
+      "symbol": "-",
+      "category": "CEX",
+      "chains": [
+        "Tron",
+        "Bitcoin",
+        "Binance",
+        "Ethereum",
+        "Solana",
+        "Ripple",
+        "TON",
+        "Arbitrum"
+      ],
+      "tvl": 700045212.2795464,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 0.8064263097968194,
+      "change_7d": -3.9604222796462523
+    },
+    {
+      "id": "aster-bridge",
+      "name": "Aster Bridge",
+      "symbol": "-",
+      "category": "Bridge",
+      "chains": [
+        "Binance",
+        "Ethereum",
+        "Arbitrum",
+        "Solana",
+        "Scroll"
+      ],
+      "tvl": 699721628.5611749,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": -0.8099071199860077,
+      "change_7d": -2.3204822782683294
+    },
+    {
+      "id": "tornado-cash",
+      "name": "Tornado Cash",
+      "symbol": "TORN",
+      "category": "Privacy",
+      "chains": [
+        "Ethereum",
+        "Binance",
+        "Arbitrum",
+        "Avalanche",
+        "Polygon",
+        "xDai",
+        "EthereumClassic",
+        "Optimism"
+      ],
+      "tvl": 699697027.2676564,
+      "mcap": 41963978.894069776,
+      "fdv": null,
+      "change_1d": 0.599398973348201,
+      "change_7d": -10.471901473121477
+    },
+    {
+      "id": "euler-v2",
+      "name": "Euler V2",
+      "symbol": "EUL",
+      "category": "Lending",
+      "chains": [
+        "Ethereum",
+        "Plasma",
+        "Avalanche",
+        "Arbitrum",
+        "Monad",
+        "BOB",
+        "Base",
+        "Unichain",
+        "Linea",
+        "Binance",
+        "Berachain",
+        "Swellchain",
+        "Sonic",
+        "TAC",
+        "Mantle"
+      ],
+      "tvl": 676653632.5580186,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": -12.504941598300405,
+      "change_7d": -32.57177108123328
+    },
+    {
+      "id": "usd-ai",
+      "name": "USD AI",
+      "symbol": "-",
+      "category": "RWA Lending",
+      "chains": [
+        "Arbitrum"
+      ],
+      "tvl": 671138240.0315922,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": -0.5202092537327303,
+      "change_7d": -2.1571097330356963
+    },
+    {
+      "id": "uniswap-v4",
+      "name": "Uniswap V4",
+      "symbol": "UNI",
+      "category": "Dexs",
+      "chains": [
+        "Ethereum",
+        "Arbitrum",
+        "Unichain",
+        "Base",
+        "Monad",
+        "Binance",
+        "Polygon",
+        "Soneium",
+        "Optimism",
+        "World Chain",
+        "Avalanche",
+        "Blast",
+        "Zora",
+        "Ink"
+      ],
+      "tvl": 657931988.8356689,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 2.3208814701112885,
+      "change_7d": -9.025795754737402
+    },
+    {
+      "id": "optimism-bridge",
+      "name": "Optimism Bridge",
+      "symbol": "OP",
+      "category": "Canonical Bridge",
+      "chains": [
+        "Ethereum",
+        "Base",
+        "PGN"
+      ],
+      "tvl": 651800940.1807228,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 0.8789719274483474,
+      "change_7d": -2.778919787171688
+    },
+    {
+      "id": "usdd",
+      "name": "USDD",
+      "symbol": "-",
+      "category": "CDP",
+      "chains": [
+        "Tron",
+        "Ethereum",
+        "Binance"
+      ],
+      "tvl": 645800678.8323061,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 0.6292673812658478,
+      "change_7d": 129.38713600679773
+    },
+    {
+      "id": "ether.fi-liquid",
+      "name": "ether.fi Liquid",
+      "symbol": "ETHFI",
+      "category": "Onchain Capital Allocator",
+      "chains": [
+        "Ethereum"
+      ],
+      "tvl": 633264643.0074252,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 0.5732458047098703,
+      "change_7d": -11.979022350407064
+    },
+    {
+      "id": "sentora",
+      "name": "Sentora",
+      "symbol": "-",
+      "category": "Risk Curators",
+      "chains": [
+        "Ethereum"
+      ],
+      "tvl": 623585200.5083442,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": -0.3719828775014804,
+      "change_7d": 0.38147409397785736
+    },
+    {
+      "id": "superstate-ustb",
+      "name": "Superstate USTB",
+      "symbol": "-",
+      "category": "RWA",
+      "chains": [
+        "Ethereum",
+        "Solana",
+        "Plume Mainnet"
+      ],
+      "tvl": 622779242.8933706,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": -0.08589688982179666,
+      "change_7d": 2.991934879277622
+    },
+    {
+      "id": "linea-bridge",
+      "name": "Linea Bridge",
+      "symbol": "-",
+      "category": "Canonical Bridge",
+      "chains": [
+        "Ethereum"
+      ],
+      "tvl": 609389527.988774,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 0.351106698197313,
+      "change_7d": -16.84572158947087
+    },
+    {
+      "id": "lista-cdp",
+      "name": "Lista CDP",
+      "symbol": "LISTA",
+      "category": "CDP",
+      "chains": [
+        "Binance"
+      ],
+      "tvl": 607942016.7711799,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 1.012263243044174,
+      "change_7d": -12.244968205708687
+    },
+    {
+      "id": "starknet-bridge",
+      "name": "Starknet Bridge",
+      "symbol": "STRK",
+      "category": "Canonical Bridge",
+      "chains": [
+        "Ethereum"
+      ],
+      "tvl": 596956651.784949,
+      "mcap": 410901106.2001023,
+      "fdv": null,
+      "change_1d": 0.4265538673853513,
+      "change_7d": -25.648315930683026
+    },
+    {
+      "id": "merlins-seal",
+      "name": "Merlins Seal",
+      "symbol": "-",
+      "category": "Bridge",
+      "chains": [
+        "Bitcoin",
+        "Arbitrum",
+        "Ethereum",
+        "Zkfair"
+      ],
+      "tvl": 570936974.1780096,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 0.9402200969361445,
+      "change_7d": -7.202584662295891
+    },
+    {
+      "id": "resolv",
+      "name": "Resolv",
+      "symbol": "RESOLV",
+      "category": "Basis Trading",
+      "chains": [
+        "Ethereum"
+      ],
+      "tvl": 560664895.798532,
+      "mcap": 36172089.7397564,
+      "fdv": null,
+      "change_1d": 0.729697029525596,
+      "change_7d": 9.568829084378507
+    },
+    {
+      "id": "free-protocol",
+      "name": "Free Protocol",
+      "symbol": "-",
+      "category": "Bridge",
+      "chains": [
+        "Merlin",
+        "Ethereum",
+        "Binance",
+        "Arbitrum",
+        "Hemi",
+        "Manta",
+        "Kroma",
+        "Polygon"
+      ],
+      "tvl": 554296376.1734269,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 0.5193283526487136,
+      "change_7d": -5.407795952938216
+    },
+    {
+      "id": "tbtc",
+      "name": "tBTC",
+      "symbol": "T",
+      "category": "Decentralized BTC",
+      "chains": [
+        "Bitcoin",
+        "Ethereum"
+      ],
+      "tvl": 542433801.9253069,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 1.025555334240778,
+      "change_7d": -7.3939771281943365
+    },
+    {
+      "id": "ondo-global-markets",
+      "name": "Ondo Global Markets",
+      "symbol": "ONDO",
+      "category": "RWA",
+      "chains": [
+        "Ethereum",
+        "Binance"
+      ],
+      "tvl": 541672893.0720294,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 3.5085238156188296,
+      "change_7d": 6.045437052921514
+    },
+    {
+      "id": "indodax",
+      "name": "Indodax",
+      "symbol": "-",
+      "category": "CEX",
+      "chains": [
+        "Bitcoin",
+        "Ethereum",
+        "Solana",
+        "Binance",
+        "Cardano",
+        "Tron",
+        "Polygon",
+        "Optimism",
+        "Litecoin",
+        "Arbitrum",
+        "Base",
+        "Stellar",
+        "Avalanche",
+        "Algorand",
+        "Sui",
+        "EOS",
+        "Linea"
+      ],
+      "tvl": 541244788.3850814,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 1.612659963108996,
+      "change_7d": -7.849251202606439
+    },
+    {
+      "id": "lorenzo-enzobtc",
+      "name": "Lorenzo enzoBTC",
+      "symbol": "-",
+      "category": "Bridge",
+      "chains": [
+        "Bitcoin"
+      ],
+      "tvl": 539675211.7332911,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 0.8575913214388322,
+      "change_7d": -6.9658348240180175
+    },
+    {
+      "id": "avalanche-core-bridge",
+      "name": "Avalanche Core Bridge",
+      "symbol": "AVAX",
+      "category": "Canonical Bridge",
+      "chains": [
+        "Bitcoin",
+        "Ethereum"
+      ],
+      "tvl": 534471393.7682737,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 1.6163181538388756,
+      "change_7d": -6.720151215088563
+    },
+    {
+      "id": "symbiotic",
+      "name": "Symbiotic",
+      "symbol": "-",
+      "category": "Restaking",
+      "chains": [
+        "Ethereum"
+      ],
+      "tvl": 522247482.134739,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 0.770934057729761,
+      "change_7d": -11.910720950581435
+    },
+    {
+      "id": "unit",
+      "name": "Unit",
+      "symbol": "-",
+      "category": "Bridge",
+      "chains": [
+        "Bitcoin",
+        "Ethereum",
+        "Solana",
+        "Plasma",
+        "Monad"
+      ],
+      "tvl": 513495746.2975443,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": -1.3617246325446075,
+      "change_7d": -14.16962365535116
+    },
+    {
+      "id": "nexus-btc",
+      "name": "Nexus BTC",
+      "symbol": "-",
+      "category": "Bridge",
+      "chains": [
+        "Bitcoin"
+      ],
+      "tvl": 508118725.183165,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 2.136722349972871,
+      "change_7d": -13.851282504093518
+    },
+    {
+      "id": "kinetiq-khype",
+      "name": "Kinetiq kHYPE",
+      "symbol": "-",
+      "category": "Liquid Staking",
+      "chains": [
+        "Hyperliquid L1"
+      ],
+      "tvl": 506656305.9423654,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 4.435909999152756,
+      "change_7d": -13.933421297298239
+    },
+    {
+      "id": "pancakeswap-amm-v3",
+      "name": "PancakeSwap AMM V3",
+      "symbol": "CAKE",
+      "category": "Dexs",
+      "chains": [
+        "Binance",
+        "Base",
+        "Ethereum",
+        "Solana",
+        "Arbitrum",
+        "Monad",
+        "zkSync Era",
+        "Linea",
+        "Polygon zkEVM",
+        "Op_Bnb"
+      ],
+      "tvl": 503371329.33472687,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": -2.80395555760677,
+      "change_7d": -4.558536180345939
+    },
+    {
+      "id": "stader",
+      "name": "Stader",
+      "symbol": "SD",
+      "category": "Liquid Staking",
+      "chains": [
+        "Ethereum",
+        "Hedera",
+        "Binance",
+        "Fantom",
+        "Terra2",
+        "Near"
+      ],
+      "tvl": 496472098.91123176,
+      "mcap": 16757431.674314605,
+      "fdv": null,
+      "change_1d": 0.4617532404927971,
+      "change_7d": -13.019361182478093
+    },
+    {
+      "id": "avalon-usda",
+      "name": "Avalon USDa",
+      "symbol": "-",
+      "category": "CDP",
+      "chains": [
+        "Binance",
+        "Ethereum",
+        "Klaytn",
+        "Berachain",
+        "Sonic",
+        "Mantle"
+      ],
+      "tvl": 487049807.1512735,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 1.2371687617023923,
+      "change_7d": -7.945204181585524
+    },
+    {
+      "id": "anemoy-capital",
+      "name": "Anemoy Capital",
+      "symbol": "-",
+      "category": "RWA",
+      "chains": [
+        "Ethereum",
+        "Celo",
+        "Base"
+      ],
+      "tvl": 483432979.753191,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": -0.0032533841677206965,
+      "change_7d": 14.207744271274663
+    },
+    {
+      "id": "lightning-network",
+      "name": "Lightning Network",
+      "symbol": "-",
+      "category": "Payments",
+      "chains": [
+        "Bitcoin"
+      ],
+      "tvl": 480756982.45121133,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 1.0631307758276023,
+      "change_7d": -8.075478368334743
+    },
+    {
+      "id": "cap",
+      "name": "cap",
+      "symbol": "-",
+      "category": "Lending",
+      "chains": [
+        "Ethereum"
+      ],
+      "tvl": 466674195.8726839,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 0.19233881604834835,
+      "change_7d": 9.39810559043201
+    },
+    {
+      "id": "tydro",
+      "name": "Tydro",
+      "symbol": "-",
+      "category": "Lending",
+      "chains": [
+        "Ink"
+      ],
+      "tvl": 456282999.2449295,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 4.283019426160607,
+      "change_7d": -10.05664801402311
+    },
+    {
+      "id": "marinade-liquid-staking",
+      "name": "Marinade Liquid Staking",
+      "symbol": "MNDE",
+      "category": "Liquid Staking",
+      "chains": [
+        "Solana"
+      ],
+      "tvl": 454042815.4480939,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 1.9495709779597377,
+      "change_7d": -9.97557279503556
+    },
+    {
+      "id": "drift-trade",
+      "name": "Drift Trade",
+      "symbol": "DRIFT",
+      "category": "Derivatives",
+      "chains": [
+        "Solana"
+      ],
+      "tvl": 443228582.9802648,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 0.10716232923002167,
+      "change_7d": -5.718197383752354
+    },
+    {
+      "id": "phemex",
+      "name": "Phemex",
+      "symbol": "PT",
+      "category": "CEX",
+      "chains": [
+        "Ethereum",
+        "Bitcoin",
+        "Ripple",
+        "Binance",
+        "Solana",
+        "Tron",
+        "Avalanche",
+        "Arbitrum",
+        "Optimism",
+        "Polygon",
+        "zkSync Era",
+        "Base",
+        "Linea",
+        "Sui",
+        "Fantom",
+        "Polkadot"
+      ],
+      "tvl": 442921941.5764997,
+      "mcap": 0,
+      "fdv": null,
+      "change_1d": 0.2128924976976947,
+      "change_7d": -4.715939348240013
+    },
+    {
+      "id": "bedrock-unibtc",
+      "name": "Bedrock uniBTC",
+      "symbol": "BR",
+      "category": "Anchor BTC",
+      "chains": [
+        "Bitcoin",
+        "Ethereum",
+        "Mode",
+        "BOB",
+        "Binance",
+        "Mantle",
+        "BSquared",
+        "RSK",
+        "Berachain",
+        "Arbitrum",
+        "Merlin",
+        "Bitlayer",
+        "ZetaChain",
+        "Optimism",
+        "Base",
+        "Hemi",
+        "TAC",
+        "Taiko"
+      ],
+      "tvl": 441455551.65853035,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 0.751914754149837,
+      "change_7d": -7.146436616695112
+    },
+    {
+      "id": "world-chain",
+      "name": "World Chain",
+      "symbol": "-",
+      "category": "Canonical Bridge",
+      "chains": [
+        "Ethereum"
+      ],
+      "tvl": 429033584.6035216,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": -0.3654866664230809,
+      "change_7d": -18.30561541752091
+    },
+    {
+      "id": "quickswap-dex",
+      "name": "Quickswap Dex",
+      "symbol": "QUICK",
+      "category": "Dexs",
+      "chains": [
+        "Polygon",
+        "Base"
+      ],
+      "tvl": 424141184.5432277,
+      "mcap": 9554246.660476318,
+      "fdv": null,
+      "change_1d": -0.2880327368138609,
+      "change_7d": -2.5124965598284206
+    },
+    {
+      "id": "edgex-bridge",
+      "name": "edgeX Bridge",
+      "symbol": "-",
+      "category": "Bridge",
+      "chains": [
+        "Ethereum",
+        "Arbitrum",
+        "Binance"
+      ],
+      "tvl": 421910725.1469099,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": -0.11299779753286998,
+      "change_7d": 1.1335824152261438
+    },
+    {
+      "id": "bouncebit-cedefi-yield",
+      "name": "BounceBit CeDeFi Yield",
+      "symbol": "-",
+      "category": "Basis Trading",
+      "chains": [
+        "BounceBit",
+        "Binance",
+        "Ethereum",
+        "Base",
+        "Solana"
+      ],
+      "tvl": 420118796.00798213,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 0.8948696262343674,
+      "change_7d": -6.481110896412801
+    },
+    {
+      "id": "coinbase-wrapped-staked-eth",
+      "name": "Coinbase Wrapped Staked ETH",
+      "symbol": "-",
+      "category": "Liquid Staking",
+      "chains": [
+        "Ethereum"
+      ],
+      "tvl": 417412799.0188537,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 0.9366033750241485,
+      "change_7d": -11.552605411716684
+    },
+    {
+      "id": "stacks-sbtc",
+      "name": "Stacks sBTC",
+      "symbol": "-",
+      "category": "Bridge",
+      "chains": [
+        "Bitcoin"
+      ],
+      "tvl": 407631938.0292477,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 0.8555688376629291,
+      "change_7d": -6.94653463231468
+    },
+    {
+      "id": "marinade-native",
+      "name": "Marinade Native",
+      "symbol": "MNDE",
+      "category": "Staking Pool",
+      "chains": [
+        "Solana"
+      ],
+      "tvl": 404545436.3814841,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 2.0666121317274957,
+      "change_7d": -13.384849955265494
+    },
+    {
+      "id": "meteora-dlmm",
+      "name": "Meteora DLMM",
+      "symbol": "MET",
+      "category": "Dexs",
+      "chains": [
+        "Solana"
+      ],
+      "tvl": 402024112.7272961,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 0.8483824463848322,
+      "change_7d": -7.43755860092395
+    },
+    {
+      "id": "upshift",
+      "name": "Upshift",
+      "symbol": "-",
+      "category": "Onchain Capital Allocator",
+      "chains": [
+        "Ethereum",
+        "Monad",
+        "Sui",
+        "Hyperliquid L1",
+        "Flare",
+        "Plasma",
+        "Mezo",
+        "Base",
+        "Binance",
+        "Avalanche"
+      ],
+      "tvl": 399872561.0800681,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": -1.9871235030644812,
+      "change_7d": -4.912306625162202
+    },
+    {
+      "id": "yearn-finance",
+      "name": "Yearn Finance",
+      "symbol": "YFI",
+      "category": "Yield Aggregator",
+      "chains": [
+        "Katana",
+        "Ethereum",
+        "Base",
+        "Optimism",
+        "Polygon",
+        "Arbitrum",
+        "Fantom"
+      ],
+      "tvl": 396373698.61397624,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 0.49846186024993244,
+      "change_7d": -4.186614765211942
+    },
+    {
+      "id": "b2-buzz",
+      "name": "B2 Buzz",
+      "symbol": "-",
+      "category": "Canonical Bridge",
+      "chains": [
+        "Bitcoin",
+        "Ethereum",
+        "Polygon",
+        "Binance"
+      ],
+      "tvl": 395571994.11741346,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 0.9826974161665021,
+      "change_7d": -13.59233939221572
+    },
+    {
+      "id": "aave-horizon-rwa",
+      "name": "Aave Horizon RWA",
+      "symbol": "AAVE",
+      "category": "RWA Lending",
+      "chains": [
+        "Ethereum"
+      ],
+      "tvl": 387490238.6510585,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": -3.7372690050568025,
+      "change_7d": -5.466685312766842
+    },
+    {
+      "id": "gmx-v2-perps",
+      "name": "GMX V2 Perps",
+      "symbol": "GMX",
+      "category": "Derivatives",
+      "chains": [
+        "Arbitrum",
+        "Avalanche",
+        "Solana",
+        "Botanix"
+      ],
+      "tvl": 379434869.79001456,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 0.5413725455355234,
+      "change_7d": -9.154860585406468
+    },
+    {
+      "id": "cian-yield-layer",
+      "name": "CIAN Yield Layer",
+      "symbol": "-",
+      "category": "Yield Aggregator",
+      "chains": [
+        "Ethereum",
+        "Mantle",
+        "Arbitrum",
+        "Optimism",
+        "Base",
+        "Binance",
+        "Scroll"
+      ],
+      "tvl": 372732115.3470628,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 4.0292890537173065,
+      "change_7d": -2.9191680481168447
+    },
+    {
+      "id": "nexo",
+      "name": "Nexo",
+      "symbol": "NEXO",
+      "category": "CEX",
+      "chains": [
+        "Ethereum",
+        "Polygon",
+        "Binance",
+        "Avalanche",
+        "Arbitrum",
+        "Optimism",
+        "Fantom"
+      ],
+      "tvl": 360794728.6957583,
+      "mcap": 936533597.7786245,
+      "fdv": null,
+      "change_1d": 1.7391565913808904,
+      "change_7d": -3.9034285297648665
+    },
+    {
+      "id": "backpack",
+      "name": "Backpack",
+      "symbol": "-",
+      "category": "CEX",
+      "chains": [
+        "Solana",
+        "Bitcoin",
+        "Ethereum",
+        "Arbitrum",
+        "Aptos",
+        "Optimism",
+        "Base",
+        "Binance",
+        "Polygon",
+        "Tron",
+        "Plasma",
+        "Avalanche",
+        "Doge",
+        "Ripple",
+        "Hyperliquid L1",
+        "Litecoin"
+      ],
+      "tvl": 359434907.6528076,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 0.8040745344443536,
+      "change_7d": -0.24268872305225386
+    },
+    {
+      "id": "lombard-btc.b",
+      "name": "Lombard BTC.b",
+      "symbol": "BARD",
+      "category": "Bridge",
+      "chains": [
+        "Bitcoin"
+      ],
+      "tvl": 354007681.29947656,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": -0.5450862423678586,
+      "change_7d": -8.113620721690467
+    },
+    {
+      "id": "k3-capital",
+      "name": "K3 Capital",
+      "symbol": "-",
+      "category": "Risk Curators",
+      "chains": [
+        "Ethereum",
+        "Plasma",
+        "Arbitrum",
+        "Avalanche",
+        "Unichain",
+        "Binance",
+        "BOB"
+      ],
+      "tvl": 352339157.79953045,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": -0.3351415003780005,
+      "change_7d": -0.7676690471398473
+    },
+    {
+      "id": "core-bitcoin-bridge",
+      "name": "Core Bitcoin Bridge",
+      "symbol": "-",
+      "category": "Bridge",
+      "chains": [
+        "Bitcoin"
+      ],
+      "tvl": 349629437.12398934,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": -0.2497358661034781,
+      "change_7d": -8.50768340837999
+    },
+    {
+      "id": "superstate-uscc",
+      "name": "Superstate USCC",
+      "symbol": "-",
+      "category": "Basis Trading",
+      "chains": [
+        "Ethereum",
+        "Solana",
+        "Plume Mainnet"
+      ],
+      "tvl": 349568285.97990227,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": -1.3730878098630654,
+      "change_7d": 0.849762540266255
+    },
+    {
+      "id": "xdai-stake-bridge",
+      "name": "xDAI Stake Bridge",
+      "symbol": "STAKE",
+      "category": "Canonical Bridge",
+      "chains": [
+        "Ethereum"
+      ],
+      "tvl": 343929312.54184544,
+      "mcap": 88058.43238499276,
+      "fdv": null,
+      "change_1d": 0.44487708478213506,
+      "change_7d": -7.097228594376844
+    },
+    {
+      "id": "polymarket",
+      "name": "Polymarket",
+      "symbol": "-",
+      "category": "Prediction Market",
+      "chains": [
+        "Polygon"
+      ],
+      "tvl": 343628918.5027631,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 4.3543719843362965,
+      "change_7d": 15.227781754136771
+    },
+    {
+      "id": "unirouter",
+      "name": "UniRouter",
+      "symbol": "URO",
+      "category": "Bridge",
+      "chains": [
+        "BSquared"
+      ],
+      "tvl": 341147319.01677436,
+      "mcap": 128918.60803611629,
+      "fdv": null,
+      "change_1d": 0.8575913214388322,
+      "change_7d": -7.187345059089509
+    },
+    {
+      "id": "kraken-bitcoin",
+      "name": "Kraken Bitcoin",
+      "symbol": "-",
+      "category": "Bridge",
+      "chains": [
+        "Bitcoin"
+      ],
+      "tvl": 334330710.03201556,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 0.8575913214388322,
+      "change_7d": 7.218491200936768
+    },
+    {
+      "id": "buzz-farming",
+      "name": "Buzz Farming",
+      "symbol": "-",
+      "category": "Farm",
+      "chains": [
+        "BSquared"
+      ],
+      "tvl": 330664818.5730317,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 0.9466733853972897,
+      "change_7d": -7.186378737037828
+    },
+    {
+      "id": "mantle-bridge",
+      "name": "Mantle Bridge",
+      "symbol": "MNT",
+      "category": "Canonical Bridge",
+      "chains": [
+        "Ethereum"
+      ],
+      "tvl": 329321876.032457,
+      "mcap": 2851031706.9969573,
+      "fdv": null,
+      "change_1d": 0.2118907866166495,
+      "change_7d": -2.131185664816087
+    },
+    {
+      "id": "paycash",
+      "name": "PayCash",
+      "symbol": "MLNK",
+      "category": "Dexs",
+      "chains": [
+        "EOS"
+      ],
+      "tvl": 328239024.87304,
+      "mcap": 0,
+      "fdv": null,
+      "change_1d": -1.1876231361428609,
+      "change_7d": 1.117553734230171
+    },
+    {
+      "id": "orca-dex",
+      "name": "Orca DEX",
+      "symbol": "ORCA",
+      "category": "Dexs",
+      "chains": [
+        "Solana",
+        "Eclipse"
+      ],
+      "tvl": 317234494.7927218,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 0.9988492620334455,
+      "change_7d": -18.447887314650472
+    },
+    {
+      "id": "bitfi-basis",
+      "name": "BitFi Basis",
+      "symbol": "-",
+      "category": "Basis Trading",
+      "chains": [
+        "Binance",
+        "Ethereum",
+        "Hemi",
+        "Base",
+        "CORE",
+        "Bitlayer"
+      ],
+      "tvl": 314531545.6003725,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 0.8746526389413134,
+      "change_7d": -7.051051339340717
+    },
+    {
+      "id": "sanctum-infinity",
+      "name": "Sanctum Infinity",
+      "symbol": "CLOUD",
+      "category": "Dexs",
+      "chains": [
+        "Solana"
+      ],
+      "tvl": 309275569.3798591,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 1.1563678548275789,
+      "change_7d": -6.931354528993154
+    },
+    {
+      "id": "connext",
+      "name": "Connext",
+      "symbol": "NEXT",
+      "category": "Bridge",
+      "chains": [
+        "Ethereum",
+        "Arbitrum",
+        "Linea",
+        "Binance",
+        "Optimism",
+        "Polygon",
+        "xDai",
+        "Metis",
+        "Base",
+        "Mode",
+        "Milkomeda",
+        "Moonriver",
+        "Fantom",
+        "Moonbeam",
+        "Fuse",
+        "Cronos",
+        "Boba",
+        "Evmos",
+        "Harmony",
+        "Avalanche"
+      ],
+      "tvl": 308374714.49600464,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 0.6468002327254112,
+      "change_7d": -11.035033462266867
+    },
+    {
+      "id": "solstice-usx",
+      "name": "Solstice USX",
+      "symbol": "-",
+      "category": "Basis Trading",
+      "chains": [
+        "Solana"
+      ],
+      "tvl": 301207574.500325,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": -0.45705315175655414,
+      "change_7d": -0.46659611819444535
+    },
+    {
+      "id": "ssv-network",
+      "name": "SSV Network",
+      "symbol": "-",
+      "category": "Staking Pool",
+      "chains": [
+        "Ethereum"
+      ],
+      "tvl": 299687512.2186735,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 0.7463777612305051,
+      "change_7d": null
+    },
+    {
+      "id": "b14g",
+      "name": "b14g",
+      "symbol": "-",
+      "category": "Restaking",
+      "chains": [
+        "Bitcoin",
+        "CORE",
+        "Babylon Genesis"
+      ],
+      "tvl": 293662136.69735825,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 0.845327926587558,
+      "change_7d": -7.331920081766512
+    },
+    {
+      "id": "fluid-lite",
+      "name": "Fluid Lite",
+      "symbol": "FLUID",
+      "category": "Yield Aggregator",
+      "chains": [
+        "Ethereum"
+      ],
+      "tvl": 293275968.4770548,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 1.1776462266550851,
+      "change_7d": -5.680037071825964
+    },
+    {
+      "id": "benqi-staked-avax",
+      "name": "Benqi Staked Avax",
+      "symbol": "QI",
+      "category": "Liquid Staking",
+      "chains": [
+        "Avalanche"
+      ],
+      "tvl": 288642390.0542631,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": -2.0211301116973175,
+      "change_7d": -16.78481310802725
+    },
+    {
+      "id": "zircuit-staking",
+      "name": "Zircuit Staking",
+      "symbol": "-",
+      "category": "Farm",
+      "chains": [
+        "Ethereum",
+        "Zircuit"
+      ],
+      "tvl": 286625254.6784687,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 1.180091793730071,
+      "change_7d": -11.85363296689549
+    },
+    {
+      "id": "midas-rwa",
+      "name": "Midas RWA",
+      "symbol": "-",
+      "category": "RWA",
+      "chains": [
+        "Ethereum",
+        "Plasma",
+        "Arbitrum",
+        "Hyperliquid L1",
+        "Katana",
+        "Unichain",
+        "Monad",
+        "Etherlink",
+        "XRPL EVM",
+        "Plume Mainnet",
+        "Sonic",
+        "Base",
+        "Linea",
+        "RSK",
+        "Polygon",
+        "Sapphire",
+        "Bitcoin",
+        "0G"
+      ],
+      "tvl": 274643394.85776025,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 2.842170943040401e-14,
+      "change_7d": 0
+    },
+    {
+      "id": "aerodrome-slipstream",
+      "name": "Aerodrome Slipstream",
+      "symbol": "AERO",
+      "category": "Dexs",
+      "chains": [
+        "Base"
+      ],
+      "tvl": 273372498.6477388,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 5.0123183639095,
+      "change_7d": -1.31972539871866
+    },
+    {
+      "id": "bitrue",
+      "name": "Bitrue",
+      "symbol": "-",
+      "category": "CEX",
+      "chains": [
+        "Ripple",
+        "Ethereum",
+        "Bitcoin",
+        "Hedera",
+        "Tron",
+        "Cardano",
+        "Solana",
+        "Binance",
+        "Flare",
+        "Polygon",
+        "Cosmos",
+        "Mantle",
+        "VeChain",
+        "Scroll",
+        "XDC",
+        "Linea",
+        "zkSync Era",
+        "Taiko",
+        "CORE",
+        "Sui",
+        "Polkadot"
+      ],
+      "tvl": 272195567.836544,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 1.9508084588368177,
+      "change_7d": -8.227257594519969
+    },
+    {
+      "id": "aster-asbnb",
+      "name": "Aster asBNB",
+      "symbol": "ASTER",
+      "category": "Yield",
+      "chains": [
+        "Binance"
+      ],
+      "tvl": 271618047.3155755,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 0.05629011791874916,
+      "change_7d": -5.8554953241413585
+    },
+    {
+      "id": "gtbtc",
+      "name": "GTBTC",
+      "symbol": "-",
+      "category": "Restaked BTC",
+      "chains": [
+        "Bitcoin"
+      ],
+      "tvl": 270213396.366509,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 0.8959936053950912,
+      "change_7d": -7.09845633230394
+    },
+    {
+      "id": "mellow-lrt",
+      "name": "Mellow LRT",
+      "symbol": "-",
+      "category": "Liquid Restaking",
+      "chains": [
+        "Ethereum",
+        "Lisk",
+        "Monad",
+        "Binance",
+        "Fraxtal"
+      ],
+      "tvl": 269866762.6661306,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 0.9501805353060178,
+      "change_7d": -10.394326773627412
+    },
+    {
+      "id": "hyperliquid-hlp",
+      "name": "Hyperliquid HLP",
+      "symbol": "HYPE",
+      "category": "Derivatives",
+      "chains": [
+        "Hyperliquid L1"
+      ],
+      "tvl": 268924105.1540296,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": -0.06676520006629971,
+      "change_7d": -0.18034003819276734
+    },
+    {
+      "id": "sunswap-v2",
+      "name": "SUNSwap V2",
+      "symbol": "SUN",
+      "category": "Dexs",
+      "chains": [
+        "Tron"
+      ],
+      "tvl": 262212812.79491955,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 1.9689525154477252,
+      "change_7d": -0.9756292260649815
+    },
+    {
+      "id": "navi-lending",
+      "name": "NAVI Lending",
+      "symbol": "NAVX",
+      "category": "Lending",
+      "chains": [
+        "Sui"
+      ],
+      "tvl": 262177391.02849764,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 0.22224658290271293,
+      "change_7d": -11.528166065101288
+    },
+    {
+      "id": "defi-saver",
+      "name": "Defi Saver",
+      "symbol": "-",
+      "category": "CDP Manager",
+      "chains": [
+        "Ethereum",
+        "Arbitrum",
+        "Optimism",
+        "Base"
+      ],
+      "tvl": 261563640.51650843,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": null,
+      "change_7d": null
+    },
+    {
+      "id": "kamino-liquidity",
+      "name": "Kamino Liquidity",
+      "symbol": "KMNO",
+      "category": "Liquidity manager",
+      "chains": [
+        "Solana"
+      ],
+      "tvl": 257861906.40310255,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 0.3007511192389103,
+      "change_7d": -0.8442933178649668
+    },
+    {
+      "id": "exsat-staking-btc",
+      "name": "exSat Staking BTC",
+      "symbol": "-",
+      "category": "Bridge",
+      "chains": [
+        "Bitcoin"
+      ],
+      "tvl": 252959970.86761206,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 0.6536709061318362,
+      "change_7d": -4.886392930004618
+    },
+    {
+      "id": "suilend",
+      "name": "Suilend",
+      "symbol": "SEND",
+      "category": "Lending",
+      "chains": [
+        "Sui"
+      ],
+      "tvl": 250806050.7627424,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 0.4331076093331774,
+      "change_7d": -17.985024289081338
+    },
+    {
+      "id": "treehouse-protocol",
+      "name": "Treehouse Protocol",
+      "symbol": "TREE",
+      "category": "DOR",
+      "chains": [
+        "Ethereum",
+        "Mantle",
+        "Avalanche"
+      ],
+      "tvl": 246657737.8735235,
+      "mcap": 14907433.046397816,
+      "fdv": null,
+      "change_1d": 0.9445675133866303,
+      "change_7d": -12.15088965119321
+    },
+    {
+      "id": "hyperlend-pooled",
+      "name": "HyperLend Pooled",
+      "symbol": "-",
+      "category": "Lending",
+      "chains": [
+        "Hyperliquid L1"
+      ],
+      "tvl": 245574601.57329023,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 1.186576117100671,
+      "change_7d": -15.204817034150807
+    },
+    {
+      "id": "vault-bridge",
+      "name": "Vault Bridge",
+      "symbol": "-",
+      "category": "Risk Curators",
+      "chains": [
+        "Ethereum"
+      ],
+      "tvl": 241272057.3523506,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 7.472906375888243,
+      "change_7d": 3.3741362102892367
+    },
+    {
+      "id": "valr",
+      "name": "VALR",
+      "symbol": "-",
+      "category": "CEX",
+      "chains": [
+        "Bitcoin",
+        "Ethereum",
+        "Ripple",
+        "Solana",
+        "Tron",
+        "Avalanche",
+        "Binance"
+      ],
+      "tvl": 239349441.8033977,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 3.6224159786422376,
+      "change_7d": -7.174642419156811
+    },
+    {
+      "id": "beefy",
+      "name": "Beefy",
+      "symbol": "BIFI",
+      "category": "Yield Aggregator",
+      "chains": [
+        "Ethereum",
+        "Arbitrum",
+        "Base",
+        "Avalanche",
+        "Fraxtal",
+        "Binance",
+        "Optimism",
+        "Polygon",
+        "Fantom",
+        "Cronos",
+        "Plasma",
+        "Monad",
+        "Linea",
+        "Sonic",
+        "xDai",
+        "Metis",
+        "Berachain",
+        "Lisk",
+        "RSK",
+        "Canto",
+        "Moonbeam",
+        "Fuse",
+        "Mantle",
+        "Moonriver",
+        "zkSync Era",
+        "Aurora",
+        "Celo",
+        "Kava",
+        "Mode",
+        "Oasis",
+        "Scroll",
+        "Harmony",
+        "Sei",
+        "Hyperliquid L1",
+        "Heco",
+        "re.al",
+        "Manta",
+        "Polygon zkEVM",
+        "Saga"
+      ],
+      "tvl": 238905040.77850264,
+      "mcap": 14752698.813995704,
+      "fdv": null,
+      "change_1d": 1.54137544750688,
+      "change_7d": 1.8538467059856742
+    },
+    {
+      "id": "mantle-restaking",
+      "name": "Mantle Restaking",
+      "symbol": "-",
+      "category": "Liquid Restaking",
+      "chains": [
+        "Ethereum"
+      ],
+      "tvl": 238810556.66531438,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 1.6825527533619606,
+      "change_7d": -12.982849271998404
+    },
+    {
+      "id": "dolomite",
+      "name": "Dolomite",
+      "symbol": "DOLO",
+      "category": "Lending",
+      "chains": [
+        "Ethereum",
+        "Arbitrum",
+        "Berachain",
+        "Botanix",
+        "Polygon zkEVM",
+        "Mantle",
+        "X Layer"
+      ],
+      "tvl": 238810159.56695375,
+      "mcap": 24587109.183460295,
+      "fdv": null,
+      "change_1d": -2.310623506691698,
+      "change_7d": 49.91939719560469
+    },
+    {
+      "id": "compound-v2",
+      "name": "Compound V2",
+      "symbol": "COMP",
+      "category": "Lending",
+      "chains": [
+        "Ethereum"
+      ],
+      "tvl": 238078450.79404932,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 0.4451461253984519,
+      "change_7d": -7.396277798099263
+    },
+    {
+      "id": "noble",
+      "name": "Noble",
+      "symbol": "-",
+      "category": "Chain",
+      "chains": [
+        "Noble"
+      ],
+      "tvl": 236531678.55444944,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": -0.9195982643907996,
+      "change_7d": 0.08726311413775534
+    },
+    {
+      "id": "bybit-staked-sol",
+      "name": "Bybit Staked SOL",
+      "symbol": "-",
+      "category": "Liquid Staking",
+      "chains": [
+        "Solana"
+      ],
+      "tvl": 234836576.70461968,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 2.603902028365866,
+      "change_7d": -11.344994505024232
+    },
+    {
+      "id": "mev-capital",
+      "name": "MEV Capital",
+      "symbol": "-",
+      "category": "Risk Curators",
+      "chains": [
+        "Ethereum",
+        "Avalanche",
+        "Hyperliquid L1",
+        "Sonic",
+        "Sui",
+        "Binance",
+        "Arbitrum",
+        "Base",
+        "Berachain",
+        "Unichain",
+        "Polygon"
+      ],
+      "tvl": 233543410.71934372,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 0.5932314492536079,
+      "change_7d": -2.0525030873743475
+    },
+    {
+      "id": "pumpswap",
+      "name": "PumpSwap",
+      "symbol": "-",
+      "category": "Dexs",
+      "chains": [
+        "Solana"
+      ],
+      "tvl": 232852899.59429199,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 4.069500172739168,
+      "change_7d": -8.692169340362128
+    },
+    {
+      "id": "pinksale",
+      "name": "PinkSale",
+      "symbol": "PINKSALE",
+      "category": "Launchpad",
+      "chains": [
+        "Binance",
+        "Ethereum",
+        "Polygon",
+        "Cronos",
+        "Avalanche",
+        "Fantom"
+      ],
+      "tvl": 232187765.54746813,
+      "mcap": 31014353.66878978,
+      "fdv": null,
+      "change_1d": 2.3038383984453077,
+      "change_7d": -5.1554485354499775
+    },
+    {
+      "id": "liquity-v1",
+      "name": "Liquity V1",
+      "symbol": "LQTY",
+      "category": "CDP",
+      "chains": [
+        "Ethereum"
+      ],
+      "tvl": 232000813.55892313,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 0.6895539028065656,
+      "change_7d": -11.279140605670307
+    },
+    {
+      "id": "drift-staked-sol",
+      "name": "Drift Staked SOL",
+      "symbol": "DRIFT",
+      "category": "Liquid Staking",
+      "chains": [
+        "Solana"
+      ],
+      "tvl": 231202541.1927956,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 2.1694702704753155,
+      "change_7d": -10.394413521507744
+    },
+    {
+      "id": "yield-basis",
+      "name": "Yield Basis",
+      "symbol": "YB",
+      "category": "Leveraged Farming",
+      "chains": [
+        "Ethereum"
+      ],
+      "tvl": 228789174.7229834,
+      "mcap": 21719841.545231786,
+      "fdv": null,
+      "change_1d": 1.0682138902658096,
+      "change_7d": -8.005689837981762
+    },
+    {
+      "id": "paradex-bridge",
+      "name": "Paradex Bridge",
+      "symbol": "-",
+      "category": "Bridge",
+      "chains": [
+        "Ethereum"
+      ],
+      "tvl": 218556407.66649902,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": -1.0603622262446777,
+      "change_7d": 5.4023492454115
+    },
+    {
+      "id": "frax-ether",
+      "name": "Frax Ether",
+      "symbol": "FRAX",
+      "category": "Liquid Staking",
+      "chains": [
+        "Ethereum",
+        "Fraxtal"
+      ],
+      "tvl": 215149515.26929745,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 0.2872555064423352,
+      "change_7d": -12.116358224596596
+    },
+    {
+      "id": "hyperithm",
+      "name": "Hyperithm",
+      "symbol": "-",
+      "category": "Risk Curators",
+      "chains": [
+        "Ethereum",
+        "Arbitrum",
+        "Plasma",
+        "Binance",
+        "Monad",
+        "Hyperliquid L1",
+        "XRPL EVM"
+      ],
+      "tvl": 213291108.43692693,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 17.962346484060163,
+      "change_7d": 23.877336912180454
+    },
+    {
+      "id": "plasma-saving-vaults",
+      "name": "Plasma Saving Vaults",
+      "symbol": "-",
+      "category": "Onchain Capital Allocator",
+      "chains": [
+        "Plasma"
+      ],
+      "tvl": 209898518.50250426,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": -19.90437092274192,
+      "change_7d": -23.021062048923284
+    },
+    {
+      "id": "the-vault-liquid-staking",
+      "name": "The Vault Liquid Staking",
+      "symbol": "-",
+      "category": "Liquid Staking",
+      "chains": [
+        "Solana"
+      ],
+      "tvl": 209278764.6674834,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 1.9527693650390034,
+      "change_7d": -9.647993000014893
+    },
+    {
+      "id": "marinade-select",
+      "name": "Marinade Select",
+      "symbol": "MNDE",
+      "category": "Staking Pool",
+      "chains": [
+        "Solana"
+      ],
+      "tvl": 209061535.5219889,
+      "mcap": null,
+      "fdv": null,
+      "change_1d": 1.6235716194650962,
+      "change_7d": -10.644117386459726
+    }
+  ]
+}

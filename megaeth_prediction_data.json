@@ -1,0 +1,129 @@
+{
+  "metadata": {
+    "author": "haidamykyta@gmail.com",
+    "created": "2026-01-26",
+    "model_version": "1.0",
+    "project": "MegaETH FDV Prediction"
+  },
+  "prediction": {
+    "base_prediction_usd": 3170000000,
+    "market_adjusted_usd": 3010000000,
+    "range_low_usd": 2110000000,
+    "range_high_usd": 4220000000,
+    "confidence": 0.70
+  },
+  "megaeth_fundamentals": {
+    "total_raised_usd": 506500000,
+    "fundraising_rounds": [
+      {"round": "Seed", "amount_usd": 20000000, "lead": "Dragonfly"},
+      {"round": "Echo", "amount_usd": 10000000, "lead": "Community"},
+      {"round": "NFT Sale", "amount_usd": 26500000, "valuation_usd": 550000000},
+      {"round": "Public Sale", "amount_usd": 450000000, "total_bids_usd": 1390000000, "oversubscription": 27.8}
+    ],
+    "key_investors": [
+      {"name": "Dragonfly Capital", "tier": 1, "role": "Lead"},
+      {"name": "Vitalik Buterin", "tier": 1, "role": "Personal"},
+      {"name": "Joseph Lubin", "tier": 1, "role": "Angel"},
+      {"name": "Figment Capital", "tier": 2, "role": "Investor"},
+      {"name": "Robot Ventures", "tier": 2, "role": "Investor"}
+    ],
+    "category": "L2",
+    "tps_claim": 100000,
+    "narrative": "Real-time EVM blockchain"
+  },
+  "methodology": {
+    "method_1_zkSync_ratio": {
+      "description": "Direct scaling from closest comparable",
+      "formula": "(MegaETH_raised / zkSync_raised) x zkSync_FDV",
+      "zkSync_raised_usd": 458000000,
+      "zkSync_fdv_day1_usd": 1470000000,
+      "result_usd": 1630000000
+    },
+    "method_2_hype_adjustment": {
+      "description": "Adjustment for unique hype factors",
+      "base_usd": 1630000000,
+      "hype_multiplier": 1.5,
+      "factors": ["Vitalik personal investment", "100k TPS narrative", "Dragonfly track record"],
+      "result_usd": 2440000000
+    },
+    "method_3_demand_adjustment": {
+      "description": "Adjustment for public sale demand signal",
+      "base_usd": 2440000000,
+      "demand_multiplier": 1.3,
+      "public_sale_raised_usd": 450000000,
+      "public_sale_bids_usd": 1390000000,
+      "oversubscription": 27.8,
+      "result_usd": 3170000000
+    }
+  },
+  "market_conditions": {
+    "timestamp": "2026-01-24T15:53:50",
+    "btc_price_usd": 89319,
+    "btc_30d_change_pct": 1.9,
+    "eth_price_usd": 2955,
+    "eth_30d_change_pct": 0.7,
+    "fear_greed_index": 25,
+    "fear_greed_classification": "Extreme Fear",
+    "price_multiplier": 1.1,
+    "sentiment_multiplier": 0.8,
+    "combined_multiplier": 0.95
+  },
+  "comparables": [
+    {"name": "Monad", "raised_usd": 513000000, "fdv_day1_usd": 2500000000, "multiplier": 4.9, "category": "L1"},
+    {"name": "zkSync", "raised_usd": 458000000, "fdv_day1_usd": 1470000000, "multiplier": 3.2, "category": "L2"},
+    {"name": "Aptos", "raised_usd": 350000000, "fdv_day1_usd": 8500000000, "multiplier": 24.3, "category": "L1"},
+    {"name": "Sui", "raised_usd": 336000000, "fdv_day1_usd": 12500000000, "multiplier": 37.2, "category": "L1"},
+    {"name": "Starknet", "raised_usd": 282000000, "fdv_day1_usd": 20000000000, "multiplier": 70.9, "category": "L2"},
+    {"name": "LayerZero", "raised_usd": 263000000, "fdv_day1_usd": 6800000000, "multiplier": 25.9, "category": "Infrastructure"},
+    {"name": "Wormhole", "raised_usd": 225000000, "fdv_day1_usd": 13000000000, "multiplier": 57.8, "category": "Infrastructure"},
+    {"name": "Optimism", "raised_usd": 178000000, "fdv_day1_usd": 19000000000, "multiplier": 106.4, "category": "L2"},
+    {"name": "EigenLayer", "raised_usd": 164000000, "fdv_day1_usd": 5500000000, "multiplier": 33.4, "category": "Infrastructure"},
+    {"name": "Berachain", "raised_usd": 142000000, "fdv_day1_usd": 4200000000, "multiplier": 29.9, "category": "L1"},
+    {"name": "Arbitrum", "raised_usd": 124000000, "fdv_day1_usd": 12500000000, "multiplier": 101.1, "category": "L2"},
+    {"name": "Manta Network", "raised_usd": 60000000, "fdv_day1_usd": 3500000000, "multiplier": 57.9, "category": "L2"},
+    {"name": "Celestia", "raised_usd": 55000000, "fdv_day1_usd": 6200000000, "multiplier": 112.7, "category": "L1"},
+    {"name": "Scroll", "raised_usd": 50000000, "fdv_day1_usd": 1500000000, "multiplier": 30.0, "category": "L2"},
+    {"name": "ether.fi", "raised_usd": 50000000, "fdv_day1_usd": 3000000000, "multiplier": 60.0, "category": "DeFi"}
+  ],
+  "polymarket_signals": {
+    "market_slug": "megaeth-market-cap-fdv-one-day-after-launch",
+    "buckets": [
+      {"threshold": ">$1B", "model_prob": 0.95, "market_price": 0.82, "ev": 0.13, "signal": "BUY"},
+      {"threshold": ">$2B", "model_prob": 0.95, "market_price": 0.37, "ev": 0.58, "signal": "STRONG_BUY"},
+      {"threshold": ">$3B", "model_prob": 0.75, "market_price": 0.09, "ev": 0.66, "signal": "STRONG_BUY"},
+      {"threshold": ">$4B", "model_prob": 0.35, "market_price": 0.05, "ev": 0.30, "signal": "BUY"},
+      {"threshold": ">$6B", "model_prob": 0.10, "market_price": 0.02, "ev": 0.08, "signal": "HOLD"}
+    ],
+    "recommended_allocation": {
+      "gt_2b": 0.40,
+      "gt_3b": 0.35,
+      "gt_4b": 0.25
+    }
+  },
+  "backtest_results": {
+    "total_events": 3,
+    "exact_match_rate": 0.33,
+    "adjacent_rate": 0.67,
+    "in_range_rate": 1.00,
+    "total_profit_usd": 61.50,
+    "average_roi": 0.20,
+    "events": [
+      {"token": "SAFE", "predicted_usd": 1500000000, "actual_usd": 1000000000, "bucket_distance": 0, "in_range": true, "profit_usd": 79},
+      {"token": "ETHENA", "predicted_usd": 10000000000, "actual_usd": 14000000000, "bucket_distance": null, "in_range": true, "profit_usd": -100},
+      {"token": "EIGENLAYER", "predicted_usd": 15000000000, "actual_usd": 11600000000, "bucket_distance": 1, "in_range": true, "profit_usd": 83}
+    ]
+  },
+  "risks": {
+    "downside": [
+      "Extreme Fear market sentiment (FGI=25)",
+      "zkSync pattern: high raises = low multipliers",
+      "Polymarket liquidity constraints",
+      "Launch timeline uncertainty"
+    ],
+    "upside": [
+      "Vitalik endorsement driving retail FOMO",
+      "100k TPS technical validation",
+      "Market sentiment recovery"
+    ]
+  }
+}

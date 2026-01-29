@@ -1,0 +1,147 @@
+{
+  "description": "VC/Investor tier ratings and their impact on FDV",
+  "last_updated": "2025-01-22",
+  "tier_multipliers": {
+    "tier_1": 1.5,
+    "tier_2": 1.2,
+    "tier_3": 1.0,
+    "no_vc": 0.7
+  },
+  "investors": {
+    "tier_1": [
+      {
+        "name": "a16z Crypto",
+        "also_known_as": ["Andreessen Horowitz", "a16z"],
+        "avg_fdv_multiplier": 1.8,
+        "notable_investments": ["Solana", "Uniswap", "Optimism", "LayerZero"],
+        "typical_check_size_usd": "20M-100M"
+      },
+      {
+        "name": "Paradigm",
+        "also_known_as": [],
+        "avg_fdv_multiplier": 1.7,
+        "notable_investments": ["Uniswap", "dYdX", "Blur", "friend.tech"],
+        "typical_check_size_usd": "10M-200M"
+      },
+      {
+        "name": "Polychain Capital",
+        "also_known_as": ["Polychain"],
+        "avg_fdv_multiplier": 1.5,
+        "notable_investments": ["Celestia", "Eigenlayer", "Cosmos"],
+        "typical_check_size_usd": "5M-50M"
+      },
+      {
+        "name": "Sequoia Capital",
+        "also_known_as": ["Sequoia"],
+        "avg_fdv_multiplier": 1.6,
+        "notable_investments": ["Starknet", "LayerZero", "Polygon"],
+        "typical_check_size_usd": "20M-150M"
+      },
+      {
+        "name": "Pantera Capital",
+        "also_known_as": ["Pantera"],
+        "avg_fdv_multiplier": 1.4,
+        "notable_investments": ["Ondo", "1inch", "Balancer"],
+        "typical_check_size_usd": "5M-30M"
+      },
+      {
+        "name": "Jump Crypto",
+        "also_known_as": ["Jump Trading"],
+        "avg_fdv_multiplier": 1.5,
+        "notable_investments": ["Wormhole", "Pyth", "Monad"],
+        "typical_check_size_usd": "10M-100M"
+      },
+      {
+        "name": "Coinbase Ventures",
+        "also_known_as": [],
+        "avg_fdv_multiplier": 1.3,
+        "notable_investments": ["Optimism", "Arbitrum", "Uniswap"],
+        "typical_check_size_usd": "1M-20M"
+      },
+      {
+        "name": "Founders Fund",
+        "also_known_as": [],
+        "avg_fdv_multiplier": 1.6,
+        "notable_investments": ["Starknet", "Ondo", "Figure"],
+        "typical_check_size_usd": "20M-100M"
+      }
+    ],
+    "tier_2": [
+      {
+        "name": "Dragonfly Capital",
+        "also_known_as": ["Dragonfly"],
+        "avg_fdv_multiplier": 1.3,
+        "notable_investments": ["Ethena", "Celo", "NEAR"]
+      },
+      {
+        "name": "Blockchain Capital",
+        "also_known_as": [],
+        "avg_fdv_multiplier": 1.25,
+        "notable_investments": ["Eigenlayer", "Aave", "Polkadot"]
+      },
+      {
+        "name": "Multicoin Capital",
+        "also_known_as": ["Multicoin"],
+        "avg_fdv_multiplier": 1.3,
+        "notable_investments": ["Solana", "Helium", "The Graph"]
+      },
+      {
+        "name": "Framework Ventures",
+        "also_known_as": ["Framework"],
+        "avg_fdv_multiplier": 1.2,
+        "notable_investments": ["Aave", "Synthetix", "Chainlink"]
+      },
+      {
+        "name": "Delphi Digital",
+        "also_known_as": ["Delphi"],
+        "avg_fdv_multiplier": 1.2,
+        "notable_investments": ["Ethena", "Axie", "Lido"]
+      },
+      {
+        "name": "Binance Labs",
+        "also_known_as": [],
+        "avg_fdv_multiplier": 1.2,
+        "notable_investments": ["Manta", "Polygon", "Injective"]
+      },
+      {
+        "name": "1kx",
+        "also_known_as": [],
+        "avg_fdv_multiplier": 1.2,
+        "notable_investments": ["Safe", "Lido", "The Graph"]
+      },
+      {
+        "name": "Electric Capital",
+        "also_known_as": [],
+        "avg_fdv_multiplier": 1.2,
+        "notable_investments": ["Frax", "Uniswap", "Near"]
+      }
+    ],
+    "tier_3": [
+      {
+        "name": "Standard Crypto",
+        "avg_fdv_multiplier": 1.1,
+        "notable_investments": ["Blast", "Farcaster"]
+      },
+      {
+        "name": "Placeholder VC",
+        "avg_fdv_multiplier": 1.1,
+        "notable_investments": ["Celestia", "Arweave"]
+      },
+      {
+        "name": "Big Brain Holdings",
+        "avg_fdv_multiplier": 1.0,
+        "notable_investments": ["Dymension"]
+      },
+      {
+        "name": "Robot Ventures",
+        "avg_fdv_multiplier": 1.1,
+        "notable_investments": ["Eigenlayer"]
+      },
+      {
+        "name": "Hack VC",
+        "avg_fdv_multiplier": 1.1,
+        "notable_investments": ["EigenDA", "Monad"]
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "timestamp": "2026-01-24T15:53:50.524934",
+  "btc": {
+    "price": 89319.4752410688,
+    "change_30d_pct": 1.860262675780224
+  },
+  "eth": {
+    "price": 2954.706621306339,
+    "change_30d_pct": 0.7382107616519826
+  },
+  "condition": "neutral",
+  "price_multiplier": 1.1,
+  "fear_greed": {
+    "value": 25,
+    "classification": "Extreme Fear"
+  },
+  "sentiment_multiplier": 0.8,
+  "combined_multiplier": 0.9500000000000001
+}

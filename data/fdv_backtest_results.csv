@@ -1,0 +1,25 @@
+slug,checkpoint,market_prediction,actual,exact_match,adjacent_match,bucket_distance,fdv_distance,confidence
+safe-market-cap-fdv-one-week-after-launch,0,Will the $SAFE market cap be between $2-3b one week after launch?,Will the $SAFE market cap be less than $1b one week after launch? ,False,False,2,1.8050398035361572,0.2
+ethena-market-cap-fdv-one-day-after-airdrop,0,Ethena token FDV between 7.5b and 10b one day after launch?,Ethena token FDV between 5b and 7.5b one day after launch?,False,True,1,0.4049698075603386,0.33
+eigenlayer-market-cap-fdv-one-day-after-launch,0,Eigenlayer market cap (FDV) <$10b one day after launch?,Eigenlayer market cap (FDV) <$10b one day after launch?,True,True,0,2.8881152625368194,0.766
+friendtech-fdv-one-day-after-launch,0,FriendTech market cap less than $1b one day after launch?,FriendTech market cap less than $1b one day after launch?,True,True,0,48.81361914681097,0.4615405636484685
+safe-market-cap-fdv-one-week-after-launch,25,Will the $SAFE market cap be between $1-2b one week after launch?,Will the $SAFE market cap be less than $1b one week after launch? ,False,True,1,0.6830238821216944,0.999
+ethena-market-cap-fdv-one-day-after-airdrop,25,Ethena token FDV between 10b and 12.5b one day after launch?,Ethena token FDV between 5b and 7.5b one day after launch?,False,False,2,0.8732930767471181,0.56
+eigenlayer-market-cap-fdv-one-day-after-launch,25,Eigenlayer market cap (FDV) between $10-15b one day after launch?,Eigenlayer market cap (FDV) <$10b one day after launch?,False,True,1,8.720288156342049,0.24
+friendtech-fdv-one-day-after-launch,25,FriendTech market cap less than $1b one day after launch?,FriendTech market cap less than $1b one day after launch?,True,True,0,48.81361914681097,0.26999998312500023
+safe-market-cap-fdv-one-week-after-launch,50,Will the $SAFE market cap be between $1-2b one week after launch?,Will the $SAFE market cap be less than $1b one week after launch? ,False,True,1,0.6830238821216944,0.999
+ethena-market-cap-fdv-one-day-after-airdrop,50,Ethena token FDV between 10b and 12.5b one day after launch?,Ethena token FDV between 5b and 7.5b one day after launch?,False,False,2,0.8732930767471181,0.56
+eigenlayer-market-cap-fdv-one-day-after-launch,50,Eigenlayer market cap (FDV) <$10b one day after launch?,Eigenlayer market cap (FDV) <$10b one day after launch?,True,True,0,2.8881152625368194,0.829999219799173
+friendtech-fdv-one-day-after-launch,50,FriendTech market cap less than $1b one day after launch?,FriendTech market cap less than $1b one day after launch?,True,True,0,48.81361914681097,0.28
+safe-market-cap-fdv-one-week-after-launch,75,Will the $SAFE market cap be between $1-2b one week after launch?,Will the $SAFE market cap be less than $1b one week after launch? ,False,True,1,0.6830238821216944,0.999
+ethena-market-cap-fdv-one-day-after-airdrop,75,Ethena token FDV between 10b and 12.5b one day after launch?,Ethena token FDV between 5b and 7.5b one day after launch?,False,False,2,0.8732930767471181,0.56
+eigenlayer-market-cap-fdv-one-day-after-launch,75,Eigenlayer market cap (FDV) <$10b one day after launch?,Eigenlayer market cap (FDV) <$10b one day after launch?,True,True,0,2.8881152625368194,0.998
+friendtech-fdv-one-day-after-launch,75,FriendTech market cap less than $1b one day after launch?,FriendTech market cap less than $1b one day after launch?,True,True,0,48.81361914681097,0.3299999811899992
+safe-market-cap-fdv-one-week-after-launch,90,Will the $SAFE market cap be between $1-2b one week after launch?,Will the $SAFE market cap be less than $1b one week after launch? ,False,True,1,0.6830238821216944,0.999
+ethena-market-cap-fdv-one-day-after-airdrop,90,Ethena token FDV between 10b and 12.5b one day after launch?,Ethena token FDV between 5b and 7.5b one day after launch?,False,False,2,0.8732930767471181,0.56
+eigenlayer-market-cap-fdv-one-day-after-launch,90,Eigenlayer market cap (FDV) <$10b one day after launch?,Eigenlayer market cap (FDV) <$10b one day after launch?,True,True,0,2.8881152625368194,0.998
+friendtech-fdv-one-day-after-launch,90,FriendTech market cap less than $1b one day after launch?,FriendTech market cap less than $1b one day after launch?,True,True,0,48.81361914681097,0.40999999712999996
+safe-market-cap-fdv-one-week-after-launch,95,Will the $SAFE market cap be between $1-2b one week after launch?,Will the $SAFE market cap be less than $1b one week after launch? ,False,True,1,0.6830238821216944,0.999
+ethena-market-cap-fdv-one-day-after-airdrop,95,Ethena token FDV between 10b and 12.5b one day after launch?,Ethena token FDV between 5b and 7.5b one day after launch?,False,False,2,0.8732930767471181,0.56
+eigenlayer-market-cap-fdv-one-day-after-launch,95,Eigenlayer market cap (FDV) <$10b one day after launch?,Eigenlayer market cap (FDV) <$10b one day after launch?,True,True,0,2.8881152625368194,0.998
+friendtech-fdv-one-day-after-launch,95,FriendTech market cap less than $1b one day after launch?,FriendTech market cap less than $1b one day after launch?,True,True,0,48.81361914681097,0.6001836992645445

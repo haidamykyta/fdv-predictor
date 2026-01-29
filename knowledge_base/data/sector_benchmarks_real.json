@@ -1,0 +1,576 @@
+{
+  "generated_at": "2026-01-22T14:20:07.822802",
+  "source": "DefiLlama",
+  "sectors": {
+    "Centralized Exchange": {
+      "count": 170,
+      "total_raised_m": 11777.28,
+      "avg_raise_m": 69.27811764705882,
+      "median_raise_m": 10,
+      "min_m": 0.1,
+      "max_m": 2000,
+      "p25_m": 3,
+      "p75_m": 40
+    },
+    "DeFi": {
+      "count": 826,
+      "total_raised_m": 9213.09432,
+      "avg_raise_m": 11.153867215496367,
+      "median_raise_m": 4,
+      "min_m": 0.04,
+      "max_m": 1000,
+      "p25_m": 2,
+      "p75_m": 8
+    },
+    "AI": {
+      "count": 144,
+      "total_raised_m": 1114.81,
+      "avg_raise_m": 7.741736111111111,
+      "median_raise_m": 5.35,
+      "min_m": 0.7,
+      "max_m": 85,
+      "p25_m": 3,
+      "p75_m": 9
+    },
+    "CeFi": {
+      "count": 205,
+      "total_raised_m": 11530.414,
+      "avg_raise_m": 56.245921951219515,
+      "median_raise_m": 10,
+      "min_m": 0.55,
+      "max_m": 1100,
+      "p25_m": 3,
+      "p75_m": 40
+    },
+    "Stablecoin": {
+      "count": 27,
+      "total_raised_m": 856.81,
+      "avg_raise_m": 31.7337037037037,
+      "median_raise_m": 6.5,
+      "min_m": 0.8,
+      "max_m": 600,
+      "p25_m": 1.8,
+      "p75_m": 13.5
+    },
+    "Unknown": {
+      "count": 1972,
+      "total_raised_m": 34033.588,
+      "avg_raise_m": 17.258411764705883,
+      "median_raise_m": 4.5,
+      "min_m": 0.1,
+      "max_m": 900,
+      "p25_m": 2,
+      "p75_m": 12
+    },
+    "Web3": {
+      "count": 178,
+      "total_raised_m": 1311.18,
+      "avg_raise_m": 7.366179775280899,
+      "median_raise_m": 3.5,
+      "min_m": 0.25,
+      "max_m": 141.32,
+      "p25_m": 2,
+      "p75_m": 6.9
+    },
+    "Metaverse": {
+      "count": 53,
+      "total_raised_m": 332.793,
+      "avg_raise_m": 6.27911320754717,
+      "median_raise_m": 3.5,
+      "min_m": 0.35,
+      "max_m": 54,
+      "p25_m": 2.1,
+      "p75_m": 5
+    },
+    "Gaming": {
+      "count": 303,
+      "total_raised_m": 4884.276,
+      "avg_raise_m": 16.11972277227723,
+      "median_raise_m": 5,
+      "min_m": 0.56,
+      "max_m": 725,
+      "p25_m": 3,
+      "p75_m": 10
+    },
+    "Crypto Intelligence": {
+      "count": 4,
+      "total_raised_m": 27.78,
+      "avg_raise_m": 6.945,
+      "median_raise_m": 5.5,
+      "min_m": 2.98,
+      "max_m": 15,
+      "p25_m": 4.3,
+      "p75_m": 15
+    },
+    "Infrastructure": {
+      "count": 731,
+      "total_raised_m": 14219.067,
+      "avg_raise_m": 19.45152804377565,
+      "median_raise_m": 6,
+      "min_m": 0.1,
+      "max_m": 550,
+      "p25_m": 2.88,
+      "p75_m": 15
+    },
+    "Cybersecurity": {
+      "count": 45,
+      "total_raised_m": 703.244,
+      "avg_raise_m": 15.627644444444446,
+      "median_raise_m": 6.75,
+      "min_m": 1,
+      "max_m": 70,
+      "p25_m": 3.5,
+      "p75_m": 16
+    },
+    "Smart contract security": {
+      "count": 20,
+      "total_raised_m": 162.22,
+      "avg_raise_m": 8.111,
+      "median_raise_m": 6,
+      "min_m": 0.12,
+      "max_m": 32,
+      "p25_m": 3,
+      "p75_m": 8.2
+    },
+    "L1": {
+      "count": 290,
+      "total_raised_m": 12616.478,
+      "avg_raise_m": 43.50509655172414,
+      "median_raise_m": 10,
+      "min_m": 0.15,
+      "max_m": 4200,
+      "p25_m": 4,
+      "p75_m": 25
+    },
+    "Wallet": {
+      "count": 16,
+      "total_raised_m": 370.6,
+      "avg_raise_m": 23.1625,
+      "median_raise_m": 15,
+      "min_m": 0.5,
+      "max_m": 150,
+      "p25_m": 5,
+      "p75_m": 22
+    },
+    "Zero Knowledge Industry": {
+      "count": 19,
+      "total_raised_m": 419.8,
+      "avg_raise_m": 22.094736842105263,
+      "median_raise_m": 6.5,
+      "min_m": 1,
+      "max_m": 200,
+      "p25_m": 4,
+      "p75_m": 24
+    },
+    "Trading": {
+      "count": 147,
+      "total_raised_m": 2141.412,
+      "avg_raise_m": 14.56742857142857,
+      "median_raise_m": 4.6,
+      "min_m": 0.5,
+      "max_m": 150,
+      "p25_m": 1.74,
+      "p75_m": 15
+    },
+    "DAO infrastructure": {
+      "count": 13,
+      "total_raised_m": 144.35,
+      "avg_raise_m": 11.103846153846153,
+      "median_raise_m": 6,
+      "min_m": 1,
+      "max_m": 80,
+      "p25_m": 3.7,
+      "p75_m": 7
+    },
+    "NFT": {
+      "count": 225,
+      "total_raised_m": 2810.264,
+      "avg_raise_m": 12.490062222222223,
+      "median_raise_m": 4,
+      "min_m": 0.25,
+      "max_m": 450,
+      "p25_m": 2,
+      "p75_m": 7.8
+    },
+    "Liquid Restaking Protocol": {
+      "count": 13,
+      "total_raised_m": 282.5,
+      "avg_raise_m": 21.73076923076923,
+      "median_raise_m": 8,
+      "min_m": 1,
+      "max_m": 100,
+      "p25_m": 3,
+      "p75_m": 16
+    },
+    "Smart contract audits": {
+      "count": 7,
+      "total_raised_m": 156.3,
+      "avg_raise_m": 22.32857142857143,
+      "median_raise_m": 5.3,
+      "min_m": 2.5,
+      "max_m": 80,
+      "p25_m": 3.5,
+      "p75_m": 37
+    },
+    "RWA": {
+      "count": 58,
+      "total_raised_m": 1257.58,
+      "avg_raise_m": 21.682413793103446,
+      "median_raise_m": 5,
+      "min_m": 0.5,
+      "max_m": 787.5,
+      "p25_m": 3,
+      "p75_m": 11.5
+    },
+    "Mining": {
+      "count": 78,
+      "total_raised_m": 3808.205,
+      "avg_raise_m": 48.82314102564102,
+      "median_raise_m": 15,
+      "min_m": 0.5,
+      "max_m": 525,
+      "p25_m": 4.07,
+      "p75_m": 43.45
+    },
+    "Analytics": {
+      "count": 98,
+      "total_raised_m": 1182.108,
+      "avg_raise_m": 12.062326530612244,
+      "median_raise_m": 4,
+      "min_m": 0.1,
+      "max_m": 170,
+      "p25_m": 1.8,
+      "p75_m": 9
+    },
+    "Healthcare": {
+      "count": 16,
+      "total_raised_m": 131.97,
+      "avg_raise_m": 8.248125,
+      "median_raise_m": 3.5,
+      "min_m": 0.4,
+      "max_m": 54,
+      "p25_m": 1.8,
+      "p75_m": 13.2
+    },
+    "Hardware": {
+      "count": 6,
+      "total_raised_m": 246.2,
+      "avg_raise_m": 41.03333333333333,
+      "median_raise_m": 33,
+      "min_m": 1.2,
+      "max_m": 109,
+      "p25_m": 13,
+      "p75_m": 70
+    },
+    "Privacy Infrastructure": {
+      "count": 6,
+      "total_raised_m": 189.1,
+      "avg_raise_m": 31.516666666666666,
+      "median_raise_m": 40.2,
+      "min_m": 1.1,
+      "max_m": 73,
+      "p25_m": 7.8,
+      "p75_m": 57
+    },
+    "Insurance": {
+      "count": 8,
+      "total_raised_m": 156.75,
+      "avg_raise_m": 19.59375,
+      "median_raise_m": 6.85,
+      "min_m": 2.6,
+      "max_m": 82,
+      "p25_m": 3,
+      "p75_m": 40
+    },
+    "L2": {
+      "count": 105,
+      "total_raised_m": 1909.59,
+      "avg_raise_m": 18.186571428571426,
+      "median_raise_m": 7,
+      "min_m": 1,
+      "max_m": 200,
+      "p25_m": 3.45,
+      "p75_m": 15
+    },
+    "DePIN": {
+      "count": 34,
+      "total_raised_m": 344.2,
+      "avg_raise_m": 10.123529411764705,
+      "median_raise_m": 4.5,
+      "min_m": 0.5,
+      "max_m": 70,
+      "p25_m": 2.85,
+      "p75_m": 10.8
+    },
+    "Betting": {
+      "count": 8,
+      "total_raised_m": 3222.85,
+      "avg_raise_m": 402.85625,
+      "median_raise_m": 55,
+      "min_m": 2.5,
+      "max_m": 2000,
+      "p25_m": 4.75,
+      "p75_m": 1000
+    },
+    "DEX": {
+      "count": 48,
+      "total_raised_m": 276.15,
+      "avg_raise_m": 5.753125,
+      "median_raise_m": 4.5,
+      "min_m": 0.5,
+      "max_m": 34,
+      "p25_m": 2.2,
+      "p75_m": 7
+    },
+    "MEV": {
+      "count": 7,
+      "total_raised_m": 88.95,
+      "avg_raise_m": 12.707142857142857,
+      "median_raise_m": 6,
+      "min_m": 2.25,
+      "max_m": 60,
+      "p25_m": 2.3,
+      "p75_m": 8
+    },
+    "Liquid Staking Protocol": {
+      "count": 26,
+      "total_raised_m": 265.3,
+      "avg_raise_m": 10.203846153846154,
+      "median_raise_m": 5,
+      "min_m": 0.5,
+      "max_m": 70,
+      "p25_m": 3.5,
+      "p75_m": 12
+    },
+    "Banking": {
+      "count": 38,
+      "total_raised_m": 1590.3799999999999,
+      "avg_raise_m": 41.85210526315789,
+      "median_raise_m": 16.7,
+      "min_m": 1,
+      "max_m": 620,
+      "p25_m": 7,
+      "p75_m": 35
+    },
+    "Payments": {
+      "count": 112,
+      "total_raised_m": 2810.65,
+      "avg_raise_m": 25.095089285714288,
+      "median_raise_m": 6,
+      "min_m": 0.12,
+      "max_m": 500,
+      "p25_m": 3,
+      "p75_m": 20
+    },
+    "Social Platform": {
+      "count": 76,
+      "total_raised_m": 2288.94,
+      "avg_raise_m": 30.117631578947368,
+      "median_raise_m": 4.42,
+      "min_m": 0.5,
+      "max_m": 775,
+      "p25_m": 2,
+      "p75_m": 10
+    },
+    "Meme": {
+      "count": 36,
+      "total_raised_m": 183.927928,
+      "avg_raise_m": 5.1091091111111115,
+      "median_raise_m": 2.284032,
+      "min_m": 0.176,
+      "max_m": 32.636544,
+      "p25_m": 0.916224,
+      "p75_m": 5.714112
+    },
+    "Stablecoin Infrastructure": {
+      "count": 11,
+      "total_raised_m": 575.0,
+      "avg_raise_m": 52.27272727272727,
+      "median_raise_m": 12.5,
+      "min_m": 2,
+      "max_m": 300,
+      "p25_m": 10,
+      "p75_m": 58
+    },
+    "Information services digital assets": {
+      "count": 3,
+      "total_raised_m": 22.700000000000003,
+      "avg_raise_m": 7.566666666666667,
+      "median_raise_m": 9,
+      "min_m": 3.6,
+      "max_m": 10.1,
+      "p25_m": 3.6,
+      "p75_m": 10.1
+    },
+    "Real Estate": {
+      "count": 6,
+      "total_raised_m": 27.899,
+      "avg_raise_m": 4.6498333333333335,
+      "median_raise_m": 3,
+      "min_m": 0.5,
+      "max_m": 15.5,
+      "p25_m": 1.959,
+      "p75_m": 3.97
+    },
+    "Storage": {
+      "count": 26,
+      "total_raised_m": 286.882,
+      "avg_raise_m": 11.033923076923077,
+      "median_raise_m": 3.5,
+      "min_m": 0.12,
+      "max_m": 140,
+      "p25_m": 1.6,
+      "p75_m": 8.3
+    },
+    "Game": {
+      "count": 40,
+      "total_raised_m": 210.56,
+      "avg_raise_m": 5.264,
+      "median_raise_m": 3.84,
+      "min_m": 1,
+      "max_m": 20,
+      "p25_m": 2.15,
+      "p75_m": 7.5
+    },
+    "Digital Identity": {
+      "count": 35,
+      "total_raised_m": 421.918,
+      "avg_raise_m": 12.0548,
+      "median_raise_m": 5.4,
+      "min_m": 0.05,
+      "max_m": 115,
+      "p25_m": 2,
+      "p75_m": 12.5
+    },
+    "Investment": {
+      "count": 15,
+      "total_raised_m": 770.9,
+      "avg_raise_m": 51.39333333333333,
+      "median_raise_m": 13,
+      "min_m": 1,
+      "max_m": 250,
+      "p25_m": 3.8,
+      "p75_m": 50
+    },
+    "CeDeFi": {
+      "count": 6,
+      "total_raised_m": 49.25,
+      "avg_raise_m": 8.208333333333334,
+      "median_raise_m": 7.8,
+      "min_m": 3.75,
+      "max_m": 17.5,
+      "p25_m": 4.2,
+      "p75_m": 10
+    },
+    "Education": {
+      "count": 6,
+      "total_raised_m": 75.78,
+      "avg_raise_m": 12.63,
+      "median_raise_m": 5,
+      "min_m": 1.68,
+      "max_m": 50,
+      "p25_m": 3,
+      "p75_m": 12
+    },
+    "IoT": {
+      "count": 5,
+      "total_raised_m": 285.09,
+      "avg_raise_m": 57.017999999999994,
+      "median_raise_m": 6,
+      "min_m": 2.4,
+      "max_m": 258,
+      "p25_m": 3.69,
+      "p75_m": 15
+    },
+    "Taxes": {
+      "count": 11,
+      "total_raised_m": 275.76,
+      "avg_raise_m": 25.069090909090907,
+      "median_raise_m": 5,
+      "min_m": 0.95,
+      "max_m": 130,
+      "p25_m": 1.5,
+      "p75_m": 15
+    },
+    "Scaling Solution": {
+      "count": 19,
+      "total_raised_m": 965.055,
+      "avg_raise_m": 50.79236842105263,
+      "median_raise_m": 8.86,
+      "min_m": 0.785,
+      "max_m": 450,
+      "p25_m": 1.7,
+      "p75_m": 90
+    },
+    "Custody": {
+      "count": 10,
+      "total_raised_m": 171.54,
+      "avg_raise_m": 17.154,
+      "median_raise_m": 11.64,
+      "min_m": 2.1,
+      "max_m": 75,
+      "p25_m": 7,
+      "p75_m": 15
+    },
+    "CeFi Yield": {
+      "count": 3,
+      "total_raised_m": 24,
+      "avg_raise_m": 8.0,
+      "median_raise_m": 3,
+      "min_m": 3,
+      "max_m": 18,
+      "p25_m": 3,
+      "p75_m": 18
+    },
+    "L0": {
+      "count": 3,
+      "total_raised_m": 163,
+      "avg_raise_m": 54.333333333333336,
+      "median_raise_m": 10,
+      "min_m": 8,
+      "max_m": 145,
+      "p25_m": 8,
+      "p75_m": 145
+    },
+    "Supply Chain": {
+      "count": 6,
+      "total_raised_m": 92.64,
+      "avg_raise_m": 15.44,
+      "median_raise_m": 16.7,
+      "min_m": 1.54,
+      "max_m": 40,
+      "p25_m": 3,
+      "p75_m": 22.5
+    },
+    "Smart Contract Platform": {
+      "count": 5,
+      "total_raised_m": 126.5,
+      "avg_raise_m": 25.3,
+      "median_raise_m": 1.5,
+      "min_m": 1,
+      "max_m": 100,
+      "p25_m": 1,
+      "p75_m": 23
+    },
+    "Travel": {
+      "count": 3,
+      "total_raised_m": 17.8,
+      "avg_raise_m": 5.933333333333334,
+      "median_raise_m": 1.5,
+      "min_m": 0.5,
+      "max_m": 15.8,
+      "p25_m": 0.5,
+      "p75_m": 15.8
+    },
+    "News": {
+      "count": 7,
+      "total_raised_m": 79.64,
+      "avg_raise_m": 11.377142857142857,
+      "median_raise_m": 4.34,
+      "min_m": 0.1,
+      "max_m": 51,
+      "p25_m": 1,
+      "p75_m": 12
+    }
+  }
+}

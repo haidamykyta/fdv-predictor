@@ -1,0 +1,5067 @@
+{
+  "collected_at": "2026-01-22T14:14:39.332120",
+  "categories": {
+    "Centralized Exchange": {
+      "count": 170,
+      "total_raised": 11777.28,
+      "avg_raise": 69.27811764705882,
+      "median_raise": 10,
+      "avg_valuation": 7343.0,
+      "top_rounds": [
+        {
+          "name": "Binance",
+          "amount": 2000,
+          "round": null,
+          "date": 1741737600,
+          "valuation": null,
+          "lead_investors": [
+            "MGX"
+          ],
+          "other_investors": []
+        },
+        {
+          "name": "Bullish",
+          "amount": 1100,
+          "round": "IPO",
+          "date": 1755043200,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": []
+        },
+        {
+          "name": "FTX",
+          "amount": 900,
+          "round": "Series B",
+          "date": 1626739200,
+          "valuation": 18000.0,
+          "lead_investors": [
+            "Paradigm",
+            "Ribbit Capital",
+            "BTIG"
+          ],
+          "other_investors": [
+            "Third Point",
+            "Lightspeed Venture Partners",
+            "Coinbase Ventures",
+            "SoftBank",
+            "Sino Global Capital",
+            "Multicoin Capital",
+            "Paul Tudor Jones family",
+            "VanEck",
+            "Circle",
+            "Izzy Englander",
+            "Alan Howard"
+          ]
+        },
+        {
+          "name": "Kraken",
+          "amount": 500,
+          "round": "pre-IPO",
+          "date": 1758758400,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": []
+        },
+        {
+          "name": "Bakkt",
+          "amount": 450,
+          "round": "Post-IPO Equity",
+          "date": 1634515200,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": []
+        }
+      ]
+    },
+    "DeFi": {
+      "count": 826,
+      "total_raised": 9213.09432,
+      "avg_raise": 11.153867215496367,
+      "median_raise": 4,
+      "avg_valuation": 323.82242424242423,
+      "top_rounds": [
+        {
+          "name": "LFG",
+          "amount": 1000,
+          "round": "Strategic Private Sale",
+          "date": 1645574400,
+          "valuation": null,
+          "lead_investors": [
+            "Jump Crypto",
+            "3AC"
+          ],
+          "other_investors": [
+            "DeFiance Capital",
+            "Republic Capital",
+            "GSR",
+            "Tribe Capital"
+          ]
+        },
+        {
+          "name": "pump.fun",
+          "amount": 600,
+          "round": "ICO",
+          "date": 1752278400,
+          "valuation": 4000.0,
+          "lead_investors": [],
+          "other_investors": []
+        },
+        {
+          "name": "Kalshi",
+          "amount": 300,
+          "round": "Series D",
+          "date": 1760054400,
+          "valuation": 5000.0,
+          "lead_investors": [],
+          "other_investors": [
+            "Sequoia Capital",
+            "a16z crypto",
+            "Paradigm",
+            "CapitalG",
+            "Coinbase Ventures"
+          ]
+        },
+        {
+          "name": "Flying Tulip",
+          "amount": 200,
+          "round": "Seed",
+          "date": 1759104000,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": [
+            "Brevan Howard",
+            "DWF Labs",
+            "CoinFund",
+            "Hypersphere Ventures",
+            "Lemniscap",
+            "Selini Capital",
+            "Nascent",
+            "Tioga Capital",
+            "FalconX",
+            "Sigil Fund",
+            "Virtuals Protocol",
+            "Republic Digital"
+          ]
+        },
+        {
+          "name": "Kalshi",
+          "amount": 185,
+          "round": "Series C",
+          "date": 1750809600,
+          "valuation": 2000.0,
+          "lead_investors": [
+            "Paradigm"
+          ],
+          "other_investors": [
+            "Sequoia Capital",
+            "Multicoin Capital",
+            "Neo",
+            "Bond"
+          ]
+        }
+      ]
+    },
+    "AI": {
+      "count": 144,
+      "total_raised": 1114.81,
+      "avg_raise": 7.741736111111111,
+      "median_raise": 5.35,
+      "avg_valuation": 279.6875,
+      "top_rounds": [
+        {
+          "name": "Sentient",
+          "amount": 85,
+          "round": "Seed",
+          "date": 1719878400,
+          "valuation": null,
+          "lead_investors": [
+            "Pantera Capital",
+            "Framework Ventures"
+          ],
+          "other_investors": [
+            "Robot Ventures",
+            "Delphi Ventures",
+            "Republic Capital",
+            "Arrington Capital",
+            "MH Ventures"
+          ]
+        },
+        {
+          "name": "Nous Research",
+          "amount": 50,
+          "round": "Series A",
+          "date": 1745539200,
+          "valuation": 1000.0,
+          "lead_investors": [
+            "Paradigm"
+          ],
+          "other_investors": []
+        },
+        {
+          "name": "Sahara Labs",
+          "amount": 38,
+          "round": "Strategic ",
+          "date": 1723593600,
+          "valuation": null,
+          "lead_investors": [
+            "Pantera Capital",
+            "Polychain Capital"
+          ],
+          "other_investors": [
+            "Binance Labs",
+            "Samsung Next",
+            "Nomad Capital",
+            "Matrix Partners",
+            "SCB 10X",
+            "Canonical Crypto",
+            "Mirana Ventures",
+            "Foresight Ventures",
+            "Dispersion Capital",
+            "Tangent Ventures"
+          ]
+        },
+        {
+          "name": "0G Labs",
+          "amount": 35,
+          "round": "Pre-Seed",
+          "date": 1711411200,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": [
+            "Hack VC",
+            "Morningstar Ventures",
+            "AllianceDAO",
+            "Animoca Brands",
+            "Delphi Digital",
+            "Stanford Builders Fund",
+            "Symbolic Capital Partners",
+            "OKX Ventures"
+          ]
+        },
+        {
+          "name": "Yupp",
+          "amount": 33,
+          "round": "Seed",
+          "date": 1749772800,
+          "valuation": null,
+          "lead_investors": [
+            "a16z crypto"
+          ],
+          "other_investors": [
+            "Coinbase Ventures",
+            "Kunal Shah",
+            "Gokul Rajaram"
+          ]
+        }
+      ]
+    },
+    "CeFi": {
+      "count": 205,
+      "total_raised": 11530.414,
+      "avg_raise": 56.245921951219515,
+      "median_raise": 10,
+      "avg_valuation": 2327.25,
+      "top_rounds": [
+        {
+          "name": "Circle",
+          "amount": 1100,
+          "round": "IPO",
+          "date": 1748995200,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": []
+        },
+        {
+          "name": "NYDIG",
+          "amount": 1000,
+          "round": "Private Equity",
+          "date": 1639440000,
+          "valuation": 7000.0,
+          "lead_investors": [
+            "WestCap"
+          ],
+          "other_investors": [
+            "Affirm",
+            "Bessemer Ventures",
+            "FinTech Collective",
+            "FIS",
+            "Fiserv",
+            "MassMutual",
+            "Morgan Stanley",
+            "New York Life Insurance"
+          ]
+        },
+        {
+          "name": "Figure",
+          "amount": 1000,
+          "round": "Debt Financing",
+          "date": 1557446400,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": [
+            "Jefferies",
+            "WSFS Bank"
+          ]
+        },
+        {
+          "name": "Celsius Network",
+          "amount": 750,
+          "round": "Series B",
+          "date": 1637712000,
+          "valuation": 3250.0,
+          "lead_investors": [],
+          "other_investors": []
+        },
+        {
+          "name": "BlockFi",
+          "amount": 500,
+          "round": "Series E",
+          "date": 1629417600,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": [
+            "Alumni Ventures",
+            "Definitive Capital",
+            "Empede Capital",
+            "Investlink Holdings",
+            "John Fontein",
+            "Rose Park Advisors"
+          ]
+        }
+      ]
+    },
+    "Stablecoin": {
+      "count": 27,
+      "total_raised": 856.81,
+      "avg_raise": 31.7337037037037,
+      "median_raise": 6.5,
+      "avg_valuation": 57.5,
+      "top_rounds": [
+        {
+          "name": "Tether",
+          "amount": 600,
+          "round": "Equity",
+          "date": 1700697600,
+          "valuation": null,
+          "lead_investors": [
+            "Cantor Fitzgerald"
+          ],
+          "other_investors": []
+        },
+        {
+          "name": "Agora Finance",
+          "amount": 50,
+          "round": "Series A",
+          "date": 1752105600,
+          "valuation": null,
+          "lead_investors": [
+            "Paradigm"
+          ],
+          "other_investors": []
+        },
+        {
+          "name": "Obex",
+          "amount": 38,
+          "round": null,
+          "date": 1763424000,
+          "valuation": null,
+          "lead_investors": [
+            "Layer Zero",
+            "Sky(formerly MakerDAO)",
+            "Framework Ventures"
+          ],
+          "other_investors": []
+        },
+        {
+          "name": "M^0",
+          "amount": 35,
+          "round": "Series A",
+          "date": 1717545600,
+          "valuation": null,
+          "lead_investors": [
+            "Bain Capital Crypto"
+          ],
+          "other_investors": [
+            "Wintermute Ventures",
+            "Galaxy",
+            "GSR",
+            "Caladan",
+            "SCB 10X"
+          ]
+        },
+        {
+          "name": "Plasma",
+          "amount": 24,
+          "round": null,
+          "date": 1739404800,
+          "valuation": null,
+          "lead_investors": [
+            "Framework Ventures"
+          ],
+          "other_investors": [
+            "Bitfinex"
+          ]
+        }
+      ]
+    },
+    "null": {
+      "count": 1972,
+      "total_raised": 34033.588,
+      "avg_raise": 17.258411764705883,
+      "median_raise": 4.5,
+      "avg_valuation": 1596.7928571428572,
+      "top_rounds": [
+        {
+          "name": "Trade Republic",
+          "amount": 900,
+          "round": "Series C",
+          "date": 1621468800,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": [
+            "Accel",
+            "Creandum",
+            "Founders Fund",
+            "H14",
+            "Project A Ventures",
+            "Sequoia Capital",
+            "TCV",
+            "Thrive Capital"
+          ]
+        },
+        {
+          "name": "Flow",
+          "amount": 725,
+          "round": "Ecosystem Foundation raise",
+          "date": 1652227200,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": []
+        },
+        {
+          "name": "Digital Currency Group",
+          "amount": 700,
+          "round": "Secondary Market",
+          "date": 1635724800,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": [
+            "CapitalG",
+            "GIC",
+            "Ribbit Capital",
+            "SOFTBANK Latin America Ventures",
+            "SoftBank Vision Fund"
+          ]
+        },
+        {
+          "name": "Modern Tech",
+          "amount": 660,
+          "round": "ICO",
+          "date": 1523577600,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": []
+        },
+        {
+          "name": "Digital Currency Group",
+          "amount": 600,
+          "round": "Debt Financing",
+          "date": 1637193600,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": [
+            "B Capital Group",
+            "Davidson Kempner",
+            "Eldridge",
+            "Francisco Partners"
+          ]
+        }
+      ]
+    },
+    "Web3": {
+      "count": 178,
+      "total_raised": 1311.18,
+      "avg_raise": 7.366179775280899,
+      "median_raise": 3.5,
+      "avg_valuation": 5657.0,
+      "top_rounds": [
+        {
+          "name": "Golden Technology",
+          "amount": 141.32,
+          "round": "Series B",
+          "date": 1571616000,
+          "valuation": null,
+          "lead_investors": [
+            "Tencent"
+          ],
+          "other_investors": [
+            "CDH Investments",
+            "China Capital Zhongcai Fund Management",
+            "Hillhouse Capital Group",
+            "IDG Capital",
+            "Prometheus Capital",
+            "Shenzhen Capital Group",
+            "WANDA Group"
+          ]
+        },
+        {
+          "name": "Braintrust",
+          "amount": 100,
+          "round": "ICO",
+          "date": 1639008000,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": [
+            "Blockchange Ventures",
+            "Coatue",
+            "HashKey",
+            "Tiger Global",
+            "True Ventures"
+          ]
+        },
+        {
+          "name": "Daylight Energy",
+          "amount": 75,
+          "round": null,
+          "date": 1760572800,
+          "valuation": null,
+          "lead_investors": [
+            "Framework Ventures"
+          ],
+          "other_investors": [
+            "a16z crypto",
+            "Turtle Hill Capital",
+            "M13",
+            "Escape Velocity",
+            "Lerer Hippeau",
+            "Room40 Ventures",
+            "Crucible Captial",
+            "Coinbase Ventures",
+            "Not Boring Capital"
+          ]
+        },
+        {
+          "name": "IoTeX",
+          "amount": 50,
+          "round": null,
+          "date": 1712016000,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": [
+            "Borderless Capital",
+            "Amber Group",
+            "Foresight Ventures",
+            "Future Money Group",
+            "SNZ Capital",
+            "Token Metrics Ventures",
+            "EV3",
+            "Waterdrip Capital"
+          ]
+        },
+        {
+          "name": "DeCurret",
+          "amount": 31.31,
+          "round": null,
+          "date": 1562803200,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": [
+            "Chubu Electric Power",
+            "Daido LifeInsurance",
+            "Energia Communications",
+            "Hankyu Hanshin",
+            "Internet Initiative Japan",
+            "KDDI Open Innovation Fund",
+            "Konami",
+            "Matsui Securities",
+            "Meiji Yasuda Life Insurance",
+            "SOHGO SECURITY SERVICES",
+            "Sumitomo Life Insurance Company",
+            "Toppan Printing"
+          ]
+        }
+      ]
+    },
+    "Metaverse": {
+      "count": 53,
+      "total_raised": 332.793,
+      "avg_raise": 6.27911320754717,
+      "median_raise": 3.5,
+      "avg_valuation": null,
+      "top_rounds": [
+        {
+          "name": "Futureverse",
+          "amount": 54,
+          "round": "Series A",
+          "date": 1689638400,
+          "valuation": null,
+          "lead_investors": [
+            "10T Holdings"
+          ],
+          "other_investors": [
+            "Ripple Labs"
+          ]
+        },
+        {
+          "name": "IMVU",
+          "amount": 35,
+          "round": "Series E",
+          "date": 1611532800,
+          "valuation": null,
+          "lead_investors": [
+            "NetEase",
+            "Structural Capital"
+          ],
+          "other_investors": []
+        },
+        {
+          "name": "Hadean",
+          "amount": 30,
+          "round": "Series A",
+          "date": 1663891200,
+          "valuation": null,
+          "lead_investors": [
+            "Molten Ventures"
+          ],
+          "other_investors": [
+            "2050 Capital",
+            "Alumni Ventures",
+            "Aster Capital",
+            "Entrepreneur First",
+            "InQTel"
+          ]
+        },
+        {
+          "name": "Decentraland",
+          "amount": 25,
+          "round": "ICO",
+          "date": 1503014400,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": [
+            "Animoca Brands",
+            "Boost VC",
+            "Fabric Ventures",
+            "Fundamental Labs",
+            "Genesis One Capital",
+            "George Burke",
+            "INBlockchain",
+            "Kosmos Ventures"
+          ]
+        },
+        {
+          "name": "ZTX",
+          "amount": 13,
+          "round": "Seed",
+          "date": 1692057600,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": [
+            "Collab+Currency",
+            "Parataxis",
+            "MZ Web3 Fund",
+            "Everest Ventures Group"
+          ]
+        }
+      ]
+    },
+    "Gaming": {
+      "count": 303,
+      "total_raised": 4884.276,
+      "avg_raise": 16.11972277227723,
+      "median_raise": 5,
+      "avg_valuation": 693.8571428571429,
+      "top_rounds": [
+        {
+          "name": "Forte",
+          "amount": 725,
+          "round": "Series B",
+          "date": 1636675200,
+          "valuation": null,
+          "lead_investors": [
+            "Kora Management",
+            "Sea Capital"
+          ],
+          "other_investors": [
+            "Animoca Brands",
+            "Big Bets",
+            "Overwolf",
+            "Playstudios",
+            "Warner Music Group",
+            "zVentures",
+            "Solana Ventures",
+            "Griffin Gaming Partners",
+            "a16z",
+            "Tiger Global"
+          ]
+        },
+        {
+          "name": "SoRare",
+          "amount": 680,
+          "round": "Series B",
+          "date": 1632182400,
+          "valuation": 4300.0,
+          "lead_investors": [
+            "SoftBank"
+          ],
+          "other_investors": [
+            "Atomico",
+            "Bessemer Ventures",
+            "D1 Ventures",
+            "Eurazeo",
+            "IVP",
+            "LionTree",
+            "Benchmark",
+            "Accel",
+            "Headline"
+          ]
+        },
+        {
+          "name": "Limit Break",
+          "amount": 200,
+          "round": null,
+          "date": 1661731200,
+          "valuation": null,
+          "lead_investors": [
+            "Paradigm"
+          ],
+          "other_investors": [
+            "FTX Ventures",
+            "Standard Crypto",
+            "Coinbase Ventures",
+            "Anthos Capital",
+            "Buckley Ventures"
+          ]
+        },
+        {
+          "name": "Sky Mavis",
+          "amount": 152,
+          "round": "Series B",
+          "date": 1633392000,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": [
+            "Accel",
+            "a16z",
+            "Backed VC",
+            "Fabric Ventures",
+            "FTX",
+            "Libertus Capital",
+            "Mark Cuban",
+            "Paradigm",
+            "Samsung Next",
+            "Seven Seven Six",
+            "Snow K"
+          ]
+        },
+        {
+          "name": "Mythical Games",
+          "amount": 150,
+          "round": "Series C",
+          "date": 1635984000,
+          "valuation": 1250.0,
+          "lead_investors": [
+            "a16z"
+          ],
+          "other_investors": [
+            "D1 Capital",
+            "RedBird Capital",
+            "The Raine Group",
+            "Binance Labs",
+            "FTX Ventures",
+            "32 Equity",
+            "Mantis VC",
+            "Ryan Tedder",
+            "OneTeam Partners",
+            "The Kraft Group",
+            "Michael Gordon",
+            "Michael Jordan",
+            "Curtis Polk",
+            "23XI Racing",
+            "Galaxy Interactive",
+            "Westcap",
+            "01 Advisors",
+            "Javelin Partners",
+            "Struck Capital",
+            "Alumni Ventures",
+            "Signum Growth Investments"
+          ]
+        }
+      ]
+    },
+    "Crypto Intelligence": {
+      "count": 4,
+      "total_raised": 27.78,
+      "avg_raise": 6.945,
+      "median_raise": 5.5,
+      "avg_valuation": 87.5,
+      "top_rounds": [
+        {
+          "name": "CipherTrace",
+          "amount": 15,
+          "round": "Series A",
+          "date": 1550534400,
+          "valuation": null,
+          "lead_investors": [
+            "Aspect Ventures"
+          ],
+          "other_investors": [
+            "Galaxy Digital",
+            "Neotribe Ventures",
+            "WestWave Capital"
+          ]
+        },
+        {
+          "name": "Kaito",
+          "amount": 5.5,
+          "round": "Series A",
+          "date": 1687392000,
+          "valuation": 87.5,
+          "lead_investors": [
+            "Superscrypt",
+            "The Spartan Group"
+          ],
+          "other_investors": []
+        },
+        {
+          "name": "AnChain.ai",
+          "amount": 4.3,
+          "round": "Seed",
+          "date": 1581552000,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": [
+            "Aligned Partners",
+            "Amino Capital",
+            "BRC Innovation",
+            "Brightway Future Capital",
+            "Susquehanna International Group"
+          ]
+        },
+        {
+          "name": "CipherTrace",
+          "amount": 2.98,
+          "round": null,
+          "date": 1524009600,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": []
+        }
+      ]
+    },
+    "Infrastructure": {
+      "count": 731,
+      "total_raised": 14219.067,
+      "avg_raise": 19.45152804377565,
+      "median_raise": 6,
+      "avg_valuation": 1104.8461538461538,
+      "top_rounds": [
+        {
+          "name": "Fireblocks",
+          "amount": 550,
+          "round": "Series E",
+          "date": 1643241600,
+          "valuation": 8000.0,
+          "lead_investors": [],
+          "other_investors": []
+        },
+        {
+          "name": "Bitmain",
+          "amount": 422,
+          "round": "pre-IPO",
+          "date": 1533600000,
+          "valuation": null,
+          "lead_investors": [
+            "Crimson Partners"
+          ],
+          "other_investors": [
+            "Casmain",
+            "CICFH Entertainment Opportunity",
+            "Lioness Capital",
+            "Bluebell Global Holdings",
+            "Gortane Avatar Investments",
+            "Palace Investments",
+            "Jumbo Sheen Amber LP",
+            "Pavilion Capital",
+            "Xin BM Investment",
+            "Newegg Technology",
+            "Shanghai Investment Corporation"
+          ]
+        },
+        {
+          "name": "Ledger",
+          "amount": 380,
+          "round": "Series C",
+          "date": 1623283200,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": [
+            "10T Holdings",
+            "Alliance Entreprendre",
+            "Animoca Brands",
+            "Ascendant Capital",
+            "CapHorn Invest",
+            "Cardinal Capital Partners",
+            "Cathay Innovation",
+            "CITA Investissement",
+            "Crypto.com Capital",
+            "Cygni Capital",
+            "DCG",
+            "Draper Associates",
+            "Draper Dragon"
+          ]
+        },
+        {
+          "name": "Dragon Coin",
+          "amount": 320,
+          "round": "ICO",
+          "date": 1520467200,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": []
+        },
+        {
+          "name": "Fireblocks",
+          "amount": 310,
+          "round": "Series D",
+          "date": 1627344000,
+          "valuation": 2200.0,
+          "lead_investors": [
+            "Sequoia Capital",
+            "Stripes",
+            "Spark Capital",
+            "Coatue",
+            "DRW Venture Capital",
+            "SCB 10X"
+          ],
+          "other_investors": []
+        }
+      ]
+    },
+    "Cybersecurity": {
+      "count": 45,
+      "total_raised": 703.244,
+      "avg_raise": 15.627644444444446,
+      "median_raise": 6.75,
+      "avg_valuation": 205.0,
+      "top_rounds": [
+        {
+          "name": "Doppel",
+          "amount": 70,
+          "round": "Series C",
+          "date": 1763510400,
+          "valuation": null,
+          "lead_investors": [
+            "Bessemer Venture Partners",
+            "a16z crypto"
+          ],
+          "other_investors": [
+            "George Kurtz",
+            "Breanna Stewart",
+            "Nneka Ogwumike",
+            "South Park Commons",
+            "Script Capital",
+            "Strategic Cyber Ventures"
+          ]
+        },
+        {
+          "name": "IVIX",
+          "amount": 60,
+          "round": "Series B",
+          "date": 1755475200,
+          "valuation": null,
+          "lead_investors": [
+            "O.G. Venture Partners"
+          ],
+          "other_investors": [
+            "Insight Partners",
+            "Citi Ventures",
+            "Team8",
+            "Disruptive AI",
+            "Cardumen Capital"
+          ]
+        },
+        {
+          "name": "WISeKey",
+          "amount": 59.114,
+          "round": null,
+          "date": 1453852800,
+          "valuation": null,
+          "lead_investors": [
+            "Global Equity Partners Beteiligungs-Management",
+            "The Global Emerging Markets Group"
+          ],
+          "other_investors": []
+        },
+        {
+          "name": "WISeKey",
+          "amount": 53.22,
+          "round": "Post-IPO Equity",
+          "date": 1518134400,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": []
+        },
+        {
+          "name": "HUB Security",
+          "amount": 50,
+          "round": "Post-IPO Equity",
+          "date": 1622678400,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": []
+        }
+      ]
+    },
+    "Smart contract security": {
+      "count": 20,
+      "total_raised": 162.22,
+      "avg_raise": 8.111,
+      "median_raise": 6,
+      "avg_valuation": 24.0,
+      "top_rounds": [
+        {
+          "name": "Agoric",
+          "amount": 32,
+          "round": "Private token sale",
+          "date": 1636588800,
+          "valuation": null,
+          "lead_investors": [
+            "Polychain Capital"
+          ],
+          "other_investors": [
+            "Placeholder",
+            "NGC Ventures",
+            "The Spartan Group",
+            "Compound Ventures",
+            "Acrew Capital",
+            "Figment",
+            "Chorus One Ventures"
+          ]
+        },
+        {
+          "name": "Blockaid",
+          "amount": 27,
+          "round": "Series A",
+          "date": 1698019200,
+          "valuation": null,
+          "lead_investors": [
+            "Ribbit Capital",
+            "Variant"
+          ],
+          "other_investors": [
+            "Sequoia Capital",
+            "Greylock Partners",
+            "Cyberstarts"
+          ]
+        },
+        {
+          "name": "Forta Protocol",
+          "amount": 23,
+          "round": null,
+          "date": 1632960000,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": [
+            "a16z",
+            "Blockchain Capital",
+            "Coinbase Ventures",
+            "North Island Ventures",
+            "OpenZeppelin",
+            "True Ventures"
+          ]
+        },
+        {
+          "name": "Sec3",
+          "amount": 10,
+          "round": "Seed",
+          "date": 1675123200,
+          "valuation": null,
+          "lead_investors": [
+            "Multicoin Capital"
+          ],
+          "other_investors": [
+            "Sanctor Capital",
+            "Essence VC",
+            "Santiago Roel Santos",
+            "Anatoly Yakovenko"
+          ]
+        },
+        {
+          "name": "Cube3.ai",
+          "amount": 8.2,
+          "round": "Seed",
+          "date": 1691539200,
+          "valuation": null,
+          "lead_investors": [
+            "Blockchange Ventures"
+          ],
+          "other_investors": [
+            "Dispersion Capital",
+            "Symbolic Capital Partners",
+            "Hypersphere Ventures",
+            "Iclub",
+            "TA Ventures"
+          ]
+        }
+      ]
+    },
+    "L1": {
+      "count": 290,
+      "total_raised": 12616.478,
+      "avg_raise": 43.50509655172414,
+      "median_raise": 10,
+      "avg_valuation": 1205.0,
+      "top_rounds": [
+        {
+          "name": "EOS",
+          "amount": 4200,
+          "round": "ICO",
+          "date": 1527811200,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": []
+        },
+        {
+          "name": "Tempo",
+          "amount": 500,
+          "round": "Series A",
+          "date": 1760659200,
+          "valuation": 5000.0,
+          "lead_investors": [
+            "THRIVE Ventures",
+            "Greenoaks Capital"
+          ],
+          "other_investors": [
+            "Sequoia Capital",
+            "Ribbit Capital",
+            "SV Angel"
+          ]
+        },
+        {
+          "name": "TON",
+          "amount": 400,
+          "round": null,
+          "date": 1742428800,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": [
+            "Sequoia Capital",
+            "Ribbit Capital",
+            "Benchmark",
+            "Kingsway Capital",
+            "VY Capital",
+            "Draper Associates",
+            "CoinFund",
+            "Libertus Capital",
+            "Hypershere",
+            "SkyBridge Capital",
+            "Karatage"
+          ]
+        },
+        {
+          "name": "Solana",
+          "amount": 314,
+          "round": "ICO",
+          "date": 1623196800,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": [
+            "Accomplice"
+          ]
+        },
+        {
+          "name": "Monad",
+          "amount": 269,
+          "round": "Public token sale",
+          "date": 1763337600,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": []
+        }
+      ]
+    },
+    "Wallet": {
+      "count": 16,
+      "total_raised": 370.6,
+      "avg_raise": 23.1625,
+      "median_raise": 15,
+      "avg_valuation": 1550.0,
+      "top_rounds": [
+        {
+          "name": "Phantom",
+          "amount": 150,
+          "round": "Series C",
+          "date": 1736985600,
+          "valuation": 3000.0,
+          "lead_investors": [
+            "Sequoia Capital",
+            "Paradigm"
+          ],
+          "other_investors": [
+            "a16z crypto",
+            "Variant Fund"
+          ]
+        },
+        {
+          "name": "RedotPay",
+          "amount": 47,
+          "round": "Strategic",
+          "date": 1758672000,
+          "valuation": null,
+          "lead_investors": [
+            "Coinbase Ventures",
+            "Galaxy Digital",
+            "Vertex"
+          ],
+          "other_investors": []
+        },
+        {
+          "name": "Finary",
+          "amount": 29.4,
+          "round": "Series A",
+          "date": 1758153600,
+          "valuation": null,
+          "lead_investors": [
+            "PayPal Ventures"
+          ],
+          "other_investors": [
+            "Y Combinator",
+            "Speedinvest",
+            "LocalGlobe"
+          ]
+        },
+        {
+          "name": "Utila",
+          "amount": 22,
+          "round": "Series A+",
+          "date": 1756857600,
+          "valuation": null,
+          "lead_investors": [
+            "Red Dot Capital Partners"
+          ],
+          "other_investors": [
+            "Nyca Partners",
+            "Wing Venture Capital",
+            "DCG",
+            "FunFair Ventures",
+            "Cerca Partners",
+            "SilverCircle"
+          ]
+        },
+        {
+          "name": "Utila",
+          "amount": 18,
+          "round": "Series A",
+          "date": 1742342400,
+          "valuation": null,
+          "lead_investors": [
+            "Nyca Partners"
+          ],
+          "other_investors": [
+            "Gaingels",
+            "Wing Venture Capital",
+            "NFX",
+            "Haymaker Ventures",
+            "Cerca Partners"
+          ]
+        }
+      ]
+    },
+    "Zero Knowledge Industry": {
+      "count": 19,
+      "total_raised": 419.8,
+      "avg_raise": 22.094736842105263,
+      "median_raise": 6.5,
+      "avg_valuation": 155.0,
+      "top_rounds": [
+        {
+          "name": "Aleo",
+          "amount": 200,
+          "round": "Series B",
+          "date": 1644192000,
+          "valuation": null,
+          "lead_investors": [
+            "SoftBank",
+            "Kora Management"
+          ],
+          "other_investors": [
+            "Tiger Global",
+            "Sea Capital",
+            "a16z",
+            "Slow Ventures",
+            "Samsung Next"
+          ]
+        },
+        {
+          "name": "Scroll",
+          "amount": 50,
+          "round": null,
+          "date": 1678060800,
+          "valuation": null,
+          "lead_investors": [
+            "Polychain Capital",
+            "Bain Capital Crypto"
+          ],
+          "other_investors": [
+            "Robot Ventures ",
+            "Santiago Roel Santos",
+            "Anthony Sassano",
+            "Ying Tong",
+            "Carlos Aria",
+            "Gate Ventures"
+          ]
+        },
+        {
+          "name": "Risc Zero",
+          "amount": 40,
+          "round": "Series A",
+          "date": 1689724800,
+          "valuation": null,
+          "lead_investors": [
+            "Blockchain Capital"
+          ],
+          "other_investors": [
+            "Bain Capital Crypto",
+            "Galaxy Digital",
+            "IOSG Ventures",
+            "RockawayX",
+            "Maven 11",
+            "Fenbushi Capital",
+            "Delphi Digital",
+            "Aglaé Ventures",
+            "IOBC Capital",
+            "zeroDAO",
+            "Alchemy"
+          ]
+        },
+        {
+          "name": "Aleo",
+          "amount": 28,
+          "round": "Series A",
+          "date": 1618876800,
+          "valuation": null,
+          "lead_investors": [
+            "a16z"
+          ],
+          "other_investors": [
+            "Placeholder",
+            "Galaxy Digital",
+            "Variant Fund",
+            "Coinbase Ventures",
+            "Polychain Capital",
+            "Slow Ventures",
+            "Dekrypt Capital",
+            "Scalar Capital",
+            "A Capital",
+            "zkValidator",
+            "Balaji Srinivasan",
+            "Ethereal Ventures"
+          ]
+        },
+        {
+          "name": "Irreducible",
+          "amount": 24,
+          "round": "Series A",
+          "date": 1738195200,
+          "valuation": null,
+          "lead_investors": [
+            "Paradigm",
+            "Bain Capital Crypto"
+          ],
+          "other_investors": [
+            "Fenbushi Capital",
+            "L2 Iterative Ventures",
+            "Robot Ventures"
+          ]
+        }
+      ]
+    },
+    "Trading": {
+      "count": 147,
+      "total_raised": 2141.412,
+      "avg_raise": 14.56742857142857,
+      "median_raise": 4.6,
+      "avg_valuation": 352.5,
+      "top_rounds": [
+        {
+          "name": "LMAX Group",
+          "amount": 150,
+          "round": "Strategic",
+          "date": 1768435200,
+          "valuation": null,
+          "lead_investors": [
+            "Ripple"
+          ],
+          "other_investors": []
+        },
+        {
+          "name": "Alpaca",
+          "amount": 150,
+          "round": "Series D",
+          "date": 1768348800,
+          "valuation": 1150.0,
+          "lead_investors": [
+            "Drive Capital"
+          ],
+          "other_investors": [
+            "Citadel Securities",
+            "Opera Tech Ventures",
+            "MUFG Innovation Partners",
+            "Flat Capital",
+            "DRW Venture Capital",
+            "Kraken Ventures",
+            "Altered Ventures",
+            "X&KSK",
+            "Bank Muscat",
+            "Endeavor Catalyst",
+            "Portage Ventures",
+            "Horizons Ventures",
+            "Social Leverage",
+            "Unbound",
+            "Diagram Ventures",
+            "Derayah"
+          ]
+        },
+        {
+          "name": "Drip Capital",
+          "amount": 135,
+          "round": "Debt Financing",
+          "date": 1635379200,
+          "valuation": null,
+          "lead_investors": [
+            "Barclays Investment Bank",
+            "East West Bank"
+          ],
+          "other_investors": []
+        },
+        {
+          "name": "tZERO",
+          "amount": 134,
+          "round": "ICO",
+          "date": 1533859200,
+          "valuation": null,
+          "lead_investors": [
+            "GoldenSand Capital"
+          ],
+          "other_investors": []
+        },
+        {
+          "name": "Liquid Global",
+          "amount": 120,
+          "round": "Debt Financing",
+          "date": 1629849600,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": []
+        }
+      ]
+    },
+    "DAO infrastructure": {
+      "count": 13,
+      "total_raised": 144.35,
+      "avg_raise": 11.103846153846153,
+      "median_raise": 6,
+      "avg_valuation": 150.0,
+      "top_rounds": [
+        {
+          "name": "Orange DAO",
+          "amount": 80,
+          "round": null,
+          "date": 1661212800,
+          "valuation": null,
+          "lead_investors": [
+            "Near",
+            "Algorand Inc."
+          ],
+          "other_investors": []
+        },
+        {
+          "name": "The DAO",
+          "amount": 12.7,
+          "round": "ICO",
+          "date": 1493596800,
+          "valuation": 150.0,
+          "lead_investors": [],
+          "other_investors": []
+        },
+        {
+          "name": "Aera",
+          "amount": 8,
+          "round": "Seed",
+          "date": 1698278400,
+          "valuation": null,
+          "lead_investors": [
+            "Bain Capital Crypto"
+          ],
+          "other_investors": [
+            "Jump Trading"
+          ]
+        },
+        {
+          "name": "Karpatkey",
+          "amount": 7,
+          "round": null,
+          "date": 1729555200,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": [
+            "AppWorks",
+            "Wintermute Ventures",
+            "Borderless Capital",
+            "Thanefield Capital",
+            "Stake Capital",
+            "Saison Capital",
+            "Zeal Capital",
+            "G20 Ventures",
+            "Stani Kulechov",
+            "Mark Zeller"
+          ]
+        },
+        {
+          "name": "Origami",
+          "amount": 6.2,
+          "round": "Strategic ",
+          "date": 1666742400,
+          "valuation": null,
+          "lead_investors": [
+            "Bloomberg Capital"
+          ],
+          "other_investors": [
+            "Betaworks Ventures",
+            "Protocol Labs",
+            "VC3 DAO",
+            "Dylan Field",
+            "Balaji Srinivasan"
+          ]
+        }
+      ]
+    },
+    "NFT": {
+      "count": 225,
+      "total_raised": 2810.264,
+      "avg_raise": 12.490062222222223,
+      "median_raise": 4,
+      "avg_valuation": 1107.1,
+      "top_rounds": [
+        {
+          "name": "Yuga Labs",
+          "amount": 450,
+          "round": "Seed",
+          "date": 1647907200,
+          "valuation": 4000.0,
+          "lead_investors": [
+            "a16z"
+          ],
+          "other_investors": [
+            "Animoca Brands",
+            "The Sandbox",
+            "LionTree",
+            "Sound Ventures",
+            "FTX Ventures",
+            "MoonPay"
+          ]
+        },
+        {
+          "name": "Axie Infinity",
+          "amount": 150,
+          "round": "Series B",
+          "date": 1633305600,
+          "valuation": 3000.0,
+          "lead_investors": [
+            "a16z"
+          ],
+          "other_investors": []
+        },
+        {
+          "name": "Line Next",
+          "amount": 140,
+          "round": "Private",
+          "date": 1702425600,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": []
+        },
+        {
+          "name": "Magic Eden",
+          "amount": 130,
+          "round": "Series B",
+          "date": 1655856000,
+          "valuation": 1600.0,
+          "lead_investors": [
+            "Electric Capital",
+            "Greylock"
+          ],
+          "other_investors": []
+        },
+        {
+          "name": "OpenSea",
+          "amount": 100,
+          "round": "Series B",
+          "date": 1626739200,
+          "valuation": 1500.0,
+          "lead_investors": [
+            "a16z"
+          ],
+          "other_investors": []
+        }
+      ]
+    },
+    "Liquid Restaking Protocol": {
+      "count": 13,
+      "total_raised": 282.5,
+      "avg_raise": 21.73076923076923,
+      "median_raise": 8,
+      "avg_valuation": 290.0,
+      "top_rounds": [
+        {
+          "name": "EigenLayer",
+          "amount": 100,
+          "round": "Private",
+          "date": 1708560000,
+          "valuation": null,
+          "lead_investors": [
+            "a16z crypto"
+          ],
+          "other_investors": []
+        },
+        {
+          "name": "EigenLayer",
+          "amount": 70,
+          "round": null,
+          "date": 1750118400,
+          "valuation": null,
+          "lead_investors": [
+            "a16z crypto"
+          ],
+          "other_investors": []
+        },
+        {
+          "name": "EigenLayer",
+          "amount": 50,
+          "round": "Series A",
+          "date": 1679961600,
+          "valuation": 500.0,
+          "lead_investors": [
+            "Blockchain Capital"
+          ],
+          "other_investors": [
+            "Coinbase Ventures",
+            "Polychain Capital",
+            "Accomplice"
+          ]
+        },
+        {
+          "name": "Lombard",
+          "amount": 16,
+          "round": "Seed",
+          "date": 1719878400,
+          "valuation": null,
+          "lead_investors": [
+            "Polychain Capital"
+          ],
+          "other_investors": [
+            "BabylonChain",
+            "Inc.",
+            "Dao5",
+            "Franklin Templeton",
+            "Foresight Ventures",
+            "Mirana Ventures",
+            "Mantle Ecosystem",
+            "Nomad Capital"
+          ]
+        },
+        {
+          "name": "Solayer",
+          "amount": 12,
+          "round": "Seed",
+          "date": 1724716800,
+          "valuation": 80.0,
+          "lead_investors": [
+            "Polychain Capital",
+            "Hack VC"
+          ],
+          "other_investors": [
+            "Binance Labs",
+            "Maelstrom",
+            "Big Brain Holdings",
+            "Nomad Capital",
+            "ABCDE",
+            "Finality Capital Partners",
+            "Road Capital",
+            "Wormhole Crosschain Ecosystem Fund",
+            "Borderless Capital",
+            "Race Capital",
+            "Lyna Capital",
+            "Bitscale Capital"
+          ]
+        }
+      ]
+    },
+    "Smart contract audits": {
+      "count": 7,
+      "total_raised": 156.3,
+      "avg_raise": 22.32857142857143,
+      "median_raise": 5.3,
+      "avg_valuation": 920.0,
+      "top_rounds": [
+        {
+          "name": "Certik",
+          "amount": 80,
+          "round": "Series B2",
+          "date": 1638316800,
+          "valuation": 920.0,
+          "lead_investors": [
+            "Sequoia Capital China"
+          ],
+          "other_investors": [
+            "Tiger Global",
+            "Coatue",
+            "GL Ventures"
+          ]
+        },
+        {
+          "name": "CertiK",
+          "amount": 37,
+          "round": "Series B",
+          "date": 1625616000,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": [
+            "Coatue",
+            "Coinbase Ventures",
+            "Shunwei Capital"
+          ]
+        },
+        {
+          "name": "CertiK",
+          "amount": 24,
+          "round": "Series B",
+          "date": 1629158400,
+          "valuation": null,
+          "lead_investors": [
+            "Hillhouse Capital Group",
+            "Tiger Global Management"
+          ],
+          "other_investors": []
+        },
+        {
+          "name": "Informal Systems",
+          "amount": 5.3,
+          "round": null,
+          "date": 1686096000,
+          "valuation": null,
+          "lead_investors": [
+            "CMCC Global"
+          ],
+          "other_investors": [
+            "Nascent",
+            "Maven 11",
+            "Celestia Foundation",
+            "Eigenlayer"
+          ]
+        },
+        {
+          "name": "Sherlock",
+          "amount": 4,
+          "round": "Seed",
+          "date": 1663113600,
+          "valuation": null,
+          "lead_investors": [
+            "Archetype"
+          ],
+          "other_investors": [
+            "The Spartan Group",
+            "Lattice Capital",
+            "CoinFund"
+          ]
+        }
+      ]
+    },
+    "RWA": {
+      "count": 58,
+      "total_raised": 1257.58,
+      "avg_raise": 21.682413793103446,
+      "median_raise": 5,
+      "avg_valuation": 27.875,
+      "top_rounds": [
+        {
+          "name": "Figure",
+          "amount": 787.5,
+          "round": "IPO",
+          "date": 1757548800,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": []
+        },
+        {
+          "name": "Securitize",
+          "amount": 47,
+          "round": "Strategic ",
+          "date": 1714521600,
+          "valuation": null,
+          "lead_investors": [
+            "BlackRock"
+          ],
+          "other_investors": [
+            "Hamilton Lane",
+            "ParaFi Capital",
+            "Tradeweb Markets ",
+            "Aptos Labs",
+            "Circle Ventures",
+            "Paxos"
+          ]
+        },
+        {
+          "name": "Real Finance",
+          "amount": 29,
+          "round": null,
+          "date": 1765324800,
+          "valuation": null,
+          "lead_investors": [
+            "Nimbus Capital"
+          ],
+          "other_investors": [
+            "Frekaz Group",
+            "Magnus Capital"
+          ]
+        },
+        {
+          "name": "Inversion Capital",
+          "amount": 26.5,
+          "round": "Seed",
+          "date": 1757289600,
+          "valuation": null,
+          "lead_investors": [
+            "Dragonfly Capital"
+          ],
+          "other_investors": [
+            "VanEck",
+            "Lightspeed Faction",
+            "ParaFi Capital",
+            "Portal Ventures",
+            "Mirana Ventures",
+            "Volt Capital",
+            "Metalayer Ventures",
+            "HashKey Capital",
+            "Race Capital",
+            "Wintermute Ventures",
+            "Moonrock Capital",
+            "Breed VC",
+            "Topology",
+            "Balaji Srinivasan",
+            "Bodhi Ventures",
+            "Lvna Capital",
+            "Escape Velocity",
+            "Folius Ventures",
+            "Comfy Capital",
+            "DCF God",
+            "Mike Dudas",
+            "Bryan Pellegrino",
+            "Jason Yanowitz"
+          ]
+        },
+        {
+          "name": "Figure",
+          "amount": 25,
+          "round": null,
+          "date": 1763942400,
+          "valuation": null,
+          "lead_investors": [
+            "Ondo Finance"
+          ],
+          "other_investors": []
+        }
+      ]
+    },
+    "Mining": {
+      "count": 78,
+      "total_raised": 3808.205,
+      "avg_raise": 48.82314102564102,
+      "median_raise": 15,
+      "avg_valuation": 150.0,
+      "top_rounds": [
+        {
+          "name": "GRIID",
+          "amount": 525,
+          "round": "Debt Financing",
+          "date": 1637539200,
+          "valuation": null,
+          "lead_investors": [
+            "Blockchain.com Ventures"
+          ],
+          "other_investors": []
+        },
+        {
+          "name": "Marathon Digital",
+          "amount": 500,
+          "round": "Convertible note issuance",
+          "date": 1636934400,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": []
+        },
+        {
+          "name": "Genesis Digital Assets",
+          "amount": 431,
+          "round": "Private Equity",
+          "date": 1632182400,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": [
+            "Electric Capital",
+            "FTX",
+            "Kingsway Capital",
+            "NYDIG",
+            "Paradigm",
+            "Ribbit Capital",
+            "SkyBridge Capital",
+            "Stoneridge"
+          ]
+        },
+        {
+          "name": "Cipher Mining",
+          "amount": 425,
+          "round": "Post-IPO Equity",
+          "date": 1630281600,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": [
+            "Bitfury Group",
+            "Counterpoint Global",
+            "Fidelity Management and Research Company"
+          ]
+        },
+        {
+          "name": "TeraWulf",
+          "amount": 123.5,
+          "round": "Debt Financing",
+          "date": 1638403200,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": []
+        }
+      ]
+    },
+    "Analytics": {
+      "count": 98,
+      "total_raised": 1182.108,
+      "avg_raise": 12.062326530612244,
+      "median_raise": 4,
+      "avg_valuation": 2005.5555555555557,
+      "top_rounds": [
+        {
+          "name": "Chainalysis",
+          "amount": 170,
+          "round": "Series F",
+          "date": 1652227200,
+          "valuation": 8600.0,
+          "lead_investors": [
+            "GIC"
+          ],
+          "other_investors": [
+            "Accel",
+            "Blackstone",
+            "Dragoneer",
+            "BNY Mellon"
+          ]
+        },
+        {
+          "name": "Chainalysis",
+          "amount": 100,
+          "round": "Series D",
+          "date": 1616716800,
+          "valuation": 2000.0,
+          "lead_investors": [
+            "Paradigm"
+          ],
+          "other_investors": [
+            "Ribit Capital",
+            "Addition Capital",
+            "Time Ventures"
+          ]
+        },
+        {
+          "name": "Chainalysis",
+          "amount": 100,
+          "round": "Series C",
+          "date": 1605830400,
+          "valuation": 1000.0,
+          "lead_investors": [
+            "Addition Capital"
+          ],
+          "other_investors": [
+            "Accel",
+            "Benchmark",
+            "Ribbit Capital"
+          ]
+        },
+        {
+          "name": "Chainalysis",
+          "amount": 100,
+          "round": "Series E",
+          "date": 1624492800,
+          "valuation": 4200.0,
+          "lead_investors": [
+            "Coatue"
+          ],
+          "other_investors": []
+        },
+        {
+          "name": "Nansen",
+          "amount": 75,
+          "round": "Series B",
+          "date": 1639612800,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": [
+            "Accel",
+            "Amplify Partners",
+            "a16z",
+            "Folius Ventures",
+            "GIC",
+            "L1 Digital",
+            "Old Fashion Research",
+            "SCB 10X",
+            "Skyfall Ventures",
+            "Tiger Global Management"
+          ]
+        }
+      ]
+    },
+    "Healthcare": {
+      "count": 16,
+      "total_raised": 131.97,
+      "avg_raise": 8.248125,
+      "median_raise": 3.5,
+      "avg_valuation": null,
+      "top_rounds": [
+        {
+          "name": "H100 Group",
+          "amount": 54,
+          "round": null,
+          "date": 1752019200,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": []
+        },
+        {
+          "name": "Solve.Care",
+          "amount": 16.43,
+          "round": "ICO",
+          "date": 1515974400,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": []
+        },
+        {
+          "name": "Solve.Care",
+          "amount": 13.8,
+          "round": "ICO",
+          "date": 1522454400,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": []
+        },
+        {
+          "name": "Modum",
+          "amount": 13.2,
+          "round": "ICO",
+          "date": 1504310400,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": [
+            "Andreas Schwartz"
+          ]
+        },
+        {
+          "name": "Patientory",
+          "amount": 7.2,
+          "round": "Equity Crowdsale",
+          "date": 1496620800,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": []
+        }
+      ]
+    },
+    "Hardware": {
+      "count": 6,
+      "total_raised": 246.2,
+      "avg_raise": 41.03333333333333,
+      "median_raise": 33,
+      "avg_valuation": 1400.0,
+      "top_rounds": [
+        {
+          "name": "Ledger",
+          "amount": 109,
+          "round": null,
+          "date": 1680134400,
+          "valuation": 1400.0,
+          "lead_investors": [],
+          "other_investors": [
+            "10T Holdings",
+            "Cap Horn",
+            "Morgan Creek Digital",
+            "Cathay Innovation",
+            "True Global Ventures",
+            "Cite Gestion SPV",
+            "Digital Finance Group",
+            "VaynerFund"
+          ]
+        },
+        {
+          "name": "Chain Reaction",
+          "amount": 70,
+          "round": "Series C",
+          "date": 1677110400,
+          "valuation": null,
+          "lead_investors": [
+            "Morgan Creek Digital"
+          ],
+          "other_investors": [
+            "Hanaco Ventures",
+            "Jerusalem Venture Partners",
+            "KCK Capital",
+            "Exor",
+            "Atreides Management",
+            "Blue Run Ventures"
+          ]
+        },
+        {
+          "name": "Fabric Cryptography",
+          "amount": 33,
+          "round": "Series A",
+          "date": 1724025600,
+          "valuation": null,
+          "lead_investors": [
+            "Blockchain Capital",
+            "1kx"
+          ],
+          "other_investors": [
+            "Offchain Labs",
+            "Polygon Ventures",
+            "Matter Labs"
+          ]
+        },
+        {
+          "name": "Ingonyama",
+          "amount": 20,
+          "round": "Seed",
+          "date": 1699488000,
+          "valuation": null,
+          "lead_investors": [
+            "Walden Catalyst"
+          ],
+          "other_investors": [
+            "Geometry",
+            "Blue Yard Capital",
+            "Samsung Next",
+            "Sentinel Global"
+          ]
+        },
+        {
+          "name": "Fabric Systems",
+          "amount": 13,
+          "round": "Seed",
+          "date": 1665619200,
+          "valuation": null,
+          "lead_investors": [
+            "Metaplanet"
+          ],
+          "other_investors": []
+        }
+      ]
+    },
+    "Privacy Infrastructure": {
+      "count": 6,
+      "total_raised": 189.1,
+      "avg_raise": 31.516666666666666,
+      "median_raise": 40.2,
+      "avg_valuation": 740.0,
+      "top_rounds": [
+        {
+          "name": "Zama",
+          "amount": 73,
+          "round": "Series A",
+          "date": 1709769600,
+          "valuation": null,
+          "lead_investors": [
+            "Multicoin Capital",
+            "Protocol Labs"
+          ],
+          "other_investors": [
+            "Metaplanet",
+            "Blockchange Ventures",
+            "Vsquared Ventures",
+            "Stake Capital",
+            "Juan Benet",
+            "Anatoly Yakovenko",
+            "Gavin Wood"
+          ]
+        },
+        {
+          "name": "Zama",
+          "amount": 57,
+          "round": "Series B",
+          "date": 1750809600,
+          "valuation": 1000.0,
+          "lead_investors": [
+            "Pantera Capital",
+            "Blockchange Ventures"
+          ],
+          "other_investors": []
+        },
+        {
+          "name": "Aztec Network",
+          "amount": 40.2,
+          "round": "Public token sale",
+          "date": 1764979200,
+          "valuation": 480.0,
+          "lead_investors": [],
+          "other_investors": []
+        },
+        {
+          "name": "Seismic",
+          "amount": 10,
+          "round": null,
+          "date": 1762905600,
+          "valuation": null,
+          "lead_investors": [
+            "a16z crypto"
+          ],
+          "other_investors": [
+            "Polychain Capital",
+            "Amber Group",
+            "TrueBridge",
+            "Dao5",
+            "LayerZero"
+          ]
+        },
+        {
+          "name": "Zama",
+          "amount": 7.8,
+          "round": "Seed",
+          "date": 1623715200,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": [
+            "Anthony Bourbon",
+            "Lunar Ventures",
+            "Metaplanet Holdings",
+            "Vsquared Ventures"
+          ]
+        }
+      ]
+    },
+    "Insurance": {
+      "count": 8,
+      "total_raised": 156.75,
+      "avg_raise": 19.59375,
+      "median_raise": 6.85,
+      "avg_valuation": 190.0,
+      "top_rounds": [
+        {
+          "name": "Meanwhile",
+          "amount": 82,
+          "round": null,
+          "date": 1759795200,
+          "valuation": null,
+          "lead_investors": [
+            "Haun Ventures",
+            "Bain Capital Crypto"
+          ],
+          "other_investors": [
+            "Pantera Capital",
+            "StillMark",
+            "Apollo Global Management",
+            "Framework Ventures",
+            "Fulgur Ventures"
+          ]
+        },
+        {
+          "name": "Meanwhile",
+          "amount": 40,
+          "round": "Series A",
+          "date": 1744243200,
+          "valuation": 190.0,
+          "lead_investors": [
+            "Framework Ventures",
+            "Fulgur Ventures"
+          ],
+          "other_investors": []
+        },
+        {
+          "name": "Evertas",
+          "amount": 14,
+          "round": "Series A",
+          "date": 1670803200,
+          "valuation": null,
+          "lead_investors": [
+            "Polychain Capital"
+          ],
+          "other_investors": [
+            "Sino Global Capital",
+            "Foundation Capital",
+            "Morgan Creek Digital",
+            "Bloccelerate",
+            "Network0",
+            "Matrixport",
+            "HashKey",
+            "Balaji Srinivasan",
+            "Andrew Keys",
+            "Colleen Sullivan",
+            "Patrick McDonald",
+            "David Roebuck",
+            "CMT Digital"
+          ]
+        },
+        {
+          "name": "MediConCen",
+          "amount": 6.85,
+          "round": "Series A",
+          "date": 1707177600,
+          "valuation": null,
+          "lead_investors": [
+            "HSBC Asset Management"
+          ],
+          "other_investors": [
+            "Particle Accelerator Limited",
+            "G&M Capital",
+            "Wing Capital Ventures"
+          ]
+        },
+        {
+          "name": "Cork Protocol",
+          "amount": 5.5,
+          "round": "Seed",
+          "date": 1768953600,
+          "valuation": null,
+          "lead_investors": [
+            "a16z crypto",
+            "Road Capital"
+          ],
+          "other_investors": [
+            "WAGMI Ventures",
+            "IDEO CoLab Ventures",
+            "BitGo",
+            "Hyperithm",
+            "Depo Ventures",
+            "Cooley",
+            "FunFair Ventures",
+            "Stake Capital",
+            "Gate Ventures",
+            "Peer Venture Partners",
+            "G-20 Group",
+            "432 Ventures"
+          ]
+        }
+      ]
+    },
+    "L2": {
+      "count": 105,
+      "total_raised": 1909.59,
+      "avg_raise": 18.186571428571426,
+      "median_raise": 7,
+      "avg_valuation": 997.7777777777778,
+      "top_rounds": [
+        {
+          "name": "Immutable",
+          "amount": 200,
+          "round": "Series C",
+          "date": 1646611200,
+          "valuation": 2500.0,
+          "lead_investors": [
+            "Temasek"
+          ],
+          "other_investors": [
+            "Animoca Brands",
+            "Mirae Asset",
+            "ParaFi Capital",
+            "Declaration Partners",
+            "Tencent Holdings"
+          ]
+        },
+        {
+          "name": "zkSync",
+          "amount": 200,
+          "round": "Series C",
+          "date": 1668556800,
+          "valuation": null,
+          "lead_investors": [
+            "Blockchain Capital",
+            "Dragonfly Capital"
+          ],
+          "other_investors": [
+            "Lightspeed Venture Partners",
+            "Variant Fund",
+            "a16z"
+          ]
+        },
+        {
+          "name": "Optimism",
+          "amount": 150,
+          "round": "Series B",
+          "date": 1647561600,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": []
+        },
+        {
+          "name": "Aztec",
+          "amount": 100,
+          "round": "Series B",
+          "date": 1671062400,
+          "valuation": null,
+          "lead_investors": [
+            "a16z"
+          ],
+          "other_investors": [
+            "A Capital",
+            "King River Capital",
+            "Variant Fund",
+            "SV Angel",
+            "HashKey",
+            "Fenbushi Capital",
+            "AVG"
+          ]
+        },
+        {
+          "name": "StarkWare",
+          "amount": 100,
+          "round": "Series D",
+          "date": 1653523200,
+          "valuation": 8000.0,
+          "lead_investors": [
+            "Greenoaks Capital",
+            "Coatue"
+          ],
+          "other_investors": [
+            "Tiger Global",
+            "Amber Group",
+            "Paradigm",
+            "Three Arrows Capital",
+            "Sequoia Capital"
+          ]
+        }
+      ]
+    },
+    "DePIN": {
+      "count": 34,
+      "total_raised": 344.2,
+      "avg_raise": 10.123529411764705,
+      "median_raise": 4.5,
+      "avg_valuation": 933.3333333333334,
+      "top_rounds": [
+        {
+          "name": "Fuse Energy",
+          "amount": 70,
+          "round": "Series B",
+          "date": 1766016000,
+          "valuation": 5000.0,
+          "lead_investors": [],
+          "other_investors": []
+        },
+        {
+          "name": "Bee Maps",
+          "amount": 32,
+          "round": null,
+          "date": 1759708800,
+          "valuation": null,
+          "lead_investors": [
+            "Pantera Capital",
+            "LDA Capital",
+            "Borderless Capital",
+            "Ajna Capital"
+          ],
+          "other_investors": []
+        },
+        {
+          "name": "Glow Labs",
+          "amount": 30,
+          "round": null,
+          "date": 1730332800,
+          "valuation": null,
+          "lead_investors": [
+            "Framework Ventures",
+            "USV"
+          ],
+          "other_investors": []
+        },
+        {
+          "name": "Solix DePIN",
+          "amount": 29.5,
+          "round": null,
+          "date": 1744156800,
+          "valuation": null,
+          "lead_investors": [
+            "Eclip Foundation"
+          ],
+          "other_investors": []
+        },
+        {
+          "name": "DoubleZero",
+          "amount": 28,
+          "round": null,
+          "date": 1741219200,
+          "valuation": 400.0,
+          "lead_investors": [
+            "Multicoin Capital",
+            "Dragonfly Capital"
+          ],
+          "other_investors": [
+            "Anagram",
+            "Rubik Ventures",
+            "DBA",
+            "Reciprocal Ventures",
+            "Foundation Capital",
+            "Borderless Capital",
+            "Frictionless Capital",
+            "MH Ventures",
+            "Standard Crypto",
+            "Crucible Captial",
+            "Delphi Digital",
+            "Wintermute Ventures",
+            "GSR",
+            "RockawayX",
+            "Paper Ventures"
+          ]
+        }
+      ]
+    },
+    "Betting": {
+      "count": 8,
+      "total_raised": 3222.85,
+      "avg_raise": 402.85625,
+      "median_raise": 55,
+      "avg_valuation": 5387.5,
+      "top_rounds": [
+        {
+          "name": "Polymarket",
+          "amount": 2000,
+          "round": "Strategic",
+          "date": 1759795200,
+          "valuation": 9000.0,
+          "lead_investors": [
+            "Intercontinental Exchange"
+          ],
+          "other_investors": []
+        },
+        {
+          "name": "Kalshi",
+          "amount": 1000,
+          "round": "Series E",
+          "date": 1763596800,
+          "valuation": 11000.0,
+          "lead_investors": [
+            "Paradigm",
+            "Sequoia Capital",
+            "a16z crypto"
+          ],
+          "other_investors": [
+            "Neo",
+            "CapitalG",
+            "Anthos Capital"
+          ]
+        },
+        {
+          "name": "Polymarket",
+          "amount": 150,
+          "round": null,
+          "date": 1759795200,
+          "valuation": 1200.0,
+          "lead_investors": [
+            "Founders Fund"
+          ],
+          "other_investors": [
+            "Ribbit Capital",
+            "Valor Capital Group",
+            "Point72 Ventures",
+            "SV Angel",
+            "1789",
+            "1Confirmation",
+            "Blockchain Capital",
+            "Coinbase Ventures",
+            "Dragonfly Capital"
+          ]
+        },
+        {
+          "name": "Polymarket",
+          "amount": 55,
+          "round": null,
+          "date": 1730419200,
+          "valuation": 350.0,
+          "lead_investors": [
+            "Blockchain Capital"
+          ],
+          "other_investors": [
+            "Founders Fund",
+            "1789",
+            "1Confirmation",
+            "Abstract Ventures",
+            "Coinbase Ventures",
+            "Dragonfly Capital",
+            "ParaFi Capital",
+            "SV Angel"
+          ]
+        },
+        {
+          "name": "Noise",
+          "amount": 7.1,
+          "round": "Seed",
+          "date": 1768348800,
+          "valuation": null,
+          "lead_investors": [
+            "Paradigm"
+          ],
+          "other_investors": [
+            "Figment Capital",
+            "Anagram",
+            "GSR",
+            "JPEG Trading"
+          ]
+        }
+      ]
+    },
+    "DEX": {
+      "count": 48,
+      "total_raised": 276.15,
+      "avg_raise": 5.753125,
+      "median_raise": 4.5,
+      "avg_valuation": 195.0,
+      "top_rounds": [
+        {
+          "name": "Portal",
+          "amount": 34,
+          "round": "Seed",
+          "date": 1706572800,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": [
+            "Coinbase Ventures",
+            "Arrington Capital",
+            "OKX Ventures",
+            "Gate Ventures"
+          ]
+        },
+        {
+          "name": "SynFutures",
+          "amount": 22,
+          "round": "Series B",
+          "date": 1697673600,
+          "valuation": null,
+          "lead_investors": [
+            "Pantera Capital"
+          ],
+          "other_investors": [
+            "Hashkey Capital",
+            "SIG DT Investments"
+          ]
+        },
+        {
+          "name": "Brine",
+          "amount": 16.5,
+          "round": null,
+          "date": 1694044800,
+          "valuation": 100.0,
+          "lead_investors": [
+            "Pantera Capital"
+          ],
+          "other_investors": [
+            "Elevation Capital",
+            "StarkWare",
+            "The Spartan Group",
+            "Goodwater Capital",
+            "Upsparks Ventures",
+            "Protofund Ventures"
+          ]
+        },
+        {
+          "name": "Mauve",
+          "amount": 15,
+          "round": null,
+          "date": 1678320000,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": [
+            "Brevan Howard",
+            "Coinbase Ventures"
+          ]
+        },
+        {
+          "name": "DigiFT",
+          "amount": 10.5,
+          "round": "pre-Series A",
+          "date": 1677801600,
+          "valuation": null,
+          "lead_investors": [
+            "Shanda Group"
+          ],
+          "other_investors": [
+            "Hashkey Capital",
+            "Hash Global",
+            "North Beta Capital"
+          ]
+        }
+      ]
+    },
+    "MEV": {
+      "count": 7,
+      "total_raised": 88.95,
+      "avg_raise": 12.707142857142857,
+      "median_raise": 6,
+      "avg_valuation": 1000.0,
+      "top_rounds": [
+        {
+          "name": "Flashbots",
+          "amount": 60,
+          "round": "Series B",
+          "date": 1690243200,
+          "valuation": 1000.0,
+          "lead_investors": [
+            "Paradigm"
+          ],
+          "other_investors": []
+        },
+        {
+          "name": "Warlock Labs",
+          "amount": 8,
+          "round": "Seed",
+          "date": 1743033600,
+          "valuation": null,
+          "lead_investors": [
+            "Polychain Capital"
+          ],
+          "other_investors": [
+            "Greenfield Capital",
+            "TRGC",
+            "Reciprocal Ventures",
+            "Symbolic Capital",
+            "Ambush"
+          ]
+        },
+        {
+          "name": "Sorella Labs",
+          "amount": 7.5,
+          "round": "Seed",
+          "date": 1724112000,
+          "valuation": null,
+          "lead_investors": [
+            "Paradigm"
+          ],
+          "other_investors": [
+            "Uniswap Labs Ventures",
+            "Bankless Ventures",
+            "Robot Ventures",
+            "Nascent"
+          ]
+        },
+        {
+          "name": "FastLane Labs",
+          "amount": 6,
+          "round": null,
+          "date": 1740787200,
+          "valuation": null,
+          "lead_investors": [
+            "DBA"
+          ],
+          "other_investors": [
+            "Coinbase Ventures",
+            "Robot Ventures",
+            "Kiln",
+            "Hashkey Capital",
+            "Chorus One Ventures"
+          ]
+        },
+        {
+          "name": "Rebard",
+          "amount": 2.9,
+          "round": "Seed",
+          "date": 1719446400,
+          "valuation": null,
+          "lead_investors": [
+            "6th Man Ventures"
+          ],
+          "other_investors": [
+            "ParaFi Capital",
+            "Arca",
+            "Moonrock Capital",
+            "UTXO Management"
+          ]
+        }
+      ]
+    },
+    "Liquid Staking Protocol": {
+      "count": 26,
+      "total_raised": 265.3,
+      "avg_raise": 10.203846153846154,
+      "median_raise": 5,
+      "avg_valuation": 48.333333333333336,
+      "top_rounds": [
+        {
+          "name": "Babylon",
+          "amount": 70,
+          "round": "Private",
+          "date": 1717027200,
+          "valuation": null,
+          "lead_investors": [
+            "Paradigm"
+          ],
+          "other_investors": [
+            "Polychain Capital",
+            "Bullish",
+            "HashKey Capital",
+            "Mantle Ecosystem",
+            "Galaxy",
+            "Hack VC",
+            "ViaBTC Capital",
+            "Amber Group",
+            "imToken",
+            "Breyer Capital",
+            "IOSG",
+            "HTX Ventures",
+            "LD Capital"
+          ]
+        },
+        {
+          "name": "ether.fi",
+          "amount": 27,
+          "round": "Series A",
+          "date": 1709078400,
+          "valuation": null,
+          "lead_investors": [
+            "CoinFund",
+            "Bullish"
+          ],
+          "other_investors": [
+            "Amber Group",
+            "Bankless Ventures",
+            "OKX Ventures",
+            "ConsenSys",
+            "Foresight Ventures",
+            "Fourth Revolution Capital",
+            "Punk Ventures DAO",
+            "White Star Capital",
+            "Relayer Capital",
+            "Collider Ventures",
+            "Lvna Capital",
+            "Draper Dragon",
+            "Arrington Capital",
+            "North Island Ventures",
+            "Chapter One",
+            "Version One Ventures",
+            "Node Capital",
+            "Stani Kulechov",
+            "Sandeep Nailwal",
+            "Defi Dad",
+            "Parallel",
+            "Will Price",
+            "leptokurtic",
+            "MrBlock"
+          ]
+        },
+        {
+          "name": "Puffer",
+          "amount": 18,
+          "round": "Series A",
+          "date": 1713225600,
+          "valuation": null,
+          "lead_investors": [
+            "Brevan Howard Digital",
+            "Electric Capital"
+          ],
+          "other_investors": [
+            "Coinbase Ventures",
+            "Kraken Ventures",
+            "Lemniscap",
+            "Franklin Templeton",
+            "Fidelity",
+            "Mechanism Capital",
+            "Lightspeed Faction",
+            "ConsenSys",
+            "Animoca Brands",
+            "GSR"
+          ]
+        },
+        {
+          "name": "Babylon",
+          "amount": 18,
+          "round": null,
+          "date": 1701907200,
+          "valuation": null,
+          "lead_investors": [
+            "Polychain Capital",
+            "Hack VC"
+          ],
+          "other_investors": [
+            "Framework Ventures",
+            "Polygon Ventures",
+            "Castle Island Ventures",
+            "OKX Ventures",
+            "Finality Capital Partners",
+            "Breyer Capital",
+            "Symbolic Capital Partners",
+            "IOSG Ventures",
+            "Cluster Capital",
+            "Primitive Ventures",
+            "L2IV",
+            "Geek Cartel",
+            "Chainfund Capital",
+            "web3.com",
+            "ABCDE",
+            "Evan Cheng",
+            "Deian Stefan",
+            "Yaoqi Jia"
+          ]
+        },
+        {
+          "name": "Kiln",
+          "amount": 17,
+          "round": "Series A+",
+          "date": 1705536000,
+          "valuation": null,
+          "lead_investors": [
+            "1kx"
+          ],
+          "other_investors": [
+            "IOSG Ventures",
+            "Crypto.com"
+          ]
+        }
+      ]
+    },
+    "Banking": {
+      "count": 38,
+      "total_raised": 1590.3799999999999,
+      "avg_raise": 41.85210526315789,
+      "median_raise": 16.7,
+      "avg_valuation": 861.75,
+      "top_rounds": [
+        {
+          "name": "Cross River",
+          "amount": 620,
+          "round": null,
+          "date": 1648598400,
+          "valuation": null,
+          "lead_investors": [
+            "Eldridge",
+            "a16z"
+          ],
+          "other_investors": [
+            "T. Rowe Price Investment Management",
+            "Whale Rock",
+            "Hanaco Ventures"
+          ]
+        },
+        {
+          "name": "Figure",
+          "amount": 200,
+          "round": null,
+          "date": 1740614400,
+          "valuation": null,
+          "lead_investors": [
+            "Sixth Street"
+          ],
+          "other_investors": []
+        },
+        {
+          "name": "Twenty One",
+          "amount": 100,
+          "round": null,
+          "date": 1748476800,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": []
+        },
+        {
+          "name": "Bitwise",
+          "amount": 70,
+          "round": null,
+          "date": 1740441600,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": [
+            "Electric Capital",
+            "MMVentures",
+            "MIT Investment Managament Company",
+            "Highland Capital Partners",
+            "Haun Ventures",
+            "ParaFi Capital",
+            "Khosla Ventures",
+            "General Catalyst",
+            "B.lc",
+            "Blockchain Coinvestors",
+            "Nikesh Arora"
+          ]
+        },
+        {
+          "name": "Sygnum",
+          "amount": 58,
+          "round": "Series B",
+          "date": 1736812800,
+          "valuation": 1000.0,
+          "lead_investors": [
+            "Fulgur Ventures"
+          ],
+          "other_investors": []
+        }
+      ]
+    },
+    "Payments": {
+      "count": 112,
+      "total_raised": 2810.65,
+      "avg_raise": 25.095089285714288,
+      "median_raise": 6,
+      "avg_valuation": 6120.928571428572,
+      "top_rounds": [
+        {
+          "name": "Ripple Labs",
+          "amount": 500,
+          "round": "Strategic",
+          "date": 1762300800,
+          "valuation": 40000.0,
+          "lead_investors": [
+            "Fortress Investment Group",
+            "Citadel Securities"
+          ],
+          "other_investors": [
+            "Pantera Capital",
+            "Galaxy Digital",
+            "Brevan Howard Digital",
+            "Marshall Wace"
+          ]
+        },
+        {
+          "name": "Rapyd",
+          "amount": 500,
+          "round": "Series F",
+          "date": 1757462400,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": [
+            "BlackRock",
+            "Target Global",
+            "General Catalyst",
+            "Fidelity Investments",
+            "Altimeter Capital",
+            "XBO Ventures",
+            "Whale Rock Capital Management",
+            "Dragoneer",
+            "Lattitude Capital",
+            "Durable Capital Partners",
+            "Spark Capital"
+          ]
+        },
+        {
+          "name": "Rain",
+          "amount": 250,
+          "round": "Series C",
+          "date": 1767916800,
+          "valuation": 1950.0,
+          "lead_investors": [
+            "Iconiq Capital"
+          ],
+          "other_investors": [
+            "Sapphire Ventures",
+            "Dragonfly Capital",
+            "Bessemer Ventures",
+            "Galaxy Digital",
+            "FirstMark Capital",
+            "Lightspeed Faction",
+            "Norwest Venture Partners",
+            "Endeavor Catalyst"
+          ]
+        },
+        {
+          "name": "Fnality International",
+          "amount": 139,
+          "round": "Series C",
+          "date": 1758585600,
+          "valuation": null,
+          "lead_investors": [
+            "Bank of America",
+            "Citi",
+            "WisdomTree",
+            "KBC Group",
+            "Temasek",
+            "Tradeweb"
+          ],
+          "other_investors": [
+            "Banco Santander",
+            "Barclays",
+            "BNP Paribas",
+            "DTCC",
+            "Euroclear",
+            "Goldman Sachs",
+            "ING Ventures",
+            "Nasdaq Ventures",
+            "State Street",
+            "UBS"
+          ]
+        },
+        {
+          "name": "Fnality International",
+          "amount": 95,
+          "round": "Series B",
+          "date": 1699920000,
+          "valuation": null,
+          "lead_investors": [
+            "Goldman Sachs",
+            "BNP Paribas"
+          ],
+          "other_investors": [
+            "DTCC",
+            "Euroclear",
+            "Nomura",
+            "Wisdom Tree",
+            "Banco Santander",
+            "BNY Mellon",
+            "Barclays",
+            "CIBC",
+            "Commerzbank",
+            "ING Ventures",
+            "Lloyds Banking Group",
+            "Nasdaq Ventures",
+            "State Street",
+            "Sumitomo Mitsui Banking Corporation",
+            "UBS"
+          ]
+        }
+      ]
+    },
+    "Social Platform": {
+      "count": 76,
+      "total_raised": 2288.94,
+      "avg_raise": 30.117631578947368,
+      "median_raise": 4.42,
+      "avg_valuation": 390.6,
+      "top_rounds": [
+        {
+          "name": "Rumble",
+          "amount": 775,
+          "round": null,
+          "date": 1734652800,
+          "valuation": null,
+          "lead_investors": [
+            "Tether"
+          ],
+          "other_investors": []
+        },
+        {
+          "name": "Tatatu",
+          "amount": 575,
+          "round": "ICO",
+          "date": 1529884800,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": []
+        },
+        {
+          "name": "BitClout",
+          "amount": 200,
+          "round": "ICO",
+          "date": 1632182400,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": [
+            "Alexis Ohanian",
+            "a16z",
+            "Arrington XRP Capital",
+            "Blockchain.com Ventures",
+            "Blockchange Ventures",
+            "Coinbase Ventures",
+            "Distributed Global",
+            "Hack Ventures",
+            "Pantera Capital",
+            "Social Capital",
+            "Sequoia Capital",
+            "TQ Ventures",
+            "Polychain",
+            "Winklevoss Capital"
+          ]
+        },
+        {
+          "name": "Farcaster",
+          "amount": 150,
+          "round": null,
+          "date": 1716249600,
+          "valuation": 1000.0,
+          "lead_investors": [
+            "Paradigm"
+          ],
+          "other_investors": [
+            "a16z crypto",
+            "Haun Ventures",
+            "USV",
+            "Variant Fund",
+            "Standard Crypto"
+          ]
+        },
+        {
+          "name": "Freechat",
+          "amount": 80,
+          "round": "Series A",
+          "date": 1704672000,
+          "valuation": 800.0,
+          "lead_investors": [],
+          "other_investors": []
+        }
+      ]
+    },
+    "Meme": {
+      "count": 36,
+      "total_raised": 183.927928,
+      "avg_raise": 5.1091091111111115,
+      "median_raise": 2.284032,
+      "avg_valuation": null,
+      "top_rounds": [
+        {
+          "name": "0xDecadente",
+          "amount": 32.636544,
+          "round": "ICO",
+          "date": 1710633600,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": []
+        },
+        {
+          "name": "Dexter_Cap",
+          "amount": 30.678144,
+          "round": "ICO",
+          "date": 1710892800,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": []
+        },
+        {
+          "name": "miladymemecoin",
+          "amount": 17.615232,
+          "round": "ICO",
+          "date": 1710806400,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": []
+        },
+        {
+          "name": "CoreSky",
+          "amount": 15,
+          "round": "Series A",
+          "date": 1742860800,
+          "valuation": null,
+          "lead_investors": [
+            "Tido Capital"
+          ],
+          "other_investors": [
+            "WAGMI Ventures",
+            "Parallel",
+            "Web3 Vision Fund",
+            "Copilot Venture Studio"
+          ]
+        },
+        {
+          "name": "Slerfsol",
+          "amount": 10.479936,
+          "round": "ICO",
+          "date": 1710633600,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": []
+        }
+      ]
+    },
+    "Stablecoin Infrastructure": {
+      "count": 11,
+      "total_raised": 575.0,
+      "avg_raise": 52.27272727272727,
+      "median_raise": 12.5,
+      "avg_valuation": null,
+      "top_rounds": [
+        {
+          "name": "OSL Group",
+          "amount": 300,
+          "round": "Equity",
+          "date": 1753401600,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": [
+            "BGX"
+          ]
+        },
+        {
+          "name": "RedotPay",
+          "amount": 107,
+          "round": "Series B",
+          "date": 1765843200,
+          "valuation": null,
+          "lead_investors": [
+            "GoodWater Capital"
+          ],
+          "other_investors": [
+            "Pantera Capital",
+            "Blockchain Capital",
+            "HongShan",
+            "Circle Ventures"
+          ]
+        },
+        {
+          "name": "Rain",
+          "amount": 58,
+          "round": "Series B",
+          "date": 1756339200,
+          "valuation": null,
+          "lead_investors": [
+            "Sapphire Ventures"
+          ],
+          "other_investors": [
+            "Dragonfly Capital",
+            "Galaxy Digital",
+            "Samsung Next",
+            "Lightspeed Faction",
+            "Norwest Venture Partners",
+            "Endeavor Catalyst"
+          ]
+        },
+        {
+          "name": "RD Technologies",
+          "amount": 40,
+          "round": "Series A2",
+          "date": 1753833600,
+          "valuation": null,
+          "lead_investors": [
+            "ZongAn International"
+          ],
+          "other_investors": [
+            "Hivemind Ventures",
+            "HongShan",
+            "Matrixport",
+            "Immutable Capital"
+          ]
+        },
+        {
+          "name": "Noah",
+          "amount": 22,
+          "round": "Seed",
+          "date": 1749513600,
+          "valuation": null,
+          "lead_investors": [
+            "LocalGlobe"
+          ],
+          "other_investors": [
+            "Felix Capital",
+            "FJ Labs"
+          ]
+        }
+      ]
+    },
+    "Information services digital assets": {
+      "count": 3,
+      "total_raised": 22.700000000000003,
+      "avg_raise": 7.566666666666667,
+      "median_raise": 9,
+      "avg_valuation": 115.5,
+      "top_rounds": [
+        {
+          "name": "EPNS",
+          "amount": 10.1,
+          "round": "Series A",
+          "date": 1649980800,
+          "valuation": 131.0,
+          "lead_investors": [
+            "Jump Crypto"
+          ],
+          "other_investors": [
+            "Tiger Global",
+            "ParaFi Capital",
+            "A.Capital Ventures",
+            "Sino Global Capital",
+            "Polygon Studios",
+            "Harmony Foundation",
+            "Wintermute Ventures",
+            "Zee Prime",
+            "Woodstock",
+            "DCX Ventures",
+            "Alpha Wave Capital",
+            "ZebPay",
+            "TRGC",
+            "iSeedVC",
+            "Signum Capital",
+            "Andrew Keys",
+            "David Silverman",
+            "Ajit Tripathi",
+            "Kane Warwick",
+            "Jordan Momtazi",
+            "Justin Moses",
+            "Aniket Jindal",
+            "Anton Bukov",
+            "Sahil Dewan",
+            "Mateo A Levy",
+            "Jerome de Tychey"
+          ]
+        },
+        {
+          "name": "The TIE",
+          "amount": 9,
+          "round": "Series A",
+          "date": 1647907200,
+          "valuation": 100.0,
+          "lead_investors": [
+            "Blizzard Fund"
+          ],
+          "other_investors": [
+            "GoldenTree",
+            "Nexo",
+            "NYDIG",
+            "Hudson River Trading",
+            "Gemini Frontier Fund",
+            "Republic Capital"
+          ]
+        },
+        {
+          "name": "Freatic",
+          "amount": 3.6,
+          "round": "Seed",
+          "date": 1695168000,
+          "valuation": null,
+          "lead_investors": [
+            "a16z crypto"
+          ],
+          "other_investors": [
+            "Anachram",
+            "Archetype",
+            "Not3Lau Capital",
+            "Robot Ventures",
+            "Arweave",
+            "Stefano Bernardi",
+            "Meltem Demirors",
+            "Stephane Gosselin",
+            "Jutta Steiner",
+            "MacLane Wilkison"
+          ]
+        }
+      ]
+    },
+    "Real Estate": {
+      "count": 6,
+      "total_raised": 27.899,
+      "avg_raise": 4.6498333333333335,
+      "median_raise": 3,
+      "avg_valuation": null,
+      "top_rounds": [
+        {
+          "name": "Propy",
+          "amount": 15.5,
+          "round": "ICO",
+          "date": 1505433600,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": []
+        },
+        {
+          "name": "Parcl",
+          "amount": 3.97,
+          "round": "Seed",
+          "date": 1638403200,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": [
+            "Archetype",
+            "Coinbase Ventures",
+            "Dragonfly Capital",
+            "FJ Labs",
+            "Not Boring",
+            "ParaFi Capital",
+            "Shima Capital",
+            "Slow Ventures",
+            "Solana Ventures",
+            "Tribe Capital"
+          ]
+        },
+        {
+          "name": "HomeToken",
+          "amount": 3,
+          "round": "ICO",
+          "date": 1505692800,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": []
+        },
+        {
+          "name": "Brickblock",
+          "amount": 2.97,
+          "round": "Series A",
+          "date": 1525737600,
+          "valuation": null,
+          "lead_investors": [
+            "Finch Capital"
+          ],
+          "other_investors": []
+        },
+        {
+          "name": "crowdhouse",
+          "amount": 1.959,
+          "round": "Series A",
+          "date": 1454284800,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": [
+            "Luzerner Kantonalbank"
+          ]
+        }
+      ]
+    },
+    "Storage": {
+      "count": 26,
+      "total_raised": 286.882,
+      "avg_raise": 11.033923076923077,
+      "median_raise": 3.5,
+      "avg_valuation": 1050.0,
+      "top_rounds": [
+        {
+          "name": "Walrus Foundation",
+          "amount": 140,
+          "round": null,
+          "date": 1742428800,
+          "valuation": 2000.0,
+          "lead_investors": [],
+          "other_investors": [
+            "Standard Crypto",
+            "a16z crypto",
+            "Franklin Templeton",
+            "Electric Capital"
+          ]
+        },
+        {
+          "name": "Storj",
+          "amount": 30,
+          "round": "ICO",
+          "date": 1499731200,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": [
+            "George Burke"
+          ]
+        },
+        {
+          "name": "CyberHash",
+          "amount": 20,
+          "round": "Series A",
+          "date": 1640822400,
+          "valuation": null,
+          "lead_investors": [
+            "Alex Zhu"
+          ],
+          "other_investors": []
+        },
+        {
+          "name": "Hive",
+          "amount": 13,
+          "round": "Series A",
+          "date": 1711497600,
+          "valuation": null,
+          "lead_investors": [
+            "SC Ventures"
+          ],
+          "other_investors": [
+            "OneRagtime"
+          ]
+        },
+        {
+          "name": "Kyve",
+          "amount": 9,
+          "round": "3rd round",
+          "date": 1656633600,
+          "valuation": null,
+          "lead_investors": [
+            "DistributedG",
+            "Wicklow Capital",
+            "IOSG Ventures",
+            "Anagram",
+            "Cerulean Ventures",
+            "Huobi Incubator",
+            "MEXC"
+          ],
+          "other_investors": []
+        }
+      ]
+    },
+    "Game": {
+      "count": 40,
+      "total_raised": 210.56,
+      "avg_raise": 5.264,
+      "median_raise": 3.84,
+      "avg_valuation": 20.0,
+      "top_rounds": [
+        {
+          "name": "Shrapnel",
+          "amount": 20,
+          "round": "Series A",
+          "date": 1698192000,
+          "valuation": null,
+          "lead_investors": [
+            "Polychain Capital"
+          ],
+          "other_investors": [
+            "Griffin Gaming Partners",
+            "Brevan Howard Digital",
+            "Franklin Templeton",
+            "IOSG Ventures",
+            "Tess Ventures"
+          ]
+        },
+        {
+          "name": "Neon Machine (SHRAPNEL)",
+          "amount": 19.5,
+          "round": null,
+          "date": 1755043200,
+          "valuation": null,
+          "lead_investors": [
+            "Gala Games"
+          ],
+          "other_investors": [
+            "Polychain Capital",
+            "Griffin Gaming Partners"
+          ]
+        },
+        {
+          "name": "Upland",
+          "amount": 18,
+          "round": "Series A",
+          "date": 1635811200,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": [
+            "Alumni Ventures",
+            "Animoca Brands",
+            "Block.one",
+            "FinLab EOS VC",
+            "Global Founders Capital",
+            "One Team Partners",
+            "Michael Ronen",
+            "Michael Terpin",
+            "Mike Vorhaus"
+          ]
+        },
+        {
+          "name": "Delysium",
+          "amount": 10,
+          "round": "Strategic ",
+          "date": 1665964800,
+          "valuation": null,
+          "lead_investors": [
+            "Anthos Capital"
+          ],
+          "other_investors": [
+            "Immutable",
+            "GSR",
+            "BCoininvestors",
+            "Leonis Capital",
+            "Antalpha Ventures",
+            "Perion DAO",
+            "Formless Capital"
+          ]
+        },
+        {
+          "name": "Infinitar",
+          "amount": 9,
+          "round": "Series A",
+          "date": 1728259200,
+          "valuation": null,
+          "lead_investors": [
+            "Lam Group",
+            "Accelbyte fund"
+          ],
+          "other_investors": []
+        }
+      ]
+    },
+    "Oracle": {
+      "count": 2,
+      "total_raised": 18,
+      "avg_raise": 9.0,
+      "median_raise": 12,
+      "avg_valuation": 60.0,
+      "top_rounds": [
+        {
+          "name": "Chronicle Labs",
+          "amount": 12,
+          "round": "Seed",
+          "date": 1742860800,
+          "valuation": null,
+          "lead_investors": [
+            "Strobe Ventures"
+          ],
+          "other_investors": [
+            "Brevan Howard Digital",
+            "6th Man Ventures"
+          ]
+        },
+        {
+          "name": "Canyon Network",
+          "amount": 6,
+          "round": "Private Round",
+          "date": 1729123200,
+          "valuation": 60.0,
+          "lead_investors": [],
+          "other_investors": [
+            "DeData Technologies",
+            "Fission Capital",
+            "DAO Ventures",
+            "Vinci Labs"
+          ]
+        }
+      ]
+    },
+    "Digital Identity": {
+      "count": 35,
+      "total_raised": 421.918,
+      "avg_raise": 12.0548,
+      "median_raise": 5.4,
+      "avg_valuation": 100.0,
+      "top_rounds": [
+        {
+          "name": "Worldcoin",
+          "amount": 115,
+          "round": "Series C",
+          "date": 1684972800,
+          "valuation": null,
+          "lead_investors": [
+            "Blockchain Capital"
+          ],
+          "other_investors": [
+            "a16z crypto",
+            "Bain Capital Crypto",
+            "Distributed Global"
+          ]
+        },
+        {
+          "name": "1Kosmos",
+          "amount": 57,
+          "round": "Series B",
+          "date": 1754956800,
+          "valuation": null,
+          "lead_investors": [
+            "Forgepoint Capital",
+            "Oquirrh Ventures"
+          ],
+          "other_investors": [
+            "NextEra Energy Ventures",
+            "Gula Tech Adventures"
+          ]
+        },
+        {
+          "name": "Billions Network",
+          "amount": 30,
+          "round": null,
+          "date": 1753920000,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": [
+            "Polychain Capital",
+            "Polygon",
+            "Coinbase Ventures",
+            "Liberty City Ventures",
+            "BITKRAFT Ventures"
+          ]
+        },
+        {
+          "name": "Sign",
+          "amount": 25.5,
+          "round": "Strategic",
+          "date": 1761004800,
+          "valuation": null,
+          "lead_investors": [
+            "YZi Labs"
+          ],
+          "other_investors": [
+            "IDG Capital"
+          ]
+        },
+        {
+          "name": "Pillar Project",
+          "amount": 21,
+          "round": "ICO",
+          "date": 1500249600,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": [
+            "George Burke"
+          ]
+        }
+      ]
+    },
+    "Investment": {
+      "count": 15,
+      "total_raised": 770.9,
+      "avg_raise": 51.39333333333333,
+      "median_raise": 13,
+      "avg_valuation": null,
+      "top_rounds": [
+        {
+          "name": "BitMine",
+          "amount": 250,
+          "round": "Private",
+          "date": 1751328000,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": []
+        },
+        {
+          "name": "Hut 8",
+          "amount": 220,
+          "round": null,
+          "date": 1751241600,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": []
+        },
+        {
+          "name": "Upexi",
+          "amount": 150,
+          "round": "Convertible note issuance",
+          "date": 1752192000,
+          "valuation": null,
+          "lead_investors": [
+            "Big Brain Holdings"
+          ],
+          "other_investors": []
+        },
+        {
+          "name": "Upexi",
+          "amount": 50,
+          "round": "Private Equity",
+          "date": 1752192000,
+          "valuation": null,
+          "lead_investors": [
+            "Big Brain Holdings"
+          ],
+          "other_investors": []
+        },
+        {
+          "name": "Lightyear",
+          "amount": 23,
+          "round": "Series B",
+          "date": 1753315200,
+          "valuation": null,
+          "lead_investors": [
+            "NordicNinja"
+          ],
+          "other_investors": [
+            "Lightspeed Faction",
+            "Skaala",
+            "Metaplanet Holdings"
+          ]
+        }
+      ]
+    },
+    "CeDeFi": {
+      "count": 6,
+      "total_raised": 49.25,
+      "avg_raise": 8.208333333333334,
+      "median_raise": 7.8,
+      "avg_valuation": 25.0,
+      "top_rounds": [
+        {
+          "name": "Lava",
+          "amount": 17.5,
+          "round": null,
+          "date": 1759276800,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": [
+            "Peter Jurdjevic",
+            "Bijan Tehrani",
+            "Zach White",
+            "Saurabh Gupta",
+            "Terry Angelos",
+            "Aaron Suplizo"
+          ]
+        },
+        {
+          "name": "Function ƒBTC",
+          "amount": 10,
+          "round": "Seed",
+          "date": 1752537600,
+          "valuation": null,
+          "lead_investors": [
+            "Galaxy Digital"
+          ],
+          "other_investors": [
+            "Antalpha Ventures",
+            "Mantle Network"
+          ]
+        },
+        {
+          "name": "RD Technologies",
+          "amount": 7.8,
+          "round": null,
+          "date": 1727654400,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": [
+            "HongShan",
+            "Hivemind Ventures",
+            "Aptos Labs",
+            "Hash Global",
+            "SNZ Capital",
+            "Solana",
+            "Anagram",
+            "Upward Capital"
+          ]
+        },
+        {
+          "name": "IDA",
+          "amount": 6,
+          "round": "Seed",
+          "date": 1725235200,
+          "valuation": null,
+          "lead_investors": [
+            "CMCC Global",
+            "Hashed"
+          ],
+          "other_investors": [
+            "Hack VC",
+            "GSR",
+            "Protagonist",
+            "Brinc",
+            "Chorus One Ventures",
+            "SNZ Capital",
+            "Kenetic Capital",
+            "Yolo Investments"
+          ]
+        },
+        {
+          "name": "Stackup",
+          "amount": 4.2,
+          "round": "Seed",
+          "date": 1750377600,
+          "valuation": null,
+          "lead_investors": [
+            "1kx"
+          ],
+          "other_investors": [
+            "yCombinator",
+            "DCG",
+            "Goodwater Capital",
+            "SevenX Ventures"
+          ]
+        }
+      ]
+    },
+    "Education": {
+      "count": 6,
+      "total_raised": 75.78,
+      "avg_raise": 12.63,
+      "median_raise": 5,
+      "avg_valuation": 40.0,
+      "top_rounds": [
+        {
+          "name": "National Cryptocurrency Association",
+          "amount": 50,
+          "round": "Grant",
+          "date": 1741132800,
+          "valuation": null,
+          "lead_investors": [
+            "Ripple"
+          ],
+          "other_investors": []
+        },
+        {
+          "name": "BugsCoin",
+          "amount": 12,
+          "round": "Series A",
+          "date": 1744329600,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": [
+            "Becker Ventures",
+            "Castrum Capital",
+            "BullPerks",
+            "DuckDAO",
+            "MAXX Capital"
+          ]
+        },
+        {
+          "name": "Open Campus",
+          "amount": 5,
+          "round": "Strategic",
+          "date": 1760918400,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": [
+            "Animoca Brands",
+            "YZi Labs",
+            "HongShan",
+            "Caladan",
+            "Polygon",
+            "Shima Capital",
+            "Kingsway Capital",
+            "GameFi Ventures"
+          ]
+        },
+        {
+          "name": "HackQuest",
+          "amount": 4.1,
+          "round": "pre-Series A",
+          "date": 1754611200,
+          "valuation": null,
+          "lead_investors": [
+            "Animoca Brands"
+          ],
+          "other_investors": [
+            "Gate Ventures",
+            "Open Campus",
+            "STEPN"
+          ]
+        },
+        {
+          "name": "Uweb",
+          "amount": 3,
+          "round": "Angel Round",
+          "date": 1752105600,
+          "valuation": null,
+          "lead_investors": [
+            "Avenir Group"
+          ],
+          "other_investors": [
+            "Singchain Investment"
+          ]
+        }
+      ]
+    },
+    "IoT": {
+      "count": 5,
+      "total_raised": 285.09,
+      "avg_raise": 57.017999999999994,
+      "median_raise": 6,
+      "avg_valuation": null,
+      "top_rounds": [
+        {
+          "name": "HDAC",
+          "amount": 258,
+          "round": "ICO",
+          "date": 1512086400,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": []
+        },
+        {
+          "name": "Nova Labs",
+          "amount": 15,
+          "round": "Series C",
+          "date": 1560297600,
+          "valuation": null,
+          "lead_investors": [
+            "Multicoin Capital",
+            "USV"
+          ],
+          "other_investors": [
+            "Khosla Ventures",
+            "Google Ventures",
+            "FirstMark Capital",
+            "Munich Re Ventures"
+          ]
+        },
+        {
+          "name": "Peaq",
+          "amount": 6,
+          "round": null,
+          "date": 1656460800,
+          "valuation": null,
+          "lead_investors": [
+            "Fundamental Labs"
+          ],
+          "other_investors": []
+        },
+        {
+          "name": "Sentient.io",
+          "amount": 3.69,
+          "round": "Series A",
+          "date": 1569888000,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": [
+            "ABC Dream Ventures",
+            "DG Lab Fund",
+            "DK Gate",
+            "Leave a Nest"
+          ]
+        },
+        {
+          "name": "Authena",
+          "amount": 2.4,
+          "round": "Seed",
+          "date": 1631836800,
+          "valuation": null,
+          "lead_investors": [
+            "Ecliptic Capital",
+            "Private Investor"
+          ],
+          "other_investors": []
+        }
+      ]
+    },
+    "Voting": {
+      "count": 2,
+      "total_raised": 2.3,
+      "avg_raise": 1.15,
+      "median_raise": 1.2,
+      "avg_valuation": null,
+      "top_rounds": [
+        {
+          "name": "Votem Corp",
+          "amount": 1.2,
+          "round": "Seed",
+          "date": 1508716800,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": []
+        },
+        {
+          "name": "Horizon State",
+          "amount": 1.1,
+          "round": "ICO",
+          "date": 1508112000,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": []
+        }
+      ]
+    },
+    "Taxes": {
+      "count": 11,
+      "total_raised": 275.76,
+      "avg_raise": 25.069090909090907,
+      "median_raise": 5,
+      "avg_valuation": 1330.0,
+      "top_rounds": [
+        {
+          "name": "TaxBit",
+          "amount": 130,
+          "round": "Series B",
+          "date": 1628726400,
+          "valuation": 1330.0,
+          "lead_investors": [
+            "IVP",
+            "Insight Partners"
+          ],
+          "other_investors": [
+            "Tiger Global",
+            "Paradigm"
+          ]
+        },
+        {
+          "name": "TaxBit",
+          "amount": 100,
+          "round": "Series A",
+          "date": 1614643200,
+          "valuation": null,
+          "lead_investors": [
+            "Paradigm",
+            "Tiger Global Management"
+          ],
+          "other_investors": [
+            "PayPal Ventures",
+            "Coinbase Ventures",
+            "Tyler and Cameron Winklevoss"
+          ]
+        },
+        {
+          "name": "Cryptio",
+          "amount": 15,
+          "round": "Series A",
+          "date": 1738108800,
+          "valuation": null,
+          "lead_investors": [
+            "Alven"
+          ],
+          "other_investors": [
+            "1kx",
+            "Ledger Cathay Capital",
+            "BitGo",
+            "BlueYard Capital",
+            "Point Nine",
+            "Tim Draper"
+          ]
+        },
+        {
+          "name": "Tres Finance",
+          "amount": 11,
+          "round": "Series A",
+          "date": 1703030400,
+          "valuation": null,
+          "lead_investors": [
+            "Faction Ventures"
+          ],
+          "other_investors": [
+            "New Form",
+            "Cyber Fund "
+          ]
+        },
+        {
+          "name": "ZenLedger",
+          "amount": 6,
+          "round": "Series A",
+          "date": 1627948800,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": [
+            "Accelerator Ventures",
+            "Bigg Digital Assets",
+            "Blackwater Capital",
+            "Bloccelerate",
+            "Borderless Capital",
+            "Castle Island Ventures",
+            "Centrality",
+            "COIND",
+            "Coingecko Ventures",
+            "Crowd Venture Capital",
+            "Darren Lau",
+            "Fourth Revolution Capital",
+            "G1 Ventures",
+            "Jon Staenberg",
+            "Karl Muth",
+            "Migration Capital",
+            "Vestigo Ventures",
+            "Radical Investments LP",
+            "Tor Kenz Capital"
+          ]
+        }
+      ]
+    },
+    "Scaling Solution": {
+      "count": 19,
+      "total_raised": 965.055,
+      "avg_raise": 50.79236842105263,
+      "median_raise": 8.86,
+      "avg_valuation": 10.0,
+      "top_rounds": [
+        {
+          "name": "Polygon",
+          "amount": 450,
+          "round": "Private token sale",
+          "date": 1644192000,
+          "valuation": null,
+          "lead_investors": [
+            "Sequoia Capital India"
+          ],
+          "other_investors": [
+            "Galaxy Digital",
+            "Galaxy Interactive",
+            "Tiger Global",
+            "Republic Capital",
+            "Alan Howard",
+            "Kevin O’Leary",
+            "Alameda Research",
+            "Transcend Fund",
+            "Makers Fund",
+            "Animoca Brands",
+            "Scopely",
+            "Dune Ventures",
+            "USV",
+            "Seven Seven Six",
+            "Elevation Capital",
+            "Sino Global Capital",
+            "DCG",
+            "Standard Crypto",
+            "Celsius Network",
+            "Variant Fund",
+            "Blue Pool Capital",
+            "Third Point",
+            "Steadview Capital",
+            "Accel",
+            "SoftBank",
+            "WorkPlay Ventures"
+          ]
+        },
+        {
+          "name": "Metis",
+          "amount": 100,
+          "round": "Ecosystem Foundation raise",
+          "date": 1657584000,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": []
+        },
+        {
+          "name": "Assembly",
+          "amount": 100,
+          "round": null,
+          "date": 1639094400,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": [
+            "Du Capital",
+            "GSR",
+            "Hashkey Capital",
+            "Huobi",
+            "Hyperchain Capital",
+            "LD Capital",
+            "Signum Capital",
+            "UOB Ventures "
+          ]
+        },
+        {
+          "name": "Offchain Labs",
+          "amount": 100,
+          "round": "Series B",
+          "date": 1630368000,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": [
+            "Alameda Research",
+            "Lightspeed Venture Partners",
+            "Mark Cuban",
+            "Pantera Capital",
+            "Polychain",
+            "Redpoint",
+            "Ribbit Capital"
+          ]
+        },
+        {
+          "name": "Aurora",
+          "amount": 90,
+          "round": "Ecosystem Foundation raise",
+          "date": 1652400000,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": []
+        }
+      ]
+    },
+    "Cloud Security": {
+      "count": 1,
+      "total_raised": 2.4,
+      "avg_raise": 2.4,
+      "median_raise": 2.4,
+      "avg_valuation": null,
+      "top_rounds": [
+        {
+          "name": "Immutable Systems",
+          "amount": 2.4,
+          "round": "Seed",
+          "date": 1531094400,
+          "valuation": null,
+          "lead_investors": [
+            "Nirvana Capital",
+            "Continue Capital"
+          ],
+          "other_investors": [
+            "Coinbase Ventures",
+            "Sora Ventures"
+          ]
+        }
+      ]
+    },
+    "Custody": {
+      "count": 10,
+      "total_raised": 171.54,
+      "avg_raise": 17.154,
+      "median_raise": 11.64,
+      "avg_valuation": 100.0,
+      "top_rounds": [
+        {
+          "name": "Komainu",
+          "amount": 75,
+          "round": "Series B",
+          "date": 1736985600,
+          "valuation": null,
+          "lead_investors": [
+            "Blockstream Capital Partners"
+          ],
+          "other_investors": []
+        },
+        {
+          "name": "Bastion",
+          "amount": 25,
+          "round": "Seed",
+          "date": 1694995200,
+          "valuation": null,
+          "lead_investors": [
+            "a16z crypto"
+          ],
+          "other_investors": [
+            "Laser Digital Ventures",
+            "Robot Ventures",
+            "Not Boring Capital"
+          ]
+        },
+        {
+          "name": "Finoa",
+          "amount": 15,
+          "round": "Strategic ",
+          "date": 1704758400,
+          "valuation": 100.0,
+          "lead_investors": [
+            "Maven 11",
+            "Balderton Capital"
+          ],
+          "other_investors": []
+        },
+        {
+          "name": "DigitalX",
+          "amount": 13.5,
+          "round": "Strategic",
+          "date": 1751932800,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": [
+            "Animoca Brands",
+            "ParaFi Capital",
+            "UTXO Management"
+          ]
+        },
+        {
+          "name": "Tangany",
+          "amount": 11.64,
+          "round": "Series A",
+          "date": 1756684800,
+          "valuation": null,
+          "lead_investors": [
+            "Heliad AG Ventures",
+            "Nauta Capital",
+            "Elevator Ventures"
+          ],
+          "other_investors": [
+            "High-Tech Grunderfonds",
+            "Baader Bank"
+          ]
+        }
+      ]
+    },
+    "Information security": {
+      "count": 2,
+      "total_raised": 5.96,
+      "avg_raise": 2.98,
+      "median_raise": 4.5,
+      "avg_valuation": null,
+      "top_rounds": [
+        {
+          "name": "Make Sense Labs",
+          "amount": 4.5,
+          "round": "Seed",
+          "date": 1470096000,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": [
+            "Amplify.LA",
+            "Chris Sang",
+            "Claytonia Capital",
+            "Draper Associates",
+            "Greycroft",
+            "NHN Investment",
+            "Norwest Venture Partners",
+            "Plug and Play",
+            "Sweet Capital"
+          ]
+        },
+        {
+          "name": "Octa Innovations",
+          "amount": 1.46,
+          "round": "Seed",
+          "date": 1535760000,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": []
+        }
+      ]
+    },
+    "CeFi Yield": {
+      "count": 3,
+      "total_raised": 24,
+      "avg_raise": 8.0,
+      "median_raise": 3,
+      "avg_valuation": null,
+      "top_rounds": [
+        {
+          "name": "Pillow",
+          "amount": 18,
+          "round": "Series A",
+          "date": 1665619200,
+          "valuation": null,
+          "lead_investors": [
+            "Accel",
+            "Quona Capital"
+          ],
+          "other_investors": [
+            "Jump Capital",
+            "Elevation Capital"
+          ]
+        },
+        {
+          "name": "Pillowfund",
+          "amount": 3,
+          "round": "Seed",
+          "date": 1644019200,
+          "valuation": null,
+          "lead_investors": [
+            "Elevation Capital"
+          ],
+          "other_investors": [
+            "Sandeep Nailwal",
+            "Jaynti Kanani",
+            "Prabhakar Reddy",
+            "Scott Lewis",
+            "Aniket Jindal",
+            "Ramakant Sharma",
+            "Farid Ahsan"
+          ]
+        },
+        {
+          "name": "Northstake",
+          "amount": 3,
+          "round": "Pre-Seed",
+          "date": 1687392000,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": [
+            "PreSeed Ventures",
+            "Morph Capital",
+            "The Aventures Fund",
+            "FunFair Ventures",
+            "Delta Blockchain Fund"
+          ]
+        }
+      ]
+    },
+    "L0": {
+      "count": 3,
+      "total_raised": 163,
+      "avg_raise": 54.333333333333336,
+      "median_raise": 10,
+      "avg_valuation": null,
+      "top_rounds": [
+        {
+          "name": "Polkadot",
+          "amount": 145,
+          "round": "ICO",
+          "date": 1506816000,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": []
+        },
+        {
+          "name": "Units Network",
+          "amount": 10,
+          "round": null,
+          "date": 1750291200,
+          "valuation": null,
+          "lead_investors": [
+            "Nimbus Capital"
+          ],
+          "other_investors": []
+        },
+        {
+          "name": "Openverse",
+          "amount": 8,
+          "round": "Series B",
+          "date": 1758067200,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": [
+            "Becker Ventures",
+            "Go2 Mars Labs",
+            "Bright Capital",
+            "Gaea Ventures",
+            "Innovation Engine"
+          ]
+        }
+      ]
+    },
+    "Incubator": {
+      "count": 2,
+      "total_raised": 29.5,
+      "avg_raise": 14.75,
+      "median_raise": 28.5,
+      "avg_valuation": null,
+      "top_rounds": [
+        {
+          "name": "The Open Platform",
+          "amount": 28.5,
+          "round": "Series B",
+          "date": 1751500800,
+          "valuation": null,
+          "lead_investors": [
+            "Ribbit Capital"
+          ],
+          "other_investors": [
+            "Pantera Capital"
+          ]
+        },
+        {
+          "name": "Buidlers Tribe",
+          "amount": 1,
+          "round": "Seed",
+          "date": 1667779200,
+          "valuation": null,
+          "lead_investors": [
+            "MH Ventures"
+          ],
+          "other_investors": [
+            "3one4 Capital",
+            "Better Capital"
+          ]
+        }
+      ]
+    },
+    "DeSci": {
+      "count": 2,
+      "total_raised": 8.9,
+      "avg_raise": 4.45,
+      "median_raise": 6.9,
+      "avg_valuation": null,
+      "top_rounds": [
+        {
+          "name": "BIO Protocol",
+          "amount": 6.9,
+          "round": "Seed",
+          "date": 1758067200,
+          "valuation": null,
+          "lead_investors": [
+            "Maelstrom "
+          ],
+          "other_investors": [
+            "Mechanism Capital",
+            "Animoca Brands",
+            "Panga Capital",
+            "Mirana Ventures",
+            "Zee Prime Capital",
+            "Foresight Ventures",
+            "Big Brain Holdings",
+            "Presto Labs",
+            "ArkStream Capital",
+            "Paramita",
+            "Sigil Fund",
+            "Breaker Dao",
+            "Public Works",
+            "Kosmos Ventures",
+            "Moonrock Capital",
+            "Polymorphic Capital",
+            "Bodhi Ventures"
+          ]
+        },
+        {
+          "name": "ResearchHub",
+          "amount": 2,
+          "round": "Strategic",
+          "date": 1739923200,
+          "valuation": null,
+          "lead_investors": [
+            "Boost VC"
+          ],
+          "other_investors": []
+        }
+      ]
+    },
+    "Supply Chain": {
+      "count": 6,
+      "total_raised": 92.64,
+      "avg_raise": 15.44,
+      "median_raise": 16.7,
+      "avg_valuation": null,
+      "top_rounds": [
+        {
+          "name": "UCOT",
+          "amount": 40,
+          "round": "ICO",
+          "date": 1521417600,
+          "valuation": null,
+          "lead_investors": [
+            "CollinStar",
+            "Sapien Ventures"
+          ],
+          "other_investors": []
+        },
+        {
+          "name": "OriginTrail",
+          "amount": 22.5,
+          "round": "ICO",
+          "date": 1515974400,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": []
+        },
+        {
+          "name": "Retraced",
+          "amount": 16.7,
+          "round": "Series A",
+          "date": 1725926400,
+          "valuation": null,
+          "lead_investors": [
+            "Partech"
+          ],
+          "other_investors": [
+            "Alante Capital",
+            "Alstin Capital",
+            "F-Log Ventures"
+          ]
+        },
+        {
+          "name": "Ennoventure",
+          "amount": 8.9,
+          "round": "Series A",
+          "date": 1731369600,
+          "valuation": null,
+          "lead_investors": [
+            "Tanglin Venture Partners"
+          ],
+          "other_investors": [
+            "Fenice Investment Group"
+          ]
+        },
+        {
+          "name": "GreenChain",
+          "amount": 3,
+          "round": "Convertible note issuance",
+          "date": 1757894400,
+          "valuation": null,
+          "lead_investors": [
+            "Bed Bath & Beyond"
+          ],
+          "other_investors": []
+        }
+      ]
+    },
+    "Blockchain-as-a-Service": {
+      "count": 2,
+      "total_raised": 63,
+      "avg_raise": 31.5,
+      "median_raise": 60,
+      "avg_valuation": 300.0,
+      "top_rounds": [
+        {
+          "name": "Lambda256",
+          "amount": 60,
+          "round": "Series B",
+          "date": 1639612800,
+          "valuation": 300.0,
+          "lead_investors": [
+            "Dunamu",
+            "Hanhwa Systems",
+            "Chong Kun Dang",
+            "Yanolja",
+            "Daelim",
+            "VTI Partners",
+            "DSC Investments",
+            "Shinhan Venture Capital",
+            "KB Investments",
+            "SBI Investments"
+          ],
+          "other_investors": []
+        },
+        {
+          "name": "akaChain",
+          "amount": 3,
+          "round": "Seed",
+          "date": 1546300800,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": []
+        }
+      ]
+    },
+    "Smart Contract Platform": {
+      "count": 5,
+      "total_raised": 126.5,
+      "avg_raise": 25.3,
+      "median_raise": 1.5,
+      "avg_valuation": null,
+      "top_rounds": [
+        {
+          "name": "Soroban",
+          "amount": 100,
+          "round": "Ecosystem Foundation raise",
+          "date": 1665446400,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": [
+            "Stellar Development Foundation"
+          ]
+        },
+        {
+          "name": "Stacks",
+          "amount": 23,
+          "round": "ICO",
+          "date": 1569283200,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": [
+            "Frontier Ventures",
+            "Omar Darwazah"
+          ]
+        },
+        {
+          "name": "SIMBA Chain",
+          "amount": 1.5,
+          "round": "Seed",
+          "date": 1578960000,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": [
+            "Notre Dame Pit Road Fund",
+            "Elevate Ventures",
+            "First Source Capital"
+          ]
+        },
+        {
+          "name": "QTUM",
+          "amount": 1,
+          "round": "ICO",
+          "date": 1484092800,
+          "valuation": null,
+          "lead_investors": [
+            "Anthony Di Iorio",
+            "Star Xu",
+            "Xiaolai Li",
+            "Bo Shen"
+          ],
+          "other_investors": []
+        },
+        {
+          "name": "Rootstock",
+          "amount": 1,
+          "round": "ICO",
+          "date": 1458518400,
+          "valuation": null,
+          "lead_investors": [
+            "Bitmain"
+          ],
+          "other_investors": [
+            "Coinsilium",
+            "DCG"
+          ]
+        }
+      ]
+    },
+    "Travel": {
+      "count": 3,
+      "total_raised": 17.8,
+      "avg_raise": 5.933333333333334,
+      "median_raise": 1.5,
+      "avg_valuation": null,
+      "top_rounds": [
+        {
+          "name": "Blockskye",
+          "amount": 15.8,
+          "round": "Series C",
+          "date": 1752710400,
+          "valuation": null,
+          "lead_investors": [
+            "Blockchange Ventures"
+          ],
+          "other_investors": [
+            "United Airlines Ventures",
+            "Lightspeed Faction",
+            "KSV Global",
+            "Litquidity Ventures",
+            "Longbrook Ventures"
+          ]
+        },
+        {
+          "name": "Winding Tree",
+          "amount": 1.5,
+          "round": null,
+          "date": 1506816000,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": [
+            "Haitao Capital"
+          ]
+        },
+        {
+          "name": "Triip",
+          "amount": 0.5,
+          "round": "Seed",
+          "date": 1455753600,
+          "valuation": null,
+          "lead_investors": [
+            "Gobi Partners"
+          ],
+          "other_investors": []
+        }
+      ]
+    },
+    "News": {
+      "count": 7,
+      "total_raised": 79.64,
+      "avg_raise": 11.377142857142857,
+      "median_raise": 4.34,
+      "avg_valuation": 135.0,
+      "top_rounds": [
+        {
+          "name": "Mars Finance",
+          "amount": 51,
+          "round": "Series A",
+          "date": 1528761600,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": [
+            "Ceyuan Ventures",
+            "Huobi Eco"
+          ]
+        },
+        {
+          "name": "Blockworks",
+          "amount": 12,
+          "round": "Strategic ",
+          "date": 1683590400,
+          "valuation": 135.0,
+          "lead_investors": [
+            "10T Holdings"
+          ],
+          "other_investors": [
+            "Framework Ventures",
+            "Santiago Roel Santos"
+          ]
+        },
+        {
+          "name": "Token Daily",
+          "amount": 9.2,
+          "round": "Series A",
+          "date": 1525132800,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": [
+            "8 Decimal Capital",
+            "Argonautic Ventures",
+            "Coinbase Ventures",
+            "DCG",
+            "INBlockchain",
+            "Polychain",
+            "CMT Digital"
+          ]
+        },
+        {
+          "name": "Block360.Pro",
+          "amount": 4.34,
+          "round": "Series B",
+          "date": 1532304000,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": [
+            "BeeLabs",
+            "Branch Bank Capital",
+            "D&S Capital",
+            "Liu Zhe",
+            "Lu Ju"
+          ]
+        },
+        {
+          "name": "The Block",
+          "amount": 2,
+          "round": "Seed",
+          "date": 1530316800,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": [
+            "ACME Capital",
+            "Anil D. Aggarwal",
+            "Blockchange Ventures",
+            "Bloomberg Beta",
+            "Bollinger Investment Group",
+            "Boost VC",
+            "Floodgate",
+            "GGV Capital",
+            "Greycroft",
+            "Rubicon Venture Capital",
+            "Social Starts",
+            "Stoic Capital",
+            "The Fund"
+          ]
+        }
+      ]
+    },
+    "L3": {
+      "count": 1,
+      "total_raised": 12,
+      "avg_raise": 12.0,
+      "median_raise": 12,
+      "avg_valuation": null,
+      "top_rounds": [
+        {
+          "name": "Shiba Inu",
+          "amount": 12,
+          "round": "Pre-Seed & Seed",
+          "date": 1713744000,
+          "valuation": null,
+          "lead_investors": [],
+          "other_investors": [
+            "Polygon Ventures",
+            "Mechanism Capital",
+            "Big Brain Holdings",
+            "Shima Capital",
+            "Animoca Brands",
+            "Morningstar Ventures",
+            "Woodstock Fund",
+            "DWF Ventures",
+            "Comma3 Ventures",
+            "Foresight Ventures",
+            "Stake Capital Group",
+            "STIX",
+            "P2 Ventures",
+            "Cypher Capital",
+            "Illuminati Digital Capital",
+            "Kenetic",
+            "Primal Capital",
+            "Spirit DAO"
+          ]
+        }
+      ]
+    },
+    "Bitcoin infrastructure": {
+      "count": 1,
+      "total_raised": 5,
+      "avg_raise": 5.0,
+      "median_raise": 5,
+      "avg_valuation": null,
+      "top_rounds": [
+        {
+          "name": "JAN3",
+          "amount": 5,
+          "round": "Seed",
+          "date": 1735862400,
+          "valuation": null,
+          "lead_investors": [
+            "Fulgur Ventures"
+          ],
+          "other_investors": [
+            "Grupo Salinas",
+            "Tether",
+            "Lightning Ventures",
+            "East Ventures",
+            "Plan B Fund",
+            "Bitcoin Opportunity Fund",
+            "NYDIG"
+          ]
+        }
+      ]
+    },
+    "Entertainment": {
+      "count": 1,
+      "total_raised": 2,
+      "avg_raise": 2.0,
+      "median_raise": 2,
+      "avg_valuation": null,
+      "top_rounds": [
+        {
+          "name": "Rhuna",
+          "amount": 2,
+          "round": "Seed",
+          "date": 1759968000,
+          "valuation": null,
+          "lead_investors": [
+            "Aptos Labs"
+          ],
+          "other_investors": [
+            "AccVentures",
+            "X Ventures",
+            "New Tribe Capital",
+            "KeyRock",
+            "FunFair Ventures",
+            "Coinmarketcap Labs",
+            "Lemanique"
+          ]
+        }
+      ]
+    }
+  }
+}

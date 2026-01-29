@@ -1,0 +1,141 @@
+{
+  "description": "Average FDV by sector at token launch",
+  "last_updated": "2025-01-22",
+  "sectors": {
+    "l1_blockchain": {
+      "name": "Layer 1 Blockchain",
+      "avg_fdv_usd": 15000000000,
+      "median_fdv_usd": 10000000000,
+      "min_fdv_usd": 2000000000,
+      "max_fdv_usd": 50000000000,
+      "examples": ["Solana", "Avalanche", "Aptos", "Sui"],
+      "key_factors": ["tech_innovation", "ecosystem_size", "team_pedigree"]
+    },
+    "l2_optimistic": {
+      "name": "L2 Optimistic Rollup",
+      "avg_fdv_usd": 8000000000,
+      "median_fdv_usd": 6000000000,
+      "min_fdv_usd": 1000000000,
+      "max_fdv_usd": 20000000000,
+      "examples": ["Optimism", "Arbitrum", "Base", "Mode"],
+      "key_factors": ["tvl", "transaction_count", "op_stack"]
+    },
+    "l2_zk": {
+      "name": "L2 ZK Rollup",
+      "avg_fdv_usd": 12000000000,
+      "median_fdv_usd": 10000000000,
+      "min_fdv_usd": 3000000000,
+      "max_fdv_usd": 25000000000,
+      "examples": ["Starknet", "zkSync", "Scroll", "Linea"],
+      "key_factors": ["zk_tech", "ecosystem_development", "team"]
+    },
+    "defi_dex": {
+      "name": "DEX / DeFi Protocol",
+      "avg_fdv_usd": 3000000000,
+      "median_fdv_usd": 2000000000,
+      "min_fdv_usd": 500000000,
+      "max_fdv_usd": 10000000000,
+      "examples": ["Uniswap", "Jupiter", "dYdX", "GMX"],
+      "key_factors": ["volume", "tvl", "revenue"]
+    },
+    "defi_lending": {
+      "name": "Lending Protocol",
+      "avg_fdv_usd": 2500000000,
+      "median_fdv_usd": 1500000000,
+      "min_fdv_usd": 300000000,
+      "max_fdv_usd": 8000000000,
+      "examples": ["Aave", "Compound", "Morpho"],
+      "key_factors": ["tvl", "loan_volume", "safety_record"]
+    },
+    "defi_stablecoin": {
+      "name": "Stablecoin / CDP",
+      "avg_fdv_usd": 4000000000,
+      "median_fdv_usd": 3000000000,
+      "min_fdv_usd": 500000000,
+      "max_fdv_usd": 15000000000,
+      "examples": ["MakerDAO", "Ethena", "Frax"],
+      "key_factors": ["stablecoin_supply", "peg_stability", "yield"]
+    },
+    "restaking": {
+      "name": "Restaking / LST",
+      "avg_fdv_usd": 5000000000,
+      "median_fdv_usd": 4000000000,
+      "min_fdv_usd": 1000000000,
+      "max_fdv_usd": 15000000000,
+      "examples": ["Eigenlayer", "Lido", "Rocket Pool", "Renzo"],
+      "key_factors": ["tvl", "restaking_rewards", "avs_ecosystem"]
+    },
+    "bridge": {
+      "name": "Cross-chain Bridge",
+      "avg_fdv_usd": 5000000000,
+      "median_fdv_usd": 3000000000,
+      "min_fdv_usd": 500000000,
+      "max_fdv_usd": 15000000000,
+      "examples": ["Wormhole", "LayerZero", "Axelar"],
+      "key_factors": ["volume", "chains_supported", "security"]
+    },
+    "oracle": {
+      "name": "Oracle Network",
+      "avg_fdv_usd": 3500000000,
+      "median_fdv_usd": 2500000000,
+      "min_fdv_usd": 500000000,
+      "max_fdv_usd": 10000000000,
+      "examples": ["Chainlink", "Pyth", "API3"],
+      "key_factors": ["integrations", "data_feeds", "uptime"]
+    },
+    "modular_da": {
+      "name": "Modular / Data Availability",
+      "avg_fdv_usd": 6000000000,
+      "median_fdv_usd": 5000000000,
+      "min_fdv_usd": 2000000000,
+      "max_fdv_usd": 15000000000,
+      "examples": ["Celestia", "Avail", "EigenDA"],
+      "key_factors": ["tech_innovation", "rollup_adoption", "throughput"]
+    },
+    "gaming": {
+      "name": "Gaming / GameFi",
+      "avg_fdv_usd": 1500000000,
+      "median_fdv_usd": 800000000,
+      "min_fdv_usd": 100000000,
+      "max_fdv_usd": 5000000000,
+      "examples": ["Immutable", "Ronin", "Beam"],
+      "key_factors": ["dau", "game_quality", "ip"]
+    },
+    "socialfi": {
+      "name": "SocialFi",
+      "avg_fdv_usd": 500000000,
+      "median_fdv_usd": 200000000,
+      "min_fdv_usd": 10000000,
+      "max_fdv_usd": 2000000000,
+      "examples": ["friend.tech", "Lens", "Farcaster"],
+      "key_factors": ["users", "engagement", "virality"]
+    },
+    "wallet_infra": {
+      "name": "Wallet / Infrastructure",
+      "avg_fdv_usd": 2000000000,
+      "median_fdv_usd": 1000000000,
+      "min_fdv_usd": 300000000,
+      "max_fdv_usd": 5000000000,
+      "examples": ["Safe", "Fireblocks", "Ledger"],
+      "key_factors": ["aum", "security", "enterprise_adoption"]
+    },
+    "ai_crypto": {
+      "name": "AI + Crypto",
+      "avg_fdv_usd": 3000000000,
+      "median_fdv_usd": 2000000000,
+      "min_fdv_usd": 500000000,
+      "max_fdv_usd": 10000000000,
+      "examples": ["Bittensor", "Render", "Akash"],
+      "key_factors": ["ai_narrative", "compute_usage", "model_quality"]
+    },
+    "rwa": {
+      "name": "Real World Assets",
+      "avg_fdv_usd": 1500000000,
+      "median_fdv_usd": 1000000000,
+      "min_fdv_usd": 200000000,
+      "max_fdv_usd": 5000000000,
+      "examples": ["Ondo", "Centrifuge", "Maple"],
+      "key_factors": ["aum", "institutional_adoption", "yield"]
+    }
+  }
+}

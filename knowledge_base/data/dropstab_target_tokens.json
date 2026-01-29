@@ -1,0 +1,160 @@
+{
+  "collected_at": "2026-01-24T15:31:27.165052",
+  "count": 22,
+  "tokens": [
+    {
+      "query": "zksync",
+      "coin_id": 77211,
+      "details": null,
+      "unlocks": null,
+      "funding": null
+    },
+    {
+      "query": "scroll",
+      "coin_id": 51711,
+      "details": null,
+      "unlocks": null,
+      "funding": null
+    },
+    {
+      "query": "linea",
+      "coin_id": 53568,
+      "details": null,
+      "unlocks": null,
+      "funding": null
+    },
+    {
+      "query": "taiko",
+      "coin_id": 50667,
+      "details": null,
+      "unlocks": null,
+      "funding": null
+    },
+    {
+      "query": "berachain",
+      "coin_id": 78528,
+      "details": null,
+      "unlocks": null,
+      "funding": null
+    },
+    {
+      "query": "monad",
+      "coin_id": 66786,
+      "details": null,
+      "unlocks": null,
+      "funding": null
+    },
+    {
+      "query": "hyperliquid",
+      "coin_id": 91989,
+      "details": null,
+      "unlocks": null,
+      "funding": null
+    },
+    {
+      "query": "pendle",
+      "coin_id": 26342,
+      "details": null,
+      "unlocks": null,
+      "funding": null
+    },
+    {
+      "query": "layerzero",
+      "coin_id": 72182,
+      "details": null,
+      "unlocks": null,
+      "funding": null
+    },
+    {
+      "query": "starknet",
+      "coin_id": 60738,
+      "details": null,
+      "unlocks": null,
+      "funding": null
+    },
+    {
+      "query": "arbitrum",
+      "coin_id": 48401,
+      "details": null,
+      "unlocks": null,
+      "funding": null
+    },
+    {
+      "query": "optimism",
+      "coin_id": 41309,
+      "details": null,
+      "unlocks": null,
+      "funding": null
+    },
+    {
+      "query": "celestia",
+      "coin_id": 52945,
+      "details": null,
+      "unlocks": null,
+      "funding": null
+    },
+    {
+      "query": "sui",
+      "coin_id": 49629,
+      "details": null,
+      "unlocks": null,
+      "funding": null
+    },
+    {
+      "query": "aptos",
+      "coin_id": 44770,
+      "details": null,
+      "unlocks": null,
+      "funding": null
+    },
+    {
+      "query": "sei",
+      "coin_id": 51905,
+      "details": null,
+      "unlocks": null,
+      "funding": null
+    },
+    {
+      "query": "injective",
+      "coin_id": 22597,
+      "details": null,
+      "unlocks": null,
+      "funding": null
+    },
+    {
+      "query": "jito",
+      "coin_id": 55683,
+      "details": null,
+      "unlocks": null,
+      "funding": null
+    },
+    {
+      "query": "jupiter",
+      "coin_id": 59305,
+      "details": null,
+      "unlocks": null,
+      "funding": null
+    },
+    {
+      "query": "pyth",
+      "coin_id": 54537,
+      "details": null,
+      "unlocks": null,
+      "funding": null
+    },
+    {
+      "query": "wormhole",
+      "coin_id": 55230,
+      "details": null,
+      "unlocks": null,
+      "funding": null
+    },
+    {
+      "query": "blur",
+      "coin_id": 47418,
+      "details": null,
+      "unlocks": null,
+      "funding": null
+    }
+  ]
+}

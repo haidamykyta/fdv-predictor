@@ -1,0 +1,615 @@
+{
+  "discovered_at": "2026-01-20T03:42:23.935015",
+  "total_events": 4,
+  "resolved_events": 4,
+  "events": [
+    {
+      "slug": "safe-market-cap-fdv-one-week-after-launch",
+      "title": "$SAFE Market Cap (FDV) one week after launch? ",
+      "token_name": "SAFE",
+      "token_symbol": "SAFE",
+      "condition_id": "0xc3a05fb5d7192d9879e1e6cc06e4a655601b6c4d697d6863b8a1a634c0f8d5ae",
+      "buckets": [
+        {
+          "index": 0,
+          "label": "Will the $SAFE market cap be less than $1b one week after launch? ",
+          "low": 0,
+          "high": 1000000000.0,
+          "token_id": "19942316528515694737566925048277995050954614197135528990061777600464985906881"
+        },
+        {
+          "index": 1,
+          "label": "Will the $SAFE market cap be between $1-2b one week after launch?",
+          "low": 1000000000.0,
+          "high": 2000000000.0,
+          "token_id": "46695213674992176729974461207373038046540364130151650430039099447172712021592"
+        },
+        {
+          "index": 2,
+          "label": "Will the $SAFE market cap be between $2-3b one week after launch?",
+          "low": 2000000000.0,
+          "high": 3000000000.0,
+          "token_id": "13815733633953376657949534489205821586235273283174045133536310470314135481780"
+        },
+        {
+          "index": 3,
+          "label": "Will the $SAFE market cap be between $3-4b one week after launch?",
+          "low": 3000000000.0,
+          "high": 4000000000.0,
+          "token_id": "108171307143992169532799681251785314876600658579631276571649410462007641025736"
+        },
+        {
+          "index": 4,
+          "label": "Will the $SAFE market cap be between $4-5b one week after launch?",
+          "low": 4000000000.0,
+          "high": 5000000000.0,
+          "token_id": "52831868741135000946604231283862750656948050811703145372609672884760428455763"
+        },
+        {
+          "index": 5,
+          "label": "Will the $SAFE market cap be greater than $5b one week after launch?",
+          "low": 4500000000.0,
+          "high": 5500000000.0,
+          "token_id": "35493044725092328418932453282664157362352798546605600677639050400229956976384"
+        }
+      ],
+      "start_date": "2024-03-26T19:09:26.03388Z",
+      "end_date": "2024-12-31T12:00:00Z",
+      "listing_date": null,
+      "is_resolved": true,
+      "resolved_bucket_idx": null,
+      "resolved_bucket_label": null,
+      "actual_fdv": null,
+      "total_volume": 116716.814444,
+      "token_map": {
+        "19942316528515694737566925048277995050954614197135528990061777600464985906881": {
+          "bucket_idx": 0,
+          "bucket_label": "Will the $SAFE market cap be less than $1b one week after launch? ",
+          "low": 0,
+          "high": 1000000000.0
+        },
+        "46695213674992176729974461207373038046540364130151650430039099447172712021592": {
+          "bucket_idx": 1,
+          "bucket_label": "Will the $SAFE market cap be between $1-2b one week after launch?",
+          "low": 1000000000.0,
+          "high": 2000000000.0
+        },
+        "13815733633953376657949534489205821586235273283174045133536310470314135481780": {
+          "bucket_idx": 2,
+          "bucket_label": "Will the $SAFE market cap be between $2-3b one week after launch?",
+          "low": 2000000000.0,
+          "high": 3000000000.0
+        },
+        "108171307143992169532799681251785314876600658579631276571649410462007641025736": {
+          "bucket_idx": 3,
+          "bucket_label": "Will the $SAFE market cap be between $3-4b one week after launch?",
+          "low": 3000000000.0,
+          "high": 4000000000.0
+        },
+        "52831868741135000946604231283862750656948050811703145372609672884760428455763": {
+          "bucket_idx": 4,
+          "bucket_label": "Will the $SAFE market cap be between $4-5b one week after launch?",
+          "low": 4000000000.0,
+          "high": 5000000000.0
+        },
+        "35493044725092328418932453282664157362352798546605600677639050400229956976384": {
+          "bucket_idx": 5,
+          "bucket_label": "Will the $SAFE market cap be greater than $5b one week after launch?",
+          "low": 4500000000.0,
+          "high": 5500000000.0
+        },
+        "40372515928388276470199859546684283274102588207873047910317339350168776657128": {
+          "bucket_idx": 0,
+          "bucket_label": "Will the $SAFE market cap be less than $1b one week after launch? ",
+          "low": 0,
+          "high": 1000000000.0
+        },
+        "94402699046673325769657109245999048090764468465192257332589270755285948031045": {
+          "bucket_idx": 1,
+          "bucket_label": "Will the $SAFE market cap be between $1-2b one week after launch?",
+          "low": 1000000000.0,
+          "high": 2000000000.0
+        },
+        "46713817690366138165900993665389517742590496517534347468582828211484229796329": {
+          "bucket_idx": 2,
+          "bucket_label": "Will the $SAFE market cap be between $2-3b one week after launch?",
+          "low": 2000000000.0,
+          "high": 3000000000.0
+        },
+        "77972790576531018994280482955603473734649253593469035684663871570789555996863": {
+          "bucket_idx": 3,
+          "bucket_label": "Will the $SAFE market cap be between $3-4b one week after launch?",
+          "low": 3000000000.0,
+          "high": 4000000000.0
+        },
+        "69504098962064934882845233637002476820853901690664392475966385632522553469713": {
+          "bucket_idx": 4,
+          "bucket_label": "Will the $SAFE market cap be between $4-5b one week after launch?",
+          "low": 4000000000.0,
+          "high": 5000000000.0
+        },
+        "54381311324580609832219563918281397699609886562574697284288619718509045870715": {
+          "bucket_idx": 5,
+          "bucket_label": "Will the $SAFE market cap be greater than $5b one week after launch?",
+          "low": 4500000000.0,
+          "high": 5500000000.0
+        }
+      }
+    },
+    {
+      "slug": "ethena-market-cap-fdv-one-day-after-airdrop",
+      "title": "Ethena market cap (FDV) one day after launch?",
+      "token_name": "ethena",
+      "token_symbol": "ETHENA",
+      "condition_id": "0xe7258a4b3fbcf5dad4cf8d7991a3fe0c9cd9a9333992152596752ac199f5db18",
+      "buckets": [
+        {
+          "index": 0,
+          "label": "Ethena token FDV less than 5 billion one day after launch?",
+          "low": 0,
+          "high": 5000000000.0,
+          "token_id": "76209137129490297924472111459665330242316726885943999839606189033921660432167"
+        },
+        {
+          "index": 1,
+          "label": "Ethena token FDV between 5b and 7.5b one day after launch?",
+          "low": 4500000000.0,
+          "high": 5500000000.0,
+          "token_id": "84242114860748172921540116170813655412846844435066025474374895248396985562406"
+        },
+        {
+          "index": 2,
+          "label": "Ethena token FDV between 7.5b and 10b one day after launch?",
+          "low": 6750000000.0,
+          "high": 8250000000.000001,
+          "token_id": "61055374242177212294876257476492490977581583016276210165853965508172848611782"
+        },
+        {
+          "index": 3,
+          "label": "Ethena token FDV between 10b and 12.5b one day after launch?",
+          "low": 9000000000.0,
+          "high": 11000000000.0,
+          "token_id": "32883407248467826729968498593231430568762314382285708250352575967920800953702"
+        },
+        {
+          "index": 4,
+          "label": "Ethena token FDV between 12.5b and 15b one day after launch?",
+          "low": 11250000000.0,
+          "high": 13750000000.000002,
+          "token_id": "41956173688504548121777367731902026617432927178284450462917927982139263267582"
+        },
+        {
+          "index": 5,
+          "label": "Ethena token (FDV) more than 15 billion a day after launch?",
+          "low": 15000000000.0,
+          "high": null,
+          "token_id": "105671562681304975737694406114844118741183063728574891261803548962045235154288"
+        }
+      ],
+      "start_date": "2024-03-27T23:24:24.715533Z",
+      "end_date": "2024-12-31T12:00:00Z",
+      "listing_date": null,
+      "is_resolved": true,
+      "resolved_bucket_idx": null,
+      "resolved_bucket_label": null,
+      "actual_fdv": null,
+      "total_volume": 97997.555646,
+      "token_map": {
+        "76209137129490297924472111459665330242316726885943999839606189033921660432167": {
+          "bucket_idx": 0,
+          "bucket_label": "Ethena token FDV less than 5 billion one day after launch?",
+          "low": 0,
+          "high": 5000000000.0
+        },
+        "84242114860748172921540116170813655412846844435066025474374895248396985562406": {
+          "bucket_idx": 1,
+          "bucket_label": "Ethena token FDV between 5b and 7.5b one day after launch?",
+          "low": 4500000000.0,
+          "high": 5500000000.0
+        },
+        "61055374242177212294876257476492490977581583016276210165853965508172848611782": {
+          "bucket_idx": 2,
+          "bucket_label": "Ethena token FDV between 7.5b and 10b one day after launch?",
+          "low": 6750000000.0,
+          "high": 8250000000.000001
+        },
+        "32883407248467826729968498593231430568762314382285708250352575967920800953702": {
+          "bucket_idx": 3,
+          "bucket_label": "Ethena token FDV between 10b and 12.5b one day after launch?",
+          "low": 9000000000.0,
+          "high": 11000000000.0
+        },
+        "41956173688504548121777367731902026617432927178284450462917927982139263267582": {
+          "bucket_idx": 4,
+          "bucket_label": "Ethena token FDV between 12.5b and 15b one day after launch?",
+          "low": 11250000000.0,
+          "high": 13750000000.000002
+        },
+        "105671562681304975737694406114844118741183063728574891261803548962045235154288": {
+          "bucket_idx": 5,
+          "bucket_label": "Ethena token (FDV) more than 15 billion a day after launch?",
+          "low": 15000000000.0,
+          "high": null
+        },
+        "73687582918602074857375878361696275056741695471948309661780762258431450608715": {
+          "bucket_idx": 0,
+          "bucket_label": "Ethena token FDV less than 5 billion one day after launch?",
+          "low": 0,
+          "high": 5000000000.0
+        },
+        "9485109725212059767737363840446993286536175187547899808275553386544781033490": {
+          "bucket_idx": 1,
+          "bucket_label": "Ethena token FDV between 5b and 7.5b one day after launch?",
+          "low": 4500000000.0,
+          "high": 5500000000.0
+        },
+        "70745025768568363814271956375717563040721973841942966942124702702699655540185": {
+          "bucket_idx": 2,
+          "bucket_label": "Ethena token FDV between 7.5b and 10b one day after launch?",
+          "low": 6750000000.0,
+          "high": 8250000000.000001
+        },
+        "114746739315491886441631648006378068860644125282056420602797622931031770111464": {
+          "bucket_idx": 3,
+          "bucket_label": "Ethena token FDV between 10b and 12.5b one day after launch?",
+          "low": 9000000000.0,
+          "high": 11000000000.0
+        },
+        "98041521854491626478592787921291652633625176225828993883114454753776516405534": {
+          "bucket_idx": 4,
+          "bucket_label": "Ethena token FDV between 12.5b and 15b one day after launch?",
+          "low": 11250000000.0,
+          "high": 13750000000.000002
+        },
+        "76311910622603499682169162998882057697953284059040653909208870827506931171277": {
+          "bucket_idx": 5,
+          "bucket_label": "Ethena token (FDV) more than 15 billion a day after launch?",
+          "low": 15000000000.0,
+          "high": null
+        }
+      }
+    },
+    {
+      "slug": "eigenlayer-market-cap-fdv-one-day-after-launch",
+      "title": "Eigenlayer market cap (FDV) one day after launch?",
+      "token_name": "eigenlayer",
+      "token_symbol": null,
+      "condition_id": "0x7ade8b93914ae38b2fc95cba3e6796667b838add5f06ee2dc97b812fbd464c32",
+      "buckets": [
+        {
+          "index": 0,
+          "label": "Eigenlayer market cap (FDV) <$10b one day after launch?",
+          "low": 0,
+          "high": 10000000000.0,
+          "token_id": "51951132517634566572697955276912844023773818911920893197783917005487661706544"
+        },
+        {
+          "index": 1,
+          "label": "Eigenlayer market cap (FDV) between $10-15b one day after launch?",
+          "low": 10000000000.0,
+          "high": 15000000000.0,
+          "token_id": "61995018356827900409441796960785265694783990579496192933072227921910553309481"
+        },
+        {
+          "index": 2,
+          "label": "Eigenlayer market cap (FDV) between $15-20b one day after launch?",
+          "low": 15000000000.0,
+          "high": 20000000000.0,
+          "token_id": "4896950412682145191278138065227573957825947953864767113666429937232066492289"
+        },
+        {
+          "index": 3,
+          "label": "Eigenlayer market cap (FDV) between $20-25b one day after launch?",
+          "low": 20000000000.0,
+          "high": 25000000000.0,
+          "token_id": "31147551762477902913779482227446518393018785103738923956714906671957960985984"
+        },
+        {
+          "index": 4,
+          "label": "Eigenlayer market cap (FDV) between $25-30b one day after launch?",
+          "low": 25000000000.0,
+          "high": 30000000000.0,
+          "token_id": "47921757205948072352944314300921208143346210825611139285614230805265123405616"
+        },
+        {
+          "index": 5,
+          "label": "Eigenlayer market cap (FDV) between $30-35b one day after launch?",
+          "low": 30000000000.0,
+          "high": 35000000000.0,
+          "token_id": "62414611389203281037939390331241346086494176461322176176087907297833747746338"
+        },
+        {
+          "index": 6,
+          "label": "Eigenlayer market cap (FDV) between $35-40b one day after launch?",
+          "low": 35000000000.0,
+          "high": 40000000000.0,
+          "token_id": "110937318911713081126564898089385484919292097494184612734714066496052660848349"
+        },
+        {
+          "index": 7,
+          "label": "Eigenlayer market cap (FDV) greater than $40b one day after launch?",
+          "low": 36000000000.0,
+          "high": 44000000000.0,
+          "token_id": "29397661712276147138870965343000602627865010773344128409401217893270320568334"
+        },
+        {
+          "index": 8,
+          "label": "No Eigenlayer token launch in 2024?",
+          "low": null,
+          "high": null,
+          "token_id": "87884381614733064952130788738552105333800152962689243603126911099846949467496"
+        }
+      ],
+      "start_date": "2024-04-04T22:49:36.40288Z",
+      "end_date": "2024-12-31T12:00:00Z",
+      "listing_date": null,
+      "is_resolved": true,
+      "resolved_bucket_idx": null,
+      "resolved_bucket_label": null,
+      "actual_fdv": null,
+      "total_volume": 6594448.03891,
+      "token_map": {
+        "51951132517634566572697955276912844023773818911920893197783917005487661706544": {
+          "bucket_idx": 0,
+          "bucket_label": "Eigenlayer market cap (FDV) <$10b one day after launch?",
+          "low": 0,
+          "high": 10000000000.0
+        },
+        "61995018356827900409441796960785265694783990579496192933072227921910553309481": {
+          "bucket_idx": 1,
+          "bucket_label": "Eigenlayer market cap (FDV) between $10-15b one day after launch?",
+          "low": 10000000000.0,
+          "high": 15000000000.0
+        },
+        "4896950412682145191278138065227573957825947953864767113666429937232066492289": {
+          "bucket_idx": 2,
+          "bucket_label": "Eigenlayer market cap (FDV) between $15-20b one day after launch?",
+          "low": 15000000000.0,
+          "high": 20000000000.0
+        },
+        "31147551762477902913779482227446518393018785103738923956714906671957960985984": {
+          "bucket_idx": 3,
+          "bucket_label": "Eigenlayer market cap (FDV) between $20-25b one day after launch?",
+          "low": 20000000000.0,
+          "high": 25000000000.0
+        },
+        "47921757205948072352944314300921208143346210825611139285614230805265123405616": {
+          "bucket_idx": 4,
+          "bucket_label": "Eigenlayer market cap (FDV) between $25-30b one day after launch?",
+          "low": 25000000000.0,
+          "high": 30000000000.0
+        },
+        "62414611389203281037939390331241346086494176461322176176087907297833747746338": {
+          "bucket_idx": 5,
+          "bucket_label": "Eigenlayer market cap (FDV) between $30-35b one day after launch?",
+          "low": 30000000000.0,
+          "high": 35000000000.0
+        },
+        "110937318911713081126564898089385484919292097494184612734714066496052660848349": {
+          "bucket_idx": 6,
+          "bucket_label": "Eigenlayer market cap (FDV) between $35-40b one day after launch?",
+          "low": 35000000000.0,
+          "high": 40000000000.0
+        },
+        "29397661712276147138870965343000602627865010773344128409401217893270320568334": {
+          "bucket_idx": 7,
+          "bucket_label": "Eigenlayer market cap (FDV) greater than $40b one day after launch?",
+          "low": 36000000000.0,
+          "high": 44000000000.0
+        },
+        "87884381614733064952130788738552105333800152962689243603126911099846949467496": {
+          "bucket_idx": 8,
+          "bucket_label": "No Eigenlayer token launch in 2024?",
+          "low": null,
+          "high": null
+        },
+        "91634651764469606429019031690315550845775859992000228087516344150608336784667": {
+          "bucket_idx": 0,
+          "bucket_label": "Eigenlayer market cap (FDV) <$10b one day after launch?",
+          "low": 0,
+          "high": 10000000000.0
+        },
+        "90748326139879140059864672300939785068748045591639883625969456631001746373483": {
+          "bucket_idx": 1,
+          "bucket_label": "Eigenlayer market cap (FDV) between $10-15b one day after launch?",
+          "low": 10000000000.0,
+          "high": 15000000000.0
+        },
+        "109874231248335420996424320073806389846040004948917988483659549481291373621286": {
+          "bucket_idx": 2,
+          "bucket_label": "Eigenlayer market cap (FDV) between $15-20b one day after launch?",
+          "low": 15000000000.0,
+          "high": 20000000000.0
+        },
+        "15054192739723873750843141617392102165653152511968920352435695929303959058965": {
+          "bucket_idx": 3,
+          "bucket_label": "Eigenlayer market cap (FDV) between $20-25b one day after launch?",
+          "low": 20000000000.0,
+          "high": 25000000000.0
+        },
+        "90146872156515914218074659616587631898290226053670837027447413854950096957597": {
+          "bucket_idx": 4,
+          "bucket_label": "Eigenlayer market cap (FDV) between $25-30b one day after launch?",
+          "low": 25000000000.0,
+          "high": 30000000000.0
+        },
+        "62448751548384611751830399897983556623523768416742060885212958623647751483139": {
+          "bucket_idx": 5,
+          "bucket_label": "Eigenlayer market cap (FDV) between $30-35b one day after launch?",
+          "low": 30000000000.0,
+          "high": 35000000000.0
+        },
+        "109781149667321335089454601051469407812363458433348786829309402099881271844549": {
+          "bucket_idx": 6,
+          "bucket_label": "Eigenlayer market cap (FDV) between $35-40b one day after launch?",
+          "low": 35000000000.0,
+          "high": 40000000000.0
+        },
+        "96531872045215872849598504371513983604111814202399690761259241940170805975014": {
+          "bucket_idx": 7,
+          "bucket_label": "Eigenlayer market cap (FDV) greater than $40b one day after launch?",
+          "low": 36000000000.0,
+          "high": 44000000000.0
+        },
+        "61568947257387181724175925868898429292215367860018525596708221849169601154953": {
+          "bucket_idx": 8,
+          "bucket_label": "No Eigenlayer token launch in 2024?",
+          "low": null,
+          "high": null
+        }
+      }
+    },
+    {
+      "slug": "friendtech-fdv-one-day-after-launch",
+      "title": "friend.tech FDV one day after launch? ",
+      "token_name": "tech",
+      "token_symbol": "TECH",
+      "condition_id": "0xba9680acdb32577f18c1c211ef13abad98a3b0765d671da4e04459c31a3de1d0",
+      "buckets": [
+        {
+          "index": 0,
+          "label": "FriendTech market cap less than $1b one day after launch?",
+          "low": 0,
+          "high": 1000000000.0,
+          "token_id": "17581232382942928190199305204511239026983504102045361056642167492445126593342"
+        },
+        {
+          "index": 1,
+          "label": "FriendTech market cap $1-2b one day after launch?",
+          "low": 1000000000.0,
+          "high": 2000000000.0,
+          "token_id": "70046686233429710821684045866520015813311341082829051895457172419211989377014"
+        },
+        {
+          "index": 2,
+          "label": "FriendTech market cap $2-3b one day after launch?",
+          "low": 2000000000.0,
+          "high": 3000000000.0,
+          "token_id": "29156896009426640058604428110804543353985671962023745611876591820829111959177"
+        },
+        {
+          "index": 3,
+          "label": "FriendTech market cap $3-4b one day after launch?",
+          "low": 3000000000.0,
+          "high": 4000000000.0,
+          "token_id": "66701769568861223914206384967482438163401238057209787062059540692000257359805"
+        },
+        {
+          "index": 4,
+          "label": "FriendTech market cap $4-5b one day after launch?",
+          "low": 4000000000.0,
+          "high": 5000000000.0,
+          "token_id": "701656069808604461314171608762178083145544205610881340432402188815009323446"
+        },
+        {
+          "index": 5,
+          "label": "FriendTech market cap more than $10b one day after launch?",
+          "low": 10000000000.0,
+          "high": null,
+          "token_id": "18426288797699712375748624335999616204011710835874123943668067344211405662587"
+        },
+        {
+          "index": 6,
+          "label": "FriendTech market cap $5-10b one day after launch?",
+          "low": 5000000000.0,
+          "high": 10000000000.0,
+          "token_id": "19647810706250060012542882772265349704815530804269352194012252080943418691935"
+        }
+      ],
+      "start_date": "2024-04-10T20:19:57.973971Z",
+      "end_date": "2024-05-03T12:00:00Z",
+      "listing_date": null,
+      "is_resolved": true,
+      "resolved_bucket_idx": null,
+      "resolved_bucket_label": null,
+      "actual_fdv": null,
+      "total_volume": 156938.208329,
+      "token_map": {
+        "17581232382942928190199305204511239026983504102045361056642167492445126593342": {
+          "bucket_idx": 0,
+          "bucket_label": "FriendTech market cap less than $1b one day after launch?",
+          "low": 0,
+          "high": 1000000000.0
+        },
+        "70046686233429710821684045866520015813311341082829051895457172419211989377014": {
+          "bucket_idx": 1,
+          "bucket_label": "FriendTech market cap $1-2b one day after launch?",
+          "low": 1000000000.0,
+          "high": 2000000000.0
+        },
+        "29156896009426640058604428110804543353985671962023745611876591820829111959177": {
+          "bucket_idx": 2,
+          "bucket_label": "FriendTech market cap $2-3b one day after launch?",
+          "low": 2000000000.0,
+          "high": 3000000000.0
+        },
+        "66701769568861223914206384967482438163401238057209787062059540692000257359805": {
+          "bucket_idx": 3,
+          "bucket_label": "FriendTech market cap $3-4b one day after launch?",
+          "low": 3000000000.0,
+          "high": 4000000000.0
+        },
+        "701656069808604461314171608762178083145544205610881340432402188815009323446": {
+          "bucket_idx": 4,
+          "bucket_label": "FriendTech market cap $4-5b one day after launch?",
+          "low": 4000000000.0,
+          "high": 5000000000.0
+        },
+        "18426288797699712375748624335999616204011710835874123943668067344211405662587": {
+          "bucket_idx": 5,
+          "bucket_label": "FriendTech market cap more than $10b one day after launch?",
+          "low": 10000000000.0,
+          "high": null
+        },
+        "19647810706250060012542882772265349704815530804269352194012252080943418691935": {
+          "bucket_idx": 6,
+          "bucket_label": "FriendTech market cap $5-10b one day after launch?",
+          "low": 5000000000.0,
+          "high": 10000000000.0
+        },
+        "42695585472888943381442474033130115903972035749151518691718758435669286096364": {
+          "bucket_idx": 0,
+          "bucket_label": "FriendTech market cap less than $1b one day after launch?",
+          "low": 0,
+          "high": 1000000000.0
+        },
+        "16254357900092453758571156088769289011474315978663375742393863384221834612118": {
+          "bucket_idx": 1,
+          "bucket_label": "FriendTech market cap $1-2b one day after launch?",
+          "low": 1000000000.0,
+          "high": 2000000000.0
+        },
+        "90100234744211289175862821133355103184931898543490250335697718158693259263306": {
+          "bucket_idx": 2,
+          "bucket_label": "FriendTech market cap $2-3b one day after launch?",
+          "low": 2000000000.0,
+          "high": 3000000000.0
+        },
+        "31622202107262108265073065633785576863940672111212308410573429475303279284729": {
+          "bucket_idx": 3,
+          "bucket_label": "FriendTech market cap $3-4b one day after launch?",
+          "low": 3000000000.0,
+          "high": 4000000000.0
+        },
+        "77824727561961180676376027892647975134701983855297815708452252696080353790211": {
+          "bucket_idx": 4,
+          "bucket_label": "FriendTech market cap $4-5b one day after launch?",
+          "low": 4000000000.0,
+          "high": 5000000000.0
+        },
+        "36052694878959915547376514298677297685524653352865469928212851829978199474236": {
+          "bucket_idx": 5,
+          "bucket_label": "FriendTech market cap more than $10b one day after launch?",
+          "low": 10000000000.0,
+          "high": null
+        },
+        "71900580097596007600972672896680317064030967163103393892214409824890385279367": {
+          "bucket_idx": 6,
+          "bucket_label": "FriendTech market cap $5-10b one day after launch?",
+          "low": 5000000000.0,
+          "high": 10000000000.0
+        }
+      }
+    }
+  ]
+}

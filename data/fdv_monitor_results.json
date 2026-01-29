@@ -1,0 +1,538 @@
+{
+  "scan_time": "2026-01-24T15:54:16.932050",
+  "markets_found": 8,
+  "opportunities_found": 6,
+  "results": [
+    {
+      "slug": "megaeth-market-cap-fdv-one-day-after-launch",
+      "title": "MegaETH market cap (FDV) one day after launch?",
+      "project": "Megaeth",
+      "prediction": {
+        "project": "Megaeth",
+        "predicted_fdv": 1100000000,
+        "low": 770000000.0,
+        "high": 1650000000.0,
+        "method": "knowledge_base",
+        "data": {
+          "total_raised": 506500000,
+          "last_valuation": 550000000,
+          "category": "L2"
+        }
+      },
+      "opportunities": [
+        {
+          "bucket": ">$6B",
+          "range": "$6.0B - $12.0B",
+          "price": 0.016,
+          "model_prob": 0.05,
+          "ev": 0.034,
+          "overlaps": false,
+          "signal": "WATCH"
+        },
+        {
+          "bucket": ">$4B",
+          "range": "$4.0B - $8.0B",
+          "price": 0.0515,
+          "model_prob": 0.05,
+          "ev": -0.0014999999999999944,
+          "overlaps": false,
+          "signal": "SKIP"
+        },
+        {
+          "bucket": ">$3B",
+          "range": "$3.0B - $6.0B",
+          "price": 0.085,
+          "model_prob": 0.05,
+          "ev": -0.034999999999999996,
+          "overlaps": false,
+          "signal": "SKIP"
+        },
+        {
+          "bucket": ">$2B",
+          "range": "$2.0B - $4.0B",
+          "price": 0.365,
+          "model_prob": 0.05,
+          "ev": -0.315,
+          "overlaps": false,
+          "signal": "SKIP"
+        },
+        {
+          "bucket": ">$1B",
+          "range": "$1.0B - $2.0B",
+          "price": 0.825,
+          "model_prob": 0.39090909090909093,
+          "ev": -0.43409090909090914,
+          "overlaps": true,
+          "signal": "SKIP"
+        }
+      ],
+      "top_bets": []
+    },
+    {
+      "slug": "openai-ipo-closing-market-cap",
+      "title": "OpenAI IPO Closing Market Cap",
+      "project": "Openai",
+      "prediction": {
+        "project": "Openai",
+        "predicted_fdv": 3000000000.0,
+        "low": 1500000000.0,
+        "high": 6000000000.0,
+        "method": "sector_estimate",
+        "data": null
+      },
+      "opportunities": [
+        {
+          "bucket": "<500B",
+          "range": "$0.0B - $500.0B",
+          "price": 0.02,
+          "model_prob": 0.1,
+          "ev": 0.08,
+          "overlaps": true,
+          "signal": "BUY",
+          "project": "Openai",
+          "slug": "openai-ipo-closing-market-cap"
+        },
+        {
+          "bucket": "500\u2013750B",
+          "range": "$500.0B - $750.0B",
+          "price": 0.057,
+          "model_prob": 0.05,
+          "ev": -0.006999999999999999,
+          "overlaps": false,
+          "signal": "SKIP"
+        }
+      ],
+      "top_bets": [
+        {
+          "bucket": "<500B",
+          "range": "$0.0B - $500.0B",
+          "price": 0.02,
+          "model_prob": 0.1,
+          "ev": 0.08,
+          "overlaps": true,
+          "signal": "BUY",
+          "project": "Openai",
+          "slug": "openai-ipo-closing-market-cap"
+        }
+      ]
+    },
+    {
+      "slug": "fannie-mae-ipo-closing-market-cap",
+      "title": "Fannie Mae IPO Closing Market Cap",
+      "project": "Fannie",
+      "prediction": {
+        "project": "Fannie",
+        "predicted_fdv": 1500000000.0,
+        "low": 750000000.0,
+        "high": 3000000000.0,
+        "method": "sector_estimate",
+        "data": null
+      },
+      "opportunities": [
+        {
+          "bucket": "<200B",
+          "range": "$0.0B - $200.0B",
+          "price": 0.008,
+          "model_prob": 0.1,
+          "ev": 0.09200000000000001,
+          "overlaps": true,
+          "signal": "BUY",
+          "project": "Fannie",
+          "slug": "fannie-mae-ipo-closing-market-cap"
+        },
+        {
+          "bucket": "250\u2013300B",
+          "range": "$250.0B - $300.0B",
+          "price": 0.01,
+          "model_prob": 0.05,
+          "ev": 0.04,
+          "overlaps": false,
+          "signal": "WATCH"
+        },
+        {
+          "bucket": "300\u2013350B",
+          "range": "$300.0B - $350.0B",
+          "price": 0.016,
+          "model_prob": 0.05,
+          "ev": 0.034,
+          "overlaps": false,
+          "signal": "WATCH"
+        },
+        {
+          "bucket": "350\u2013400B",
+          "range": "$350.0B - $400.0B",
+          "price": 0.0275,
+          "model_prob": 0.05,
+          "ev": 0.022500000000000003,
+          "overlaps": false,
+          "signal": "WATCH"
+        },
+        {
+          "bucket": "200\u2013250B",
+          "range": "$200.0B - $250.0B",
+          "price": 0.065,
+          "model_prob": 0.05,
+          "ev": -0.014999999999999993,
+          "overlaps": false,
+          "signal": "SKIP"
+        }
+      ],
+      "top_bets": [
+        {
+          "bucket": "<200B",
+          "range": "$0.0B - $200.0B",
+          "price": 0.008,
+          "model_prob": 0.1,
+          "ev": 0.09200000000000001,
+          "overlaps": true,
+          "signal": "BUY",
+          "project": "Fannie",
+          "slug": "fannie-mae-ipo-closing-market-cap"
+        }
+      ]
+    },
+    {
+      "slug": "freddie-mac-ipo-closing-market-cap",
+      "title": "Freddie Mac IPO Closing Market Cap",
+      "project": "Freddie",
+      "prediction": {
+        "project": "Freddie",
+        "predicted_fdv": 1500000000.0,
+        "low": 750000000.0,
+        "high": 3000000000.0,
+        "method": "sector_estimate",
+        "data": null
+      },
+      "opportunities": [
+        {
+          "bucket": "<150B",
+          "range": "$0.0B - $150.0B",
+          "price": 0.0025,
+          "model_prob": 0.1,
+          "ev": 0.0975,
+          "overlaps": true,
+          "signal": "BUY",
+          "project": "Freddie",
+          "slug": "freddie-mac-ipo-closing-market-cap"
+        },
+        {
+          "bucket": "150\u2013200B",
+          "range": "$150.0B - $200.0B",
+          "price": 0.003,
+          "model_prob": 0.05,
+          "ev": 0.04700000000000001,
+          "overlaps": false,
+          "signal": "WATCH"
+        },
+        {
+          "bucket": "250\u2013300B",
+          "range": "$250.0B - $300.0B",
+          "price": 0.003,
+          "model_prob": 0.05,
+          "ev": 0.04700000000000001,
+          "overlaps": false,
+          "signal": "WATCH"
+        },
+        {
+          "bucket": "200\u2013250B",
+          "range": "$200.0B - $250.0B",
+          "price": 0.004,
+          "model_prob": 0.05,
+          "ev": 0.046000000000000006,
+          "overlaps": false,
+          "signal": "WATCH"
+        }
+      ],
+      "top_bets": [
+        {
+          "bucket": "<150B",
+          "range": "$0.0B - $150.0B",
+          "price": 0.0025,
+          "model_prob": 0.1,
+          "ev": 0.0975,
+          "overlaps": true,
+          "signal": "BUY",
+          "project": "Freddie",
+          "slug": "freddie-mac-ipo-closing-market-cap"
+        }
+      ]
+    },
+    {
+      "slug": "databricks-ipo-closing-market-cap",
+      "title": "Databricks IPO Closing Market Cap",
+      "project": "Databricks",
+      "prediction": {
+        "project": "Databricks",
+        "predicted_fdv": 1500000000.0,
+        "low": 750000000.0,
+        "high": 3000000000.0,
+        "method": "sector_estimate",
+        "data": null
+      },
+      "opportunities": [
+        {
+          "bucket": "<100B",
+          "range": "$0.0B - $100.0B",
+          "price": 0.0075,
+          "model_prob": 0.1,
+          "ev": 0.0925,
+          "overlaps": true,
+          "signal": "BUY",
+          "project": "Databricks",
+          "slug": "databricks-ipo-closing-market-cap"
+        },
+        {
+          "bucket": "150\u2013175B",
+          "range": "$150.0B - $175.0B",
+          "price": 0.0135,
+          "model_prob": 0.05,
+          "ev": 0.036500000000000005,
+          "overlaps": false,
+          "signal": "WATCH"
+        },
+        {
+          "bucket": "200\u2013250B",
+          "range": "$200.0B - $250.0B",
+          "price": 0.018,
+          "model_prob": 0.05,
+          "ev": 0.03200000000000001,
+          "overlaps": false,
+          "signal": "WATCH"
+        },
+        {
+          "bucket": "175\u2013200B",
+          "range": "$175.0B - $200.0B",
+          "price": 0.0495,
+          "model_prob": 0.05,
+          "ev": 0.0005000000000000074,
+          "overlaps": false,
+          "signal": "WATCH"
+        },
+        {
+          "bucket": "125\u2013150B",
+          "range": "$125.0B - $150.0B",
+          "price": 0.056,
+          "model_prob": 0.05,
+          "ev": -0.005999999999999998,
+          "overlaps": false,
+          "signal": "SKIP"
+        },
+        {
+          "bucket": "100\u2013125B",
+          "range": "$100.0B - $125.0B",
+          "price": 0.0745,
+          "model_prob": 0.05,
+          "ev": -0.024499999999999987,
+          "overlaps": false,
+          "signal": "SKIP"
+        }
+      ],
+      "top_bets": [
+        {
+          "bucket": "<100B",
+          "range": "$0.0B - $100.0B",
+          "price": 0.0075,
+          "model_prob": 0.1,
+          "ev": 0.0925,
+          "overlaps": true,
+          "signal": "BUY",
+          "project": "Databricks",
+          "slug": "databricks-ipo-closing-market-cap"
+        }
+      ]
+    },
+    {
+      "slug": "stripe-ipo-closing-market-cap",
+      "title": "Stripe IPO Closing Market Cap",
+      "project": "Stripe",
+      "prediction": {
+        "project": "Stripe",
+        "predicted_fdv": 1500000000.0,
+        "low": 750000000.0,
+        "high": 3000000000.0,
+        "method": "sector_estimate",
+        "data": null
+      },
+      "opportunities": [
+        {
+          "bucket": "<80B",
+          "range": "$0.0B - $80.0B",
+          "price": 0.032,
+          "model_prob": 0.1,
+          "ev": 0.06799999999999999,
+          "overlaps": true,
+          "signal": "BUY",
+          "project": "Stripe",
+          "slug": "stripe-ipo-closing-market-cap"
+        },
+        {
+          "bucket": "100\u2013120B",
+          "range": "$100.0B - $120.0B",
+          "price": 0.004,
+          "model_prob": 0.05,
+          "ev": 0.046000000000000006,
+          "overlaps": false,
+          "signal": "WATCH"
+        },
+        {
+          "bucket": "120\u2013140B",
+          "range": "$120.0B - $140.0B",
+          "price": 0.004,
+          "model_prob": 0.05,
+          "ev": 0.046000000000000006,
+          "overlaps": false,
+          "signal": "WATCH"
+        },
+        {
+          "bucket": "80\u2013100B",
+          "range": "$80.0B - $100.0B",
+          "price": 0.024,
+          "model_prob": 0.05,
+          "ev": 0.026000000000000002,
+          "overlaps": false,
+          "signal": "WATCH"
+        }
+      ],
+      "top_bets": [
+        {
+          "bucket": "<80B",
+          "range": "$0.0B - $80.0B",
+          "price": 0.032,
+          "model_prob": 0.1,
+          "ev": 0.06799999999999999,
+          "overlaps": true,
+          "signal": "BUY",
+          "project": "Stripe",
+          "slug": "stripe-ipo-closing-market-cap"
+        }
+      ]
+    },
+    {
+      "slug": "discord-ipo-closing-market-cap",
+      "title": "Discord IPO Closing Market Cap",
+      "project": "Discord",
+      "prediction": {
+        "project": "Discord",
+        "predicted_fdv": 1500000000.0,
+        "low": 750000000.0,
+        "high": 3000000000.0,
+        "method": "sector_estimate",
+        "data": null
+      },
+      "opportunities": [
+        {
+          "bucket": "25\u201330B",
+          "range": "$25.0B - $30.0B",
+          "price": 0.095,
+          "model_prob": 0.05,
+          "ev": -0.04499999999999999,
+          "overlaps": false,
+          "signal": "SKIP"
+        },
+        {
+          "bucket": "20\u201325B",
+          "range": "$20.0B - $25.0B",
+          "price": 0.115,
+          "model_prob": 0.05,
+          "ev": -0.065,
+          "overlaps": false,
+          "signal": "SKIP"
+        },
+        {
+          "bucket": "15\u201320B",
+          "range": "$15.0B - $20.0B",
+          "price": 0.2415,
+          "model_prob": 0.05,
+          "ev": -0.1915,
+          "overlaps": false,
+          "signal": "SKIP"
+        },
+        {
+          "bucket": "<15B",
+          "range": "$0.0B - $15.0B",
+          "price": 0.35,
+          "model_prob": 0.1,
+          "ev": -0.25,
+          "overlaps": true,
+          "signal": "SKIP"
+        }
+      ],
+      "top_bets": []
+    },
+    {
+      "slug": "anthropic-ipo-closing-market-cap",
+      "title": "Anthropic IPO Closing Market Cap",
+      "project": "Anthropic",
+      "prediction": {
+        "project": "Anthropic",
+        "predicted_fdv": 1500000000.0,
+        "low": 750000000.0,
+        "high": 3000000000.0,
+        "method": "sector_estimate",
+        "data": null
+      },
+      "opportunities": [
+        {
+          "bucket": "<100B",
+          "range": "$0.0B - $100.0B",
+          "price": 0.028,
+          "model_prob": 0.1,
+          "ev": 0.07200000000000001,
+          "overlaps": true,
+          "signal": "BUY",
+          "project": "Anthropic",
+          "slug": "anthropic-ipo-closing-market-cap"
+        },
+        {
+          "bucket": "300\u2013400B",
+          "range": "$300.0B - $400.0B",
+          "price": 0.0105,
+          "model_prob": 0.05,
+          "ev": 0.03950000000000001,
+          "overlaps": false,
+          "signal": "WATCH"
+        },
+        {
+          "bucket": "200\u2013300B",
+          "range": "$200.0B - $300.0B",
+          "price": 0.015,
+          "model_prob": 0.05,
+          "ev": 0.035,
+          "overlaps": false,
+          "signal": "WATCH"
+        },
+        {
+          "bucket": "400\u2013600B",
+          "range": "$400.0B - $600.0B",
+          "price": 0.019,
+          "model_prob": 0.05,
+          "ev": 0.031000000000000003,
+          "overlaps": false,
+          "signal": "WATCH"
+        },
+        {
+          "bucket": "100\u2013200B",
+          "range": "$100.0B - $200.0B",
+          "price": 0.043,
+          "model_prob": 0.05,
+          "ev": 0.007000000000000006,
+          "overlaps": false,
+          "signal": "WATCH"
+        }
+      ],
+      "top_bets": [
+        {
+          "bucket": "<100B",
+          "range": "$0.0B - $100.0B",
+          "price": 0.028,
+          "model_prob": 0.1,
+          "ev": 0.07200000000000001,
+          "overlaps": true,
+          "signal": "BUY",
+          "project": "Anthropic",
+          "slug": "anthropic-ipo-closing-market-cap"
+        }
+      ]
+    }
+  ]
+}

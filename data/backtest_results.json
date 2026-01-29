@@ -1,0 +1,46 @@
+{
+  "run_at": "2026-01-24T15:53:56.196911",
+  "summary": {
+    "total_events": 3,
+    "exact_match_rate": 0.3333333333333333,
+    "adjacent_rate": 0.6666666666666666,
+    "in_range_rate": 1.0,
+    "total_profit": 61.498257839721305,
+    "avg_roi": 0.20499419279907102
+  },
+  "results": [
+    {
+      "token": "safe",
+      "actual_fdv": 1000000000.0,
+      "predicted_fdv": 1500000000.0,
+      "exact_match": true,
+      "distance": 0,
+      "adjacent": false,
+      "in_range": true,
+      "profit": 78.57142857142858,
+      "roi": 0.7857142857142858
+    },
+    {
+      "token": "ethena",
+      "actual_fdv": 14000000000.0,
+      "predicted_fdv": 10000000000.0,
+      "exact_match": false,
+      "distance": null,
+      "adjacent": false,
+      "in_range": true,
+      "profit": -100.0,
+      "roi": -1.0
+    },
+    {
+      "token": "eigenlayer",
+      "actual_fdv": 11600000000.0,
+      "predicted_fdv": 15000000000.0,
+      "exact_match": false,
+      "distance": 1,
+      "adjacent": true,
+      "in_range": true,
+      "profit": 82.92682926829272,
+      "roi": 0.8292682926829272
+    }
+  ]
+}

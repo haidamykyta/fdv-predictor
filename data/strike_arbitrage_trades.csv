@@ -1,0 +1,17 @@
+event,token,bucket,entry_price,exit_mode,exit_price,cost,pnl,roi,corridor_hit
+safe-market-cap-fdv,SAFE,$4-5B,0.01,EXPIRY_LOSS,0.0,0.5,-0.5,-1.0,False
+safe-market-cap-fdv,SAFE,$3-4B,0.17276100654459597,EXPIRY_LOSS,0.0,8.638050327229799,-8.638050327229799,-1.0,False
+ethena-fdv,Ethena,$5-7.5B,0.01,EXPIRY_LOSS,0.0,0.5,-0.5,-1.0,False
+ethena-fdv,Ethena,$12.5-15B,0.01,CORRIDOR_WIN,1.0,0.5,4950.0,9900.0,True
+eigenlayer-fdv,EigenLayer,$25-30B,0.01,EXPIRY_LOSS,0.0,0.5,-0.5,-1.0,False
+eigenlayer-fdv,EigenLayer,$30-35B,0.07620216485598758,EXPIRY_LOSS,0.0,3.810108242799379,-3.810108242799379,-1.0,False
+friendtech-fdv,FriendTech,$1-2B,0.01,EXPIRY_LOSS,0.0,0.5,-0.5,-1.0,False
+friendtech-fdv,FriendTech,$5-10B,0.01,EXPIRY_LOSS,0.0,0.5,-0.5,-1.0,False
+zksync-fdv-sim,zkSync,$2-3B,0.048290101936449795,EXPIRY_LOSS,0.0,2.4145050968224897,-2.4145050968224897,-1.0,False
+zksync-fdv-sim,zkSync,<$1B,0.1350517078589289,EXPIRY_LOSS,0.0,6.752585392946445,-6.752585392946445,-1.0,False
+starknet-fdv-sim,Starknet,$10-15B,0.01,EXPIRY_LOSS,0.0,0.5,-0.5,-1.0,False
+starknet-fdv-sim,Starknet,$20-30B,0.07053825319265192,EXPIRY_LOSS,0.0,3.526912659632596,-3.526912659632596,-1.0,False
+layerzero-fdv-sim,LayerZero,$8-10B,0.05772466338231784,EXPIRY_LOSS,0.0,2.886233169115892,-2.886233169115892,-1.0,False
+layerzero-fdv-sim,LayerZero,$4-6B,0.09047011707462835,EXPIRY_LOSS,0.0,4.523505853731417,-4.523505853731417,-1.0,False
+celestia-fdv-sim,Celestia,$6-8B,0.01,EXPIRY_LOSS,0.0,0.5,-0.5,-1.0,False
+celestia-fdv-sim,Celestia,$8-10B,0.04238931998585598,EXPIRY_LOSS,0.0,2.119465999292799,-2.119465999292799,-1.0,False

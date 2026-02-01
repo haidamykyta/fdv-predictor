@@ -1,0 +1,1266 @@
+{
+  "created_at": "2026-02-01T23:32:00.664063",
+  "event_count": 30,
+  "events": [
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "category": "L1",
+      "current_fdv": 12985427096.29,
+      "current_fdv_billions": 12.985427096290001,
+      "buckets": [
+        {
+          "label": "<$5B",
+          "low": 0,
+          "high": 5000000000.0
+        },
+        {
+          "label": "$5-10B",
+          "low": 5000000000.0,
+          "high": 10000000000.0
+        },
+        {
+          "label": "$10-15B",
+          "low": 10000000000.0,
+          "high": 15000000000.0
+        },
+        {
+          "label": "$15-20B",
+          "low": 15000000000.0,
+          "high": 20000000000.0
+        },
+        {
+          "label": "$20-30B",
+          "low": 20000000000.0,
+          "high": 30000000000.0
+        },
+        {
+          "label": ">$30B",
+          "low": 30000000000.0,
+          "high": null
+        }
+      ],
+      "current_bucket": 2,
+      "rank": 10,
+      "fdv_mcap_ratio": 1.2482495910094824
+    },
+    {
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "category": "Infra",
+      "current_fdv": 9750000000,
+      "current_fdv_billions": 9.75,
+      "buckets": [
+        {
+          "label": "<$2B",
+          "low": 0,
+          "high": 2000000000.0
+        },
+        {
+          "label": "$2-4B",
+          "low": 2000000000.0,
+          "high": 4000000000.0
+        },
+        {
+          "label": "$4-6B",
+          "low": 4000000000.0,
+          "high": 6000000000.0
+        },
+        {
+          "label": "$6-8B",
+          "low": 6000000000.0,
+          "high": 8000000000.0
+        },
+        {
+          "label": "$8-10B",
+          "low": 8000000000.0,
+          "high": 10000000000.0
+        },
+        {
+          "label": ">$10B",
+          "low": 10000000000.0,
+          "high": null
+        }
+      ],
+      "current_bucket": 4,
+      "rank": 16,
+      "fdv_mcap_ratio": 1.4122299699592382
+    },
+    {
+      "symbol": "AVAX",
+      "name": "Avalanche",
+      "category": "L1",
+      "current_fdv": 4623960501.34,
+      "current_fdv_billions": 4.62396050134,
+      "buckets": [
+        {
+          "label": "<$2B",
+          "low": 0,
+          "high": 2000000000.0
+        },
+        {
+          "label": "$2-4B",
+          "low": 2000000000.0,
+          "high": 4000000000.0
+        },
+        {
+          "label": "$4-6B",
+          "low": 4000000000.0,
+          "high": 6000000000.0
+        },
+        {
+          "label": "$6-8B",
+          "low": 6000000000.0,
+          "high": 8000000000.0
+        },
+        {
+          "label": "$8-10B",
+          "low": 8000000000.0,
+          "high": 10000000000.0
+        },
+        {
+          "label": ">$10B",
+          "low": 10000000000.0,
+          "high": null
+        }
+      ],
+      "current_bucket": 2,
+      "rank": 24,
+      "fdv_mcap_ratio": 1.073366932022143
+    },
+    {
+      "symbol": "SUI",
+      "name": "Sui",
+      "category": "L1",
+      "current_fdv": 11110000000,
+      "current_fdv_billions": 11.11,
+      "buckets": [
+        {
+          "label": "<$5B",
+          "low": 0,
+          "high": 5000000000.0
+        },
+        {
+          "label": "$5-10B",
+          "low": 5000000000.0,
+          "high": 10000000000.0
+        },
+        {
+          "label": "$10-15B",
+          "low": 10000000000.0,
+          "high": 15000000000.0
+        },
+        {
+          "label": "$15-20B",
+          "low": 15000000000.0,
+          "high": 20000000000.0
+        },
+        {
+          "label": "$20-30B",
+          "low": 20000000000.0,
+          "high": 30000000000.0
+        },
+        {
+          "label": ">$30B",
+          "low": 30000000000.0,
+          "high": null
+        }
+      ],
+      "current_bucket": 2,
+      "rank": 25,
+      "fdv_mcap_ratio": 2.5999873715215363
+    },
+    {
+      "symbol": "HBAR",
+      "name": "Hedera",
+      "category": "L1",
+      "current_fdv": 4477000000,
+      "current_fdv_billions": 4.477,
+      "buckets": [
+        {
+          "label": "<$2B",
+          "low": 0,
+          "high": 2000000000.0
+        },
+        {
+          "label": "$2-4B",
+          "low": 2000000000.0,
+          "high": 4000000000.0
+        },
+        {
+          "label": "$4-6B",
+          "low": 4000000000.0,
+          "high": 6000000000.0
+        },
+        {
+          "label": "$6-8B",
+          "low": 6000000000.0,
+          "high": 8000000000.0
+        },
+        {
+          "label": "$8-10B",
+          "low": 8000000000.0,
+          "high": 10000000000.0
+        },
+        {
+          "label": ">$10B",
+          "low": 10000000000.0,
+          "high": null
+        }
+      ],
+      "current_bucket": 2,
+      "rank": 27,
+      "fdv_mcap_ratio": 1.1627058289940209
+    },
+    {
+      "symbol": "TON",
+      "name": "Toncoin",
+      "category": "L1",
+      "current_fdv": 6904953225.29,
+      "current_fdv_billions": 6.90495322529,
+      "buckets": [
+        {
+          "label": "<$2B",
+          "low": 0,
+          "high": 2000000000.0
+        },
+        {
+          "label": "$2-4B",
+          "low": 2000000000.0,
+          "high": 4000000000.0
+        },
+        {
+          "label": "$4-6B",
+          "low": 4000000000.0,
+          "high": 6000000000.0
+        },
+        {
+          "label": "$6-8B",
+          "low": 6000000000.0,
+          "high": 8000000000.0
+        },
+        {
+          "label": "$8-10B",
+          "low": 8000000000.0,
+          "high": 10000000000.0
+        },
+        {
+          "label": ">$10B",
+          "low": 10000000000.0,
+          "high": null
+        }
+      ],
+      "current_bucket": 3,
+      "rank": 30,
+      "fdv_mcap_ratio": 2.115089028601847
+    },
+    {
+      "symbol": "DOT",
+      "name": "Polkadot",
+      "category": "L1",
+      "current_fdv": 2491641533.78,
+      "current_fdv_billions": 2.49164153378,
+      "buckets": [
+        {
+          "label": "<$2B",
+          "low": 0,
+          "high": 2000000000.0
+        },
+        {
+          "label": "$2-4B",
+          "low": 2000000000.0,
+          "high": 4000000000.0
+        },
+        {
+          "label": "$4-6B",
+          "low": 4000000000.0,
+          "high": 6000000000.0
+        },
+        {
+          "label": "$6-8B",
+          "low": 6000000000.0,
+          "high": 8000000000.0
+        },
+        {
+          "label": "$8-10B",
+          "low": 8000000000.0,
+          "high": 10000000000.0
+        },
+        {
+          "label": ">$10B",
+          "low": 10000000000.0,
+          "high": null
+        }
+      ],
+      "current_bucket": 1,
+      "rank": 32,
+      "fdv_mcap_ratio": 1.0
+    },
+    {
+      "symbol": "UNI",
+      "name": "Uniswap",
+      "category": "DeFi",
+      "current_fdv": 3478733840.7,
+      "current_fdv_billions": 3.4787338407,
+      "buckets": [
+        {
+          "label": "<$2B",
+          "low": 0,
+          "high": 2000000000.0
+        },
+        {
+          "label": "$2-4B",
+          "low": 2000000000.0,
+          "high": 4000000000.0
+        },
+        {
+          "label": "$4-6B",
+          "low": 4000000000.0,
+          "high": 6000000000.0
+        },
+        {
+          "label": "$6-8B",
+          "low": 6000000000.0,
+          "high": 8000000000.0
+        },
+        {
+          "label": "$8-10B",
+          "low": 8000000000.0,
+          "high": 10000000000.0
+        },
+        {
+          "label": ">$10B",
+          "low": 10000000000.0,
+          "high": null
+        }
+      ],
+      "current_bucket": 1,
+      "rank": 33,
+      "fdv_mcap_ratio": 1.416926682909767
+    },
+    {
+      "symbol": "MNT",
+      "name": "Mantle",
+      "category": "L2",
+      "current_fdv": 4323669035.81,
+      "current_fdv_billions": 4.32366903581,
+      "buckets": [
+        {
+          "label": "<$2B",
+          "low": 0,
+          "high": 2000000000.0
+        },
+        {
+          "label": "$2-4B",
+          "low": 2000000000.0,
+          "high": 4000000000.0
+        },
+        {
+          "label": "$4-6B",
+          "low": 4000000000.0,
+          "high": 6000000000.0
+        },
+        {
+          "label": "$6-8B",
+          "low": 6000000000.0,
+          "high": 8000000000.0
+        },
+        {
+          "label": "$8-10B",
+          "low": 8000000000.0,
+          "high": 10000000000.0
+        },
+        {
+          "label": ">$10B",
+          "low": 10000000000.0,
+          "high": null
+        }
+      ],
+      "current_bucket": 2,
+      "rank": 36,
+      "fdv_mcap_ratio": 1.9119040132623768
+    },
+    {
+      "symbol": "AAVE",
+      "name": "Aave",
+      "category": "DeFi",
+      "current_fdv": 2024960000,
+      "current_fdv_billions": 2.02496,
+      "buckets": [
+        {
+          "label": "<$2B",
+          "low": 0,
+          "high": 2000000000.0
+        },
+        {
+          "label": "$2-4B",
+          "low": 2000000000.0,
+          "high": 4000000000.0
+        },
+        {
+          "label": "$4-6B",
+          "low": 4000000000.0,
+          "high": 6000000000.0
+        },
+        {
+          "label": "$6-8B",
+          "low": 6000000000.0,
+          "high": 8000000000.0
+        },
+        {
+          "label": "$8-10B",
+          "low": 8000000000.0,
+          "high": 10000000000.0
+        },
+        {
+          "label": ">$10B",
+          "low": 10000000000.0,
+          "high": null
+        }
+      ],
+      "current_bucket": 1,
+      "rank": 39,
+      "fdv_mcap_ratio": 1.0442191422161164
+    },
+    {
+      "symbol": "TAO",
+      "name": "Bittensor",
+      "category": "Infra",
+      "current_fdv": 3982440000,
+      "current_fdv_billions": 3.98244,
+      "buckets": [
+        {
+          "label": "<$2B",
+          "low": 0,
+          "high": 2000000000.0
+        },
+        {
+          "label": "$2-4B",
+          "low": 2000000000.0,
+          "high": 4000000000.0
+        },
+        {
+          "label": "$4-6B",
+          "low": 4000000000.0,
+          "high": 6000000000.0
+        },
+        {
+          "label": "$6-8B",
+          "low": 6000000000.0,
+          "high": 8000000000.0
+        },
+        {
+          "label": "$8-10B",
+          "low": 8000000000.0,
+          "high": 10000000000.0
+        },
+        {
+          "label": ">$10B",
+          "low": 10000000000.0,
+          "high": null
+        }
+      ],
+      "current_bucket": 1,
+      "rank": 41,
+      "fdv_mcap_ratio": 2.188071861698021
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR Protocol",
+      "category": "L1",
+      "current_fdv": 1501552731.19,
+      "current_fdv_billions": 1.50155273119,
+      "buckets": [
+        {
+          "label": "<$500M",
+          "low": 0,
+          "high": 500000000.0
+        },
+        {
+          "label": "$500M-1B",
+          "low": 500000000.0,
+          "high": 1000000000.0
+        },
+        {
+          "label": "$1-2B",
+          "low": 1000000000.0,
+          "high": 2000000000.0
+        },
+        {
+          "label": "$2-3B",
+          "low": 2000000000.0,
+          "high": 3000000000.0
+        },
+        {
+          "label": "$3-5B",
+          "low": 3000000000.0,
+          "high": 5000000000.0
+        },
+        {
+          "label": ">$5B",
+          "low": 5000000000.0,
+          "high": null
+        }
+      ],
+      "current_bucket": 2,
+      "rank": 45,
+      "fdv_mcap_ratio": 1.000000009323682
+    },
+    {
+      "symbol": "ICP",
+      "name": "Internet Computer",
+      "category": "L1",
+      "current_fdv": 1447680593.8,
+      "current_fdv_billions": 1.4476805938,
+      "buckets": [
+        {
+          "label": "<$500M",
+          "low": 0,
+          "high": 500000000.0
+        },
+        {
+          "label": "$500M-1B",
+          "low": 500000000.0,
+          "high": 1000000000.0
+        },
+        {
+          "label": "$1-2B",
+          "low": 1000000000.0,
+          "high": 2000000000.0
+        },
+        {
+          "label": "$2-3B",
+          "low": 2000000000.0,
+          "high": 3000000000.0
+        },
+        {
+          "label": "$3-5B",
+          "low": 3000000000.0,
+          "high": 5000000000.0
+        },
+        {
+          "label": ">$5B",
+          "low": 5000000000.0,
+          "high": null
+        }
+      ],
+      "current_bucket": 2,
+      "rank": 48,
+      "fdv_mcap_ratio": 1.0
+    },
+    {
+      "symbol": "WLD",
+      "name": "World",
+      "category": "Infra",
+      "current_fdv": 3931000000,
+      "current_fdv_billions": 3.931,
+      "buckets": [
+        {
+          "label": "<$2B",
+          "low": 0,
+          "high": 2000000000.0
+        },
+        {
+          "label": "$2-4B",
+          "low": 2000000000.0,
+          "high": 4000000000.0
+        },
+        {
+          "label": "$4-6B",
+          "low": 4000000000.0,
+          "high": 6000000000.0
+        },
+        {
+          "label": "$6-8B",
+          "low": 6000000000.0,
+          "high": 8000000000.0
+        },
+        {
+          "label": "$8-10B",
+          "low": 8000000000.0,
+          "high": 10000000000.0
+        },
+        {
+          "label": ">$10B",
+          "low": 10000000000.0,
+          "high": null
+        }
+      ],
+      "current_bucket": 1,
+      "rank": 55,
+      "fdv_mcap_ratio": 3.591968268989598
+    },
+    {
+      "symbol": "APT",
+      "name": "Aptos",
+      "category": "L1",
+      "current_fdv": 1486114339.37,
+      "current_fdv_billions": 1.4861143393699998,
+      "buckets": [
+        {
+          "label": "<$500M",
+          "low": 0,
+          "high": 500000000.0
+        },
+        {
+          "label": "$500M-1B",
+          "low": 500000000.0,
+          "high": 1000000000.0
+        },
+        {
+          "label": "$1-2B",
+          "low": 1000000000.0,
+          "high": 2000000000.0
+        },
+        {
+          "label": "$2-3B",
+          "low": 2000000000.0,
+          "high": 3000000000.0
+        },
+        {
+          "label": "$3-5B",
+          "low": 3000000000.0,
+          "high": 5000000000.0
+        },
+        {
+          "label": ">$5B",
+          "low": 5000000000.0,
+          "high": null
+        }
+      ],
+      "current_bucket": 2,
+      "rank": 60,
+      "fdv_mcap_ratio": 1.5601599033846707
+    },
+    {
+      "symbol": "ATOM",
+      "name": "Cosmos Hub",
+      "category": "L1",
+      "current_fdv": 943348928.6,
+      "current_fdv_billions": 0.9433489286,
+      "buckets": [
+        {
+          "label": "<$500M",
+          "low": 0,
+          "high": 500000000.0
+        },
+        {
+          "label": "$500M-1B",
+          "low": 500000000.0,
+          "high": 1000000000.0
+        },
+        {
+          "label": "$1-2B",
+          "low": 1000000000.0,
+          "high": 2000000000.0
+        },
+        {
+          "label": "$2-3B",
+          "low": 2000000000.0,
+          "high": 3000000000.0
+        },
+        {
+          "label": "$3-5B",
+          "low": 3000000000.0,
+          "high": 5000000000.0
+        },
+        {
+          "label": ">$5B",
+          "low": 5000000000.0,
+          "high": null
+        }
+      ],
+      "current_bucket": 1,
+      "rank": 61,
+      "fdv_mcap_ratio": 1.0
+    },
+    {
+      "symbol": "ALGO",
+      "name": "Algorand",
+      "category": "L1",
+      "current_fdv": 1014000000,
+      "current_fdv_billions": 1.014,
+      "buckets": [
+        {
+          "label": "<$500M",
+          "low": 0,
+          "high": 500000000.0
+        },
+        {
+          "label": "$500M-1B",
+          "low": 500000000.0,
+          "high": 1000000000.0
+        },
+        {
+          "label": "$1-2B",
+          "low": 1000000000.0,
+          "high": 2000000000.0
+        },
+        {
+          "label": "$2-3B",
+          "low": 2000000000.0,
+          "high": 3000000000.0
+        },
+        {
+          "label": "$3-5B",
+          "low": 3000000000.0,
+          "high": 5000000000.0
+        },
+        {
+          "label": ">$5B",
+          "low": 5000000000.0,
+          "high": null
+        }
+      ],
+      "current_bucket": 2,
+      "rank": 64,
+      "fdv_mcap_ratio": 1.127580041003829
+    },
+    {
+      "symbol": "KAS",
+      "name": "Kaspa",
+      "category": "L1",
+      "current_fdv": 841620090.66,
+      "current_fdv_billions": 0.84162009066,
+      "buckets": [
+        {
+          "label": "<$500M",
+          "low": 0,
+          "high": 500000000.0
+        },
+        {
+          "label": "$500M-1B",
+          "low": 500000000.0,
+          "high": 1000000000.0
+        },
+        {
+          "label": "$1-2B",
+          "low": 1000000000.0,
+          "high": 2000000000.0
+        },
+        {
+          "label": "$2-3B",
+          "low": 2000000000.0,
+          "high": 3000000000.0
+        },
+        {
+          "label": "$3-5B",
+          "low": 3000000000.0,
+          "high": 5000000000.0
+        },
+        {
+          "label": ">$5B",
+          "low": 5000000000.0,
+          "high": null
+        }
+      ],
+      "current_bucket": 1,
+      "rank": 66,
+      "fdv_mcap_ratio": 1.0
+    },
+    {
+      "symbol": "ARB",
+      "name": "Arbitrum",
+      "category": "L2",
+      "current_fdv": 1425000000,
+      "current_fdv_billions": 1.425,
+      "buckets": [
+        {
+          "label": "<$500M",
+          "low": 0,
+          "high": 500000000.0
+        },
+        {
+          "label": "$500M-1B",
+          "low": 500000000.0,
+          "high": 1000000000.0
+        },
+        {
+          "label": "$1-2B",
+          "low": 1000000000.0,
+          "high": 2000000000.0
+        },
+        {
+          "label": "$2-3B",
+          "low": 2000000000.0,
+          "high": 3000000000.0
+        },
+        {
+          "label": "$3-5B",
+          "low": 3000000000.0,
+          "high": 5000000000.0
+        },
+        {
+          "label": ">$5B",
+          "low": 5000000000.0,
+          "high": null
+        }
+      ],
+      "current_bucket": 2,
+      "rank": 68,
+      "fdv_mcap_ratio": 1.7162122719133377
+    },
+    {
+      "symbol": "RENDER",
+      "name": "Render",
+      "category": "Infra",
+      "current_fdv": 803946653.65,
+      "current_fdv_billions": 0.80394665365,
+      "buckets": [
+        {
+          "label": "<$500M",
+          "low": 0,
+          "high": 500000000.0
+        },
+        {
+          "label": "$500M-1B",
+          "low": 500000000.0,
+          "high": 1000000000.0
+        },
+        {
+          "label": "$1-2B",
+          "low": 1000000000.0,
+          "high": 2000000000.0
+        },
+        {
+          "label": "$2-3B",
+          "low": 2000000000.0,
+          "high": 3000000000.0
+        },
+        {
+          "label": "$3-5B",
+          "low": 3000000000.0,
+          "high": 5000000000.0
+        },
+        {
+          "label": ">$5B",
+          "low": 5000000000.0,
+          "high": null
+        }
+      ],
+      "current_bucket": 1,
+      "rank": 71,
+      "fdv_mcap_ratio": 1.0284552817076402
+    },
+    {
+      "symbol": "FIL",
+      "name": "Filecoin",
+      "category": "Infra",
+      "current_fdv": 2054315341.2,
+      "current_fdv_billions": 2.0543153412,
+      "buckets": [
+        {
+          "label": "<$2B",
+          "low": 0,
+          "high": 2000000000.0
+        },
+        {
+          "label": "$2-4B",
+          "low": 2000000000.0,
+          "high": 4000000000.0
+        },
+        {
+          "label": "$4-6B",
+          "low": 4000000000.0,
+          "high": 6000000000.0
+        },
+        {
+          "label": "$6-8B",
+          "low": 6000000000.0,
+          "high": 8000000000.0
+        },
+        {
+          "label": "$8-10B",
+          "low": 8000000000.0,
+          "high": 10000000000.0
+        },
+        {
+          "label": ">$10B",
+          "low": 10000000000.0,
+          "high": null
+        }
+      ],
+      "current_bucket": 1,
+      "rank": 72,
+      "fdv_mcap_ratio": 2.6317514695501716
+    },
+    {
+      "symbol": "JUP",
+      "name": "Jupiter",
+      "category": "DeFi",
+      "current_fdv": 1198451399.34,
+      "current_fdv_billions": 1.19845139934,
+      "buckets": [
+        {
+          "label": "<$500M",
+          "low": 0,
+          "high": 500000000.0
+        },
+        {
+          "label": "$500M-1B",
+          "low": 500000000.0,
+          "high": 1000000000.0
+        },
+        {
+          "label": "$1-2B",
+          "low": 1000000000.0,
+          "high": 2000000000.0
+        },
+        {
+          "label": "$2-3B",
+          "low": 2000000000.0,
+          "high": 3000000000.0
+        },
+        {
+          "label": "$3-5B",
+          "low": 3000000000.0,
+          "high": 5000000000.0
+        },
+        {
+          "label": ">$5B",
+          "low": 5000000000.0,
+          "high": null
+        }
+      ],
+      "current_bucket": 2,
+      "rank": 79,
+      "fdv_mcap_ratio": 2.115971896122175
+    },
+    {
+      "symbol": "SEI",
+      "name": "Sei",
+      "category": "L1",
+      "current_fdv": 847000000,
+      "current_fdv_billions": 0.847,
+      "buckets": [
+        {
+          "label": "<$500M",
+          "low": 0,
+          "high": 500000000.0
+        },
+        {
+          "label": "$500M-1B",
+          "low": 500000000.0,
+          "high": 1000000000.0
+        },
+        {
+          "label": "$1-2B",
+          "low": 1000000000.0,
+          "high": 2000000000.0
+        },
+        {
+          "label": "$2-3B",
+          "low": 2000000000.0,
+          "high": 3000000000.0
+        },
+        {
+          "label": "$3-5B",
+          "low": 3000000000.0,
+          "high": 5000000000.0
+        },
+        {
+          "label": ">$5B",
+          "low": 5000000000.0,
+          "high": null
+        }
+      ],
+      "current_bucket": 1,
+      "rank": 80,
+      "fdv_mcap_ratio": 1.512350865460781
+    },
+    {
+      "symbol": "XTZ",
+      "name": "Tezos",
+      "category": "L1",
+      "current_fdv": 505368342.83,
+      "current_fdv_billions": 0.50536834283,
+      "buckets": [
+        {
+          "label": "<$500M",
+          "low": 0,
+          "high": 500000000.0
+        },
+        {
+          "label": "$500M-1B",
+          "low": 500000000.0,
+          "high": 1000000000.0
+        },
+        {
+          "label": "$1-2B",
+          "low": 1000000000.0,
+          "high": 2000000000.0
+        },
+        {
+          "label": "$2-3B",
+          "low": 2000000000.0,
+          "high": 3000000000.0
+        },
+        {
+          "label": "$3-5B",
+          "low": 3000000000.0,
+          "high": 5000000000.0
+        },
+        {
+          "label": ">$5B",
+          "low": 5000000000.0,
+          "high": null
+        }
+      ],
+      "current_bucket": 1,
+      "rank": 86,
+      "fdv_mcap_ratio": 1.0186773180777426
+    },
+    {
+      "symbol": "OP",
+      "name": "Optimism",
+      "category": "L2",
+      "current_fdv": 987842478.08,
+      "current_fdv_billions": 0.98784247808,
+      "buckets": [
+        {
+          "label": "<$500M",
+          "low": 0,
+          "high": 500000000.0
+        },
+        {
+          "label": "$500M-1B",
+          "low": 500000000.0,
+          "high": 1000000000.0
+        },
+        {
+          "label": "$1-2B",
+          "low": 1000000000.0,
+          "high": 2000000000.0
+        },
+        {
+          "label": "$2-3B",
+          "low": 2000000000.0,
+          "high": 3000000000.0
+        },
+        {
+          "label": "$3-5B",
+          "low": 3000000000.0,
+          "high": 5000000000.0
+        },
+        {
+          "label": ">$5B",
+          "low": 5000000000.0,
+          "high": null
+        }
+      ],
+      "current_bucket": 1,
+      "rank": 92,
+      "fdv_mcap_ratio": 2.209240199541802
+    },
+    {
+      "symbol": "CRV",
+      "name": "Curve DAO",
+      "category": "DeFi",
+      "current_fdv": 669097209.76,
+      "current_fdv_billions": 0.66909720976,
+      "buckets": [
+        {
+          "label": "<$500M",
+          "low": 0,
+          "high": 500000000.0
+        },
+        {
+          "label": "$500M-1B",
+          "low": 500000000.0,
+          "high": 1000000000.0
+        },
+        {
+          "label": "$1-2B",
+          "low": 1000000000.0,
+          "high": 2000000000.0
+        },
+        {
+          "label": "$2-3B",
+          "low": 2000000000.0,
+          "high": 3000000000.0
+        },
+        {
+          "label": "$3-5B",
+          "low": 3000000000.0,
+          "high": 5000000000.0
+        },
+        {
+          "label": ">$5B",
+          "low": 5000000000.0,
+          "high": null
+        }
+      ],
+      "current_bucket": 1,
+      "rank": 94,
+      "fdv_mcap_ratio": 1.6070792864585048
+    },
+    {
+      "symbol": "ZRO",
+      "name": "LayerZero",
+      "category": "Infra",
+      "current_fdv": 1728000000,
+      "current_fdv_billions": 1.728,
+      "buckets": [
+        {
+          "label": "<$500M",
+          "low": 0,
+          "high": 500000000.0
+        },
+        {
+          "label": "$500M-1B",
+          "low": 500000000.0,
+          "high": 1000000000.0
+        },
+        {
+          "label": "$1-2B",
+          "low": 1000000000.0,
+          "high": 2000000000.0
+        },
+        {
+          "label": "$2-3B",
+          "low": 2000000000.0,
+          "high": 3000000000.0
+        },
+        {
+          "label": "$3-5B",
+          "low": 3000000000.0,
+          "high": 5000000000.0
+        },
+        {
+          "label": ">$5B",
+          "low": 5000000000.0,
+          "high": null
+        }
+      ],
+      "current_bucket": 2,
+      "rank": 115,
+      "fdv_mcap_ratio": 4.9351270607837545
+    },
+    {
+      "symbol": "PYTH",
+      "name": "Pyth Network",
+      "category": "Infra",
+      "current_fdv": 512000000,
+      "current_fdv_billions": 0.512,
+      "buckets": [
+        {
+          "label": "<$500M",
+          "low": 0,
+          "high": 500000000.0
+        },
+        {
+          "label": "$500M-1B",
+          "low": 500000000.0,
+          "high": 1000000000.0
+        },
+        {
+          "label": "$1-2B",
+          "low": 1000000000.0,
+          "high": 2000000000.0
+        },
+        {
+          "label": "$2-3B",
+          "low": 2000000000.0,
+          "high": 3000000000.0
+        },
+        {
+          "label": "$3-5B",
+          "low": 3000000000.0,
+          "high": 5000000000.0
+        },
+        {
+          "label": ">$5B",
+          "low": 5000000000.0,
+          "high": null
+        }
+      ],
+      "current_bucket": 1,
+      "rank": 134,
+      "fdv_mcap_ratio": 1.739135729458463
+    },
+    {
+      "symbol": "STRK",
+      "name": "StarkNet",
+      "category": "L2",
+      "current_fdv": 549800000,
+      "current_fdv_billions": 0.5498,
+      "buckets": [
+        {
+          "label": "<$500M",
+          "low": 0,
+          "high": 500000000.0
+        },
+        {
+          "label": "$500M-1B",
+          "low": 500000000.0,
+          "high": 1000000000.0
+        },
+        {
+          "label": "$1-2B",
+          "low": 1000000000.0,
+          "high": 2000000000.0
+        },
+        {
+          "label": "$2-3B",
+          "low": 2000000000.0,
+          "high": 3000000000.0
+        },
+        {
+          "label": "$3-5B",
+          "low": 3000000000.0,
+          "high": 5000000000.0
+        },
+        {
+          "label": ">$5B",
+          "low": 5000000000.0,
+          "high": null
+        }
+      ],
+      "current_bucket": 1,
+      "rank": 136,
+      "fdv_mcap_ratio": 1.89237796517168
+    },
+    {
+      "symbol": "ZK",
+      "name": "ZKsync",
+      "category": "L2",
+      "current_fdv": 595140000,
+      "current_fdv_billions": 0.59514,
+      "buckets": [
+        {
+          "label": "<$500M",
+          "low": 0,
+          "high": 500000000.0
+        },
+        {
+          "label": "$500M-1B",
+          "low": 500000000.0,
+          "high": 1000000000.0
+        },
+        {
+          "label": "$1-2B",
+          "low": 1000000000.0,
+          "high": 2000000000.0
+        },
+        {
+          "label": "$2-3B",
+          "low": 2000000000.0,
+          "high": 3000000000.0
+        },
+        {
+          "label": "$3-5B",
+          "low": 3000000000.0,
+          "high": 5000000000.0
+        },
+        {
+          "label": ">$5B",
+          "low": 5000000000.0,
+          "high": null
+        }
+      ],
+      "current_bucket": 1,
+      "rank": 151,
+      "fdv_mcap_ratio": 2.3894171254258283
+    }
+  ]
+}

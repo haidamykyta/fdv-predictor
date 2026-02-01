@@ -34,6 +34,13 @@ import sys
 sys.path.insert(0, str(Path(__file__).parent))
 from risk_manager import RiskManager, RiskLimits, BankrollAllocation
 
+# Import Unlock Calendar (optional)
+try:
+    from token_unlock_calendar import TokenUnlockCalendar
+    UNLOCK_CALENDAR_AVAILABLE = True
+except ImportError:
+    UNLOCK_CALENDAR_AVAILABLE = False
+
 
 class StrategyType(Enum):
     REGULAR = "regular"
@@ -128,9 +135,52 @@ class CombinedStrategy:
         self,
         risk_manager: RiskManager = None,
         bankroll: float = 1000,
+        use_unlock_calendar: bool = True,
     ):
         self.risk_manager = risk_manager or RiskManager(bankroll=bankroll)
         self.trades: List[Dict] = []
+
+        # Initialize unlock calendar if available
+        self.unlock_calendar = None
+        if use_unlock_calendar and UNLOCK_CALENDAR_AVAILABLE:
+            try:
+                self.unlock_calendar = TokenUnlockCalendar()
+                self.unlock_calendar.load()
+            except:
+                pass
+
+    def get_unlock_adjustment(self, token_symbol: str) -> Tuple[float, str]:
+        """
+        Get position size adjustment based on upcoming unlocks.
+
+        Returns:
+            Tuple of (adjustment_multiplier, reason)
+            Multiplier < 1.0 means reduce position size
+        """
+        if not self.unlock_calendar:
+            return 1.0, "No unlock data"
+
+        signal = self.unlock_calendar.get_unlock_signal(token_symbol, days_lookahead=7)
+
+        if not signal.get('has_unlock'):
+            return 1.0, "No upcoming unlocks"
+
+        impact = signal.get('impact_score', 0)
+        days = signal.get('days_until', 30)
+
+        # Reduce size for high-impact unlocks
+        if impact >= 0.7:
+            multiplier = 0.5  # Reduce by 50%
+        elif impact >= 0.5:
+            multiplier = 0.75  # Reduce by 25%
+        else:
+            multiplier = 0.9  # Reduce by 10%
+
+        # Less reduction if unlock is further away
+        if days > 3:
+            multiplier = min(1.0, multiplier + 0.1)
+
+        return multiplier, signal.get('reason', '')
 
     def select_strategy(self, signal: MarketSignal) -> StrategyType:
         """Select optimal strategy based on market characteristics."""
